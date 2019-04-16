@@ -1,0 +1,1827 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//ES" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+<head>
+<title>Ver ¡Scooby-Doo! Y la maldición del fantasma número trece (2019) Online Latino HD - PelisPlay.tv</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="es" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="En PelisPlay.TV podrás Ver ¡Scooby-Doo! Y la maldición del fantasma número trece online en español latino Gratis. Entra y Disfruta de ¡Scooby-Doo! Y la maldición del fantasma número trece en hd completa y sin cortes.">
+<meta name="keywords" content="ver ¡Scooby-Doo! Y la maldición del fantasma número trece pelicula completa, ver ¡Scooby-Doo! Y la maldición del fantasma número trece gratis, ¡Scooby-Doo! Y la maldición del fantasma número trece online, ¡Scooby-Doo! Y la maldición del fantasma número trece en hd, ver ¡Scooby-Doo! Y la maldición del fantasma número trece español, ver ¡Scooby-Doo! Y la maldición del fantasma número trece latino, ¡Scooby-Doo! Y la maldición del fantasma número trece gratis, ver ¡Scooby-Doo! Y la maldición del fantasma número trece en hd completa, ver ¡Scooby-Doo! Y la maldición del fantasma número trece online en hd, ver ¡Scooby-Doo! Y la maldición del fantasma número trece online, ver ¡Scooby-Doo! Y la maldición del fantasma número trece online gratis en español, ver Scooby-Doo! and the Curse of the 13th Ghost online latino, ver Scooby-Doo! and the Curse of the 13th Ghost latino hd, Scooby-Doo! and the Curse of the 13th Ghost pelicula completa, ver Scooby-Doo! and the Curse of the 13th Ghost pelicula completa">
+<meta name="robots" content="index, follow" />
+<meta name="revisit" content="1 days" />
+<meta name="googlebot" content="index, follow" />
+<meta property="og:title" content="Ver ¡Scooby-Doo! Y la maldición del fantasma número trece (2019) Online Latino HD - PelisPlay.tv" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5caf0cc7079d8_nsxAP1F3qQ9C4c1C9hB7iTw8P1O.jpg" />
+<meta property="og:url" content="https://www.pelisplay.tv/pelicula/scooby-doo-y-la-maldicion-del-fantasma-numero-trece" />
+<meta property="og:description" content="En PelisPlay.TV podrás Ver ¡Scooby-Doo! Y la maldición del fantasma número trece online en español latino Gratis. Entra y Disfruta de ¡Scooby-Doo! Y la maldición del fantasma número trece en hd completa y sin cortes." />
+<meta property="og:locate" content="es_ES" />
+<link rel="canonical" href="https://www.pelisplay.tv/pelicula/scooby-doo-y-la-maldicion-del-fantasma-numero-trece" />
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" sizes="16x16" href="/static/img/favicon.png">
+<link rel="stylesheet" href="/static/css/bootstrap/bootstrap.min.css?v=23.01.2019.1.12">
+<link rel="stylesheet" href="/static/css/style.min.css?v=23.01.2019.1.12">
+<link rel="stylesheet" href="/static/css/responsive.min.css?v=23.01.2019.1.12">
+<link href="/static/css/font-awesome/css/font-awesome.min.css?v=23.01.2019.1.12" rel="stylesheet">
+<link href="/static/css/owl.carousel.min.css?v=23.01.2019.1.12" rel="stylesheet">
+<link href="/static/css/jquery.emojiarea.css?v=23.01.2019.1.12" rel="stylesheet">
+</head>
+<script>
+    window.laravel_token = "Prrm9ifqRKohwB8GPlfjyFltvCiRnYZEbXIbcSnE";
+    window.laravel_default_avatar = "/static/img/user.png";
+            window.laravel_login_check = false;
+    </script>
+<body>
+<header id="web_header" class="media" style="z-index: 11;">
+<div class="content">
+<div class="content-header row">
+<a href="#" class="scope-drawer col-xs-1 hidden-sm hidden-md hidden-lg">
+<i class="icon-navicon"></i>
+</a>
+<div class="content-search col-xs-5 col-sm-8 col-md-9">
+<form class="hidden-xs" action="https://www.pelisplay.tv/buscar" method="GET">
+<input class="hs-input" autocomplete="off" name="q" placeholder="Buscar en películas y series." type="text">
+<button type="submit" class="ico-search"></button>
+</form>
+</div>
+<div class="content-logo col-xs-6 col-sm-4 col-md-3">
+<a id="logo_contenedor" href="https://www.pelisplay.tv"><img src="/imagenes/pelisplay.png?v=1555316202"></a>
+<div id="login_header">
+<div class="profile-photo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<img class="img-photo-profile" src="/static/img/user.png">
+</div>
+<div class="user_logeado" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<i class="ico-down-arrow"></i>
+</div>
+<ul style="left: auto; right: 0px; border: 1px solid #2A2B2F" class="order-comment-toggle-list width-complet dropdown-menu" aria-labelledby="dropdownMenu1">
+<li><a id="header_login_boton" href="#" data-toggle="modal" data-target="#LoginRegistro"><i class="fa fa-sign-in"></i> Login</a></li>
+<li><a id="header_registro_boton" href="#" data-toggle="modal" data-target="#LoginRegistro"><i class="fa fa-user-plus"></i> Registro</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</header>
+<nav class="nav-content">
+<div class="content">
+<ul>
+<li class="col-xs-12 hidden-sm hidden-md hidden-lg">
+<form action="https://www.pelisplay.tv/buscar" method="GET">
+<input class="hs-input" name="q" autocomplete="off" placeholder="Buscar en películas y series." type="text">
+<button type="submit" class="ico-search"></button>
+</form>
+</li>
+<li><a href="https://www.pelisplay.tv"><i class="ico-nav ico-nav-home"></i><span>INICIO</span></a></li>
+<li><a href="https://www.pelisplay.tv/ver-peliculas" class=""><i class="ico-nav ico-nav-cine"></i><span>PELÍCULAS</span></a></li>
+<li><a href="https://www.pelisplay.tv/series" class=""><i class="ico-nav ico-nav-series"></i><span>SERIES</span></a></li>
+<li><a href="https://www.pelisplay.tv/animacion"><i class="ico-nav ico-nav-animes"></i><span>ANIMADOS</span></a></li>
+<li><a href="https://www.pelisplay.tv/estrenos"><i class="ico-nav ico-nav-tv"></i><span>ESTRENOS</span></a></li>
+<li><a href="https://www.pelisplay.tv/netflix"><i class="ico-nav ico-nav-aplicacion"></i><span>NETFLIX</span></a></li>
+</ul>
+</div>
+</nav>
+<div class="wrapper headerpaddingfix">
+<div class="movie-content">
+<img class="image-portada" src="/storage/imagenes/extras/1jTdxb3Jyq3XovVXdCB3NnAe7Vv.jpg">
+<input id="imagen_to_player" type="hidden" value="https://www.pelisplay.tv/storage/imagenes/extras/42LlduRyePcYQ5qo2kMr1qW1bv4.jpg">
+<div class="content row">
+<div class="poster col-xs-12 col-sm-3 col-md-3">
+<img class="imgentada" src="/storage/imagenes/posters/opt_img_5caf0cc7079d8_nsxAP1F3qQ9C4c1C9hB7iTw8P1O.jpg">
+<div class="seguir_entrada"><span class="seguir_btn seguir_endata" data-id="24718" data-tipo="pelicula">Seguir <i class="fas fa fa-plus" aria-hidden="true"></i></span></div>
+</div>
+<div class="movie-body col-xs-12 col-sm-9 col-md-9">
+<div class="header">
+<div class="title">
+<div class="name row">
+<h1 class="col-xs-12 col-sm-9 col-md-10">¡Scooby-Doo! Y la maldición del fantasma número trece (2019)</h1>
+<div class="social-network col-xs-12 col-sm-3 col-md-2" style="padding: 0;">
+<a href="javascript:;" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('https://www.pelisplay.tv/pelicula/scooby-doo-y-la-maldicion-del-fantasma-numero-trece'),'facebook-share-dialog','width=626,height=436'); return false;" class="icon-social-network icon-facebook"></a>
+<a href="javascript:;" onclick="javascript:window.open('https://twitter.com/share?text=Te recomiendo ver esta película: ¡Scooby-Doo! Y la maldición del fantasma número trece (2019)&amp;url='+encodeURIComponent('https://www.pelisplay.tv/pelicula/scooby-doo-y-la-maldicion-del-fantasma-numero-trece'),'Twitter-dialog','width=626,height=436'); return false;" class="icon-social-network icon-twitter"></a>
+<a href="javascript:;" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent('https://www.pelisplay.tv/pelicula/scooby-doo-y-la-maldicion-del-fantasma-numero-trece'),'Google-dialog','width=626,height=436'); return false;" class="icon-social-network icon-google-plus"></a>
+</div>
+</div>
+<h4>
+1h 22min
+<span class="border-separation"></span>
+<span class="classification">2019</span>
+</h4>
+</div>
+</div>
+<div class="body">
+<div class="options">
+<a href="#" class="active">OVERVIEW</a>
+</div>
+<div class="information row">
+<div class="info-content col-xs-12 col-sm-9">
+<div class="sinopsis m-b-3">Después de que los miembros de Misterios S.A. echasen a perder un caso al atrapar a un hombre inocente, se ven obligados a retirarse de las investigaciones criminales. Pero, al poco tiempo, su viejo amigo Vincent Van Ghoul necesita ayuda, así que consigue que el equipo vuelva a la acción. Todo comenzó un verano cuando Scooby-Doo, Shaggy y Daphne cazaron en secreto a 12 de los fantasmas más espeluznantes del mundo, aunque no pudieron pillar al más malvado de todos... al fantasma número 13. Con el 13º fantasma suelto, la pandilla tendrá que ver más allá de los secretos ocultos y resolver algunos asuntos pendientes.</div>
+<div class="questions m-b-3">
+<div class="list-star">
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="watch">
+<i class="icon-watch"></i>
+3,429 Visitas
+</div>
+<div class="like">
+<i class="icon-like"></i>
+2 Me gusta
+</div>
+<div class="comment">
+<i class="fas fa fa-comments"></i>
+1 Comentarios
+</div>
+</div>
+<div class="info-gratitude m-b-3">
+<div class="directed">
+<span>T&iacute;tulo original:</span>
+<span>Scooby-Doo! and the Curse of the 13th Ghost</span>
+</div>
+<div class="directed">
+<span>Director:</span>
+<span>Cecilia Aranovich</span>
+</div>
+<div class="credits">
+<span>Guión:</span>
+<span>Tim Sheridan</span>
+</div>
+</div>
+<div class="category">
+<a href="https://www.pelisplay.tv/ver-peliculas/animacion">Animación</a>
+<a href="https://www.pelisplay.tv/ver-peliculas/aventura">Aventura</a>
+<a href="https://www.pelisplay.tv/ver-peliculas/comedia">Comedia</a>
+<a href="https://www.pelisplay.tv/ver-peliculas/familia">Familia</a>
+<a href="https://www.pelisplay.tv/ver-peliculas/misterio">Misterio</a>
+</div>
+</div>
+<div class="punctuation hidden-xs col-sm-3">
+<div class="progress" data-percentage="80">
+<span class="progress-left">
+<span class="progress-bar"></span>
+</span>
+<span class="progress-right">
+<span class="progress-bar"></span>
+</span>
+<div class="progress-value">
+<div>
+7.8
+</div>
+</div>
+</div>
+</div>
+ </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-movie">
+<nav>
+<ul>
+<li class="btn_menu">
+<a href="#">
+<i class="fas fa fa-list-alt col-xs-12"></i>
+<span class="col-xs-12">Menú</span>
+</a>
+</li>
+<li class="btn_reproductor">
+<a href="#">
+<i class="fas fa fa-play-circle col-xs-12"></i>
+<span class="col-xs-12">Reproducir</span>
+</a>
+</li>
+<li class="btn_descarga">
+<a href="#">
+<i class="fas fa fa-download col-xs-12"></i>
+<span class="col-xs-12">Descargar</span>
+</a>
+</li>
+<li class="btn_galeria">
+<a href="#">
+<i class="fas fa fa-picture-o col-xs-12"></i>
+<span class="col-xs-12">Galería</span>
+</a>
+</li>
+<li class="btn_api">
+<a target="_blank" href="https://www.pelisplay.tv/api/pelicula/scooby-doo-y-la-maldicion-del-fantasma-numero-trece">
+<i class="fas fa fa-link col-xs-12"></i>
+<span class="col-xs-12">API</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<script type="text/javascript" src="https://tagbucket.cc/_tags/jstags.js?s=mx/pelisplay/72890"></script>
+<div class="movie-player">
+<div class="content">
+<div class="capa_principal cajaplayer cajamain">
+<a target="_blank" class="capa_principal_enlace" href="https://adsrv4k.com/ads?key=ae21be65b447953ce54a2e83bc55caae">
+<i class="ico-movie-player"></i>
+</a>
+<img class="main_fondo" src="/storage/imagenes/extras/1jTdxb3Jyq3XovVXdCB3NnAe7Vv.jpg">
+</div>
+<div class="capa_iframe cajaplayer" style="display: none;">
+</div>
+<div class="capa_menu cajaplayer cajamain" style="display: none;">
+<img class="main_fondo" src="/storage/imagenes/extras/42LlduRyePcYQ5qo2kMr1qW1bv4.jpg">
+<div class="CapaPlayerCentral">
+<div class="CapaPlayerCentralText">
+<p>Por favor, seleccione una opción:</p>
+</div>
+<div class="CapaPlayerCentralBoton reproducirbtn"><i class="fas fa fa-play"></i> Reproducir película</div>
+<div class="CapaPlayerCentralBoton galeriabtn"><i class="fas fa fa-picture-o"></i> Galeria de imagenes</div>
+<div class="CapaPlayerCentralBoton">
+<a target="_blank" href="https://www.pelisplay.tv/api/pelicula/scooby-doo-y-la-maldicion-del-fantasma-numero-trece">
+<i class="fas fa fa-link"></i> Web API</a>
+</div>
+</div>
+</div>
+<div class="capa_idioma_select_bad cajaplayer cajamain" style="display:none;">
+<div class="CapaPlayerCentral">
+<div class="CapaPlayerCentralText">
+<p>Este idioma no tiene reproductores disponibles...</p>
+</div>
+</div>
+</div>
+<div class="capa_idioma_select cajaplayer cajamain" style="display:none;">
+<img class="main_fondo" src="/storage/imagenes/extras/42LlduRyePcYQ5qo2kMr1qW1bv4.jpg">
+<div class="CapaPlayerCentral">
+<div class="CapaPlayerCentralText">
+<p><i class="fa fa-language" aria-hidden="true"></i> Por favor, seleccione un idioma:</p>
+<p data-lang="Todos" data-tipo="estatico" title="Idioma: Todos" class="select-idioma"><span class="idioma_span"><i class="fa fa-globe" aria-hidden="true"></i> Todos</span></p>
+<p data-lang="Latino" data-tipo="estatico" title="Idioma: Latino" class="select-idioma">
+<span class="idioma_span">
+<img src="/static/img/lat.png" title="Idioma Latino" alt="Idioma Latino">Latino
+</span>
+</p>
+<p data-lang="Castellano" data-tipo="estatico" title="Idioma: Castellano" class="select-idioma">
+<span class="idioma_span">
+<img src="/static/img/spain.png" title="Idioma Castellano" alt="Idioma Castellano">Castellano
+</span>
+</p>
+<p data-lang="Subtitulado" data-tipo="estatico" title="Idioma: Subtitulado" class="select-idioma">
+<span class="idioma_span">
+<img src="/static/img/sub.png" title="Idioma Subtitulado" alt="Idioma Subtitulado">Subtitulado
+</span>
+</p>
+<p data-lang="Original" data-tipo="estatico" title="Idioma: Original" class="select-idioma">
+<span class="idioma_span">
+<img src="/static/img/usa.png" title="Idioma Original" alt="Idioma Original">Original
+</span>
+</p>
+</div>
+</div>
+</div>
+<div class="capa_reproductor cajaplayer cajamain" style="display: none;">
+<div class="CapaPlayerCentralFix">
+<div class="CapaPlayerCentralText">
+<p>Por favor, seleccione un servidor online:</p>
+</div>
+<div id="lista_online" data-token="Prrm9ifqRKohwB8GPlfjyFltvCiRnYZEbXIbcSnE" class="table-responsive enlacestabla">
+<table class="table table-condensed" style="color:white;">
+<thead>
+<tr>
+<th class="hide767">#</th>
+<th>Servidor</th>
+<th>Calidad</th>
+<th>Idioma</th>
+<th class="hide450">Tipo</th>
+<th class="hide650">Agregado</th>
+<th><i class="fas fa fa-exclamation-circle"></i> <span class="hide600">Reportar</span></th>
+</tr>
+</thead>
+<tbody id="servidores_online">
+<tr data-lang="Publicidad">
+<th class="hide767">
+<img src="/static/img/star_option.png">
+</th>
+<td class="tdtitulo achicarfuente400"><a target="_blank" href="https://adsrv.me/ads?key=845d2dc720077216123348d26654a948" class="enlace_externo" style="background: #6cc820;">TazmaniaVIP</a></td>
+<td class="achicarfuente400">HD</td>
+<td class="achicarfuente400 txt_idioma">Latino</td>
+<td class="hide450">
+<button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+<tr data-lang="Castellano">
+<th class="hide767">
+<img src="/storage/imagenes/servidores/opt_UMEFMUBXfGg1EUSCNe3jpa5kc09idbIsCIE0klID.png">
+</th>
+<td class="tdtitulo achicarfuente400"><div data-embed="eyJpdiI6IjFWVUU4MTJcL290eVdwUHJsWGN4aTVnPT0iLCJ2YWx1ZSI6IkpEWEdHdUdQS3ZmQWczUkxaTFwvNFlRPT0iLCJtYWMiOiJlZTgyMmY5YzIzOWY4NTQ0NTRjZWM2YmQxYzczMDBlNWM3NmE3ODMxMDdmNzI5MDQzNjQ4MzFkYmVlODU1NjNlIn0=" data-player="eyJpdiI6ImdQZlo4cm04NUtxa1wvME5qcjZtNjJBPT0iLCJ2YWx1ZSI6IlRrejJzQmhOMVFCYytLd3ZCRGFGT3p1SXZaUnJqek5DcTJxTGk0d0t4dXgySTBrMDJUTG1jWWhxZkJlT3E1QUdCRzNsK0hCcEdsUCtpcVBubzRJMXEyUkhKeUxCcmVISXZXUXBuVXRUZU1PMWZzaTJYeDA3VWJ2bkl4NEp6ZTBsVXFYemNsOW9LbXpRYjV3OWxuQ3VmczB6TkhPeUFPM1dBK3hINW9UeWUzbytPSFdEd0F5cXN3M2lQZlFPRHNTenZQRGNSMWd2d0xOOVJqb3JWZU1cL1F5MlwvYzFLczhGckNKZGhyNVYwT0NBZz0iLCJtYWMiOiJkYTI4ZmE4ZWY0Njg1ZDA4Mjc0ZWE0NjIyZjhmMWUwZmQwMDM5Mzc1Njg3MmVhOTEyZTQ2YjhlYTFlMmRjMTEzIn0=" class="embedplayer embed_online" style="background: #00afef;">Zeus</div></td>
+<td class="achicarfuente400">HD 720p</td>
+<td class="achicarfuente400">Castellano</td>
+<td class="hide450">
+<button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs boton_reportar_enlace" data-id="789001" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+<tr data-lang="Castellano">
+<th class="hide767">
+<img src="/storage/imagenes/servidores/opt_v1DjZMN1fd8CT7nsg6expS9FzoT9CjIq1RmULOGV.png">
+</th>
+<td class="tdtitulo achicarfuente400"><div data-embed="eyJpdiI6IlAzaDlkUVRWT1g1SWRzd1lkUWpQUUE9PSIsInZhbHVlIjoibUhuenU1MG4xRzNtdDJwTzROXC9Cb2c9PSIsIm1hYyI6ImRiYWUxZDA5OTViZWE3MzRkMDUwZmNjZTE2MTEyZGJlNmY4MmUzMWE4NzU3MzdmMDQxMDliZjBiNjU0ODVlMjgifQ==" data-player="eyJpdiI6IldQWk9BMFJ3WkpTTTV0eERKcEhaUEE9PSIsInZhbHVlIjoiK2Z0RE05REIrQVMwcWdJdFgzSG1BeHlja1FvOGhUc0w0eGtEK1k1cU05djNYUG1kT3VTWUVPWW5EbW5vVmtxeUxETWZ1bHJJXC9TSVBGN1EwYm9JejJVK1FVMGpTTUphd3VneXdCZXdUUnpTamUybUVcL2RQczZJV2pJZnV5UVwveEI0S09pblA4T1ZYcTJGUjF1M29qSW9hTGV3WEk5QUU5Zm5MRlFWN0VRcFwvY3h1WXFhdFpFWHJQM2c2QmxQcTJtZlU0SEh5Y05RUkhNamowY215Tk02cUcyM2h2anpMZXFUVThmUDBWa3Z5dEV0UkNXTmpqTndVbHhEK3FjK0hKTTA3d0kwaE1tOHJZelwva0hIbHBNOGFlYWh2UGw4RVQ4YzJ5aXZUSkY3VjcxT1QyYms3eGdtaVN5TW5vdVdsUXdOTTZPVDAydGhGdkNERFJhZHp2SnRHbWg4dWxVMmNnXC9JR3lwS044a1N5SGdlYWQ0amlqTFpyNWc0eXNWRG9BMnQzVDFTMGxlT2psQ0kxQlZRalRFK2lVdz09IiwibWFjIjoiNWZhODY1MDA2MDdmOGUwNzUzMGQyMzcxNGY0YzQ0ZTM4NWUyZDRjMWM4ZTJhMTU3YjFlZTE4YTZhN2UzMWI2NiJ9" class="embedplayer embed_online" style="background: #00be5c;">Tazmania</div></td>
+<td class="achicarfuente400">HD 720p</td>
+<td class="achicarfuente400">Castellano</td>
+<td class="hide450">
+<button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs boton_reportar_enlace" data-id="789050" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+<tr data-lang="Castellano">
+<th class="hide767">
+<img src="/storage/imagenes/servidores/opt_ccU9rRivUmgRmgRSqGQtEcysZ8fFooKggB0LGpdt.png">
+</th>
+<td class="tdtitulo achicarfuente400"><div data-embed="eyJpdiI6InhNd0lUa0dvUllCM3VGaTZcL0V6bE9BPT0iLCJ2YWx1ZSI6Im85ejJ0dzZndjRcL3pLSEE1eElLb3l3PT0iLCJtYWMiOiI2YTAxYmU4YjcyN2I5YzFkYjhiMmMwNTNlNGZiNTBiZDE5NTgxZDAwYjlkYWVhN2QzMTJhZDU3ZmI0OTg4ODQ1In0=" data-player="eyJpdiI6IkZmTTQ5WXZRWGEyclY2a3BXMVdnUXc9PSIsInZhbHVlIjoiWnVVMTNGbmxTU1dyR3NaUGowcmVyM3ZoRlI2cUtsQTE3bTJjZDMrRmczWWpvaUpsQVFObmo3QUFEb2ZjMEJWRW5ZS280dlA3VmUzU2Z2cnc0TXNvc09peW9hTCtkbVdcLzdGRHhrYTlIeWZONUZSV2NXTldHVzJjdExONytGd2IzSUhSRllhSmVXczhyV0ZRdG5GQ2pEVzFGbURJcEVkaGxQaFl3XC9JV0RWYnc4NmtuY1Jyalgyekc1Qld0V1lJY05taEFcL3krU2FmYU1VNUFjTWFiMFlIZz09IiwibWFjIjoiZGE2YjRkZTUxMzFlZmJmZmMyZGU0OTM2NzBjMzZkMmQ2MDZhYTNmYTdlMDdiOGZhODAzOWE0Y2E1ZTBlNzUxMiJ9" class="embedplayer embed_online" style="background: #d53030;">Tiburon</div></td>
+<td class="achicarfuente400">HD 720p</td>
+<td class="achicarfuente400">Castellano</td>
+<td class="hide450">
+<button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs boton_reportar_enlace" data-id="789046" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+<tr data-lang="Castellano">
+<th class="hide767">
+<img src="/storage/imagenes/servidores/opt_Ro5uVzur5MjXhXpdMsJml56GCpJ3fON2wJ9MfKL4.png">
+</th>
+<td class="tdtitulo achicarfuente400"><div data-embed="eyJpdiI6IldkMnVSbVV4a0VuWnRvNjVYdnpvcGc9PSIsInZhbHVlIjoiditPZFwvTXJyXC9NR0ZnR2ZFMFV5TzBnPT0iLCJtYWMiOiJhNDdiOTEyODkxYTRhMTE3NmJhNGNiODk4Yjc0NjY4ZGY5ODljNDVlMGIwY2YwOGNkMjlmZjk2OTA4ZTczY2Q2In0=" data-player="eyJpdiI6IkRONm1nQ3l5enlcL3BtZTgzNDR2K0lRPT0iLCJ2YWx1ZSI6InJGM1lLMmowUElySDFJT25DY0tnMUZzWnQ4MzVzeUpvTWs4RHNiMzFwRWRsemZzdFIzWkl2R1VzeTY3RlpUYXgiLCJtYWMiOiI3OWYwZGUwZTM3NmFhODUwOGM0YjliMGVkNWY4NmVhODM1MTBmYjkwZTNlZDFjZjY5NDJhZjhiZTZlYmNhMDMzIn0=" class="embedplayer embed_online" style="background: #664bf1;">Streamango</div></td>
+<td class="achicarfuente400">HD 720p</td>
+<td class="achicarfuente400">Castellano</td>
+<td class="hide450">
+<button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs boton_reportar_enlace" data-id="789049" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+<tr data-lang="Castellano">
+<th class="hide767">
+<img src="/storage/imagenes/servidores/opt_VyWeoaAG7PNs3HO390w2IyJ48SYABSNQdkbGv8xe.png">
+</th>
+<td class="tdtitulo achicarfuente400"><div data-embed="eyJpdiI6Ik9Vb3ljT1ZUcFByNzYzam0rVm5sN1E9PSIsInZhbHVlIjoiOFFQcG1zOE9qTkZrSXp2ZVBrZFVYUT09IiwibWFjIjoiYzE0MWNhNzJjNDFhNjhkMzZkZDllZDU2ODQzYWM3ZTNkOTA5NWJlN2NlN2FlYzA0MzVlZGRiMzJkYzFhNzQ0NCJ9" data-player="eyJpdiI6ImhVRU5oQ1RZVktvMENTak1WWGZENFE9PSIsInZhbHVlIjoiXC9XU1cwUXk2NHNBb2M0U3ZsZitwU1wvTThcLzU1VmM2NTR4Mzc3TjNVVXlqRlozU2pUeTNHblI0OTc3XC8zY1FzQ2wiLCJtYWMiOiI0YmI0YzkzMjI1Nzg0NzVlY2M1NzQzYWRlY2IwMmY5ZGVkYTM2OThkNGI0MzY0OTMxZjlkYjI3N2IxZDdlOWRhIn0=" class="embedplayer embed_online" style="background: #56c0ea;">Openload</div></td>
+<td class="achicarfuente400">HD 720p</td>
+<td class="achicarfuente400">Castellano</td>
+<td class="hide450">
+<button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs boton_reportar_enlace" data-id="789048" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+<tr data-lang="Subtitulado">
+<th class="hide767">
+<img src="/storage/imagenes/servidores/opt_UMEFMUBXfGg1EUSCNe3jpa5kc09idbIsCIE0klID.png">
+</th>
+<td class="tdtitulo achicarfuente400"><div data-embed="eyJpdiI6IjBLc2grYW9LekE5K0VqM0JUVnNQdEE9PSIsInZhbHVlIjoiXC80aVFlRlVLdEtpbVRobTdCdFJpUXc9PSIsIm1hYyI6IjI3YjUwZTA5MmYzZjZiNmNmMDA0YWE2OWJjNzQ1YmVkOTcyMDEzMmMyZWZjZmZjNTNiNmMzMGE0NDlmZmEzZDgifQ==" data-player="eyJpdiI6IlJjcEt1aGJkaTZ3QWF4SUh3RXJkdnc9PSIsInZhbHVlIjoiazdwVWNsakptaGlWMjladlJoQVlVS0RGSFRSZSs5UTJEQVFZNllySkJvTzZ4b01vQTh4VTNmNm1aRk5mVjd3WXBaVzlmNTF6RnhtQWZVQnFTSXRxbTBmaVwvUDBkOWlod1g2RU41SVdwQlVOOUFQUmVMdzVqSm5aMGdPK0MwNUlmbkhVc1pwN1Q0Vm1SVEVrb24yZ3ZhWG9qT1NvOE1cL1VBeWlMeFY5MW1uUjJKYmJOU2hiUUh1Mk5BeDBpODhxblIzeUM0WURzZlN6c3VWTEV3TXV2V0xUWHI1b0VDNmsrQmZQcWVLaGl0NFdzPSIsIm1hYyI6IjU3OTU1MjNjNTkzOTdkODlhZWMwOTI1MTdjNjllYjVlZWZiZTZhYWVlZjkxM2Q3M2ZiZWE1MTk5MGU4Y2VkOTkifQ==" class="embedplayer embed_online" style="background: #00afef;">Zeus</div></td>
+<td class="achicarfuente400">HD 1080p</td>
+<td class="achicarfuente400">Subtitulado</td>
+<td class="hide450">
+<button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs boton_reportar_enlace" data-id="789064" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+<tr data-lang="Subtitulado">
+<th class="hide767">
+<img src="/storage/imagenes/servidores/opt_v1DjZMN1fd8CT7nsg6expS9FzoT9CjIq1RmULOGV.png">
+</th>
+<td class="tdtitulo achicarfuente400"><div data-embed="eyJpdiI6IkJoZFJKcjZUTU9NUFJzb2ZWZVNBNUE9PSIsInZhbHVlIjoiXC9SbEhtZUNcL1hpd2tBSkFielJEamZnPT0iLCJtYWMiOiIzNDMxMDc1YmQxMDZjYTFhZmE0NjRjZmUxMmU0NzFlMDhmNDYzODYyYjUwMmMyZTQyM2Q3NGI1OWJkODM4N2VhIn0=" data-player="eyJpdiI6IlFaRmdpbk5VZHlDdEh3NG9pWkdiZHc9PSIsInZhbHVlIjoic1RiUTY5dnlZNXd6Q2pJRDg1XC8ydFo1aHorNmRqUkZMRThcLzdzVnZBZm9pNGEyWmpPdzNNZGs4XC9ndGdUVEtWRHJobG9Jd2ZSM3N0R1N2RzNNUTI1OXZzd0NZelI1OFl3YmxGK0Zvb1RDY1ExNUF1TVM0c2hvOFVNcDBFWDgyRlZHaFFTMlFWWjZvSHNwYVBrNHdcL2VNdGJwaHBTNFFieG9cL1hxT0lqaXJkbzZRb3lPV0RlcXVnZjhUSzlSekxweGhpVEdOcWtiZFZtMGE3VmJ2TTUzcHdRcGpkTmNBbmd4S3pja2diUjZVVDZYZG1lWU1OZ2E0TnpZQjd2TElBT2I4eGZ3K3VQNXo2eWZOOUJBcWdpUnpVRG9nbEhGYk5xXC9Zak50NDRjTVZ4Sm81K2ExaEJQWDJTdGRCNTFcL0F3dEQzOGMyUUhSbjJLZTdRV2RyWXlGeXNFQ2I0bXYzOHgzOFA4cGZkMDBzdHcwa3VkWHN3VVlvVXFkWjFYNnJ1Y3Y3RlJmMlIwWFwvQ2pVQ1BndVBrWU9iVm9QMDRjcmttS0JiQ1BxSlpScEpXQ05wOFFLbERcL3JoMU5xZFwvcjJjMG5VS0oiLCJtYWMiOiIzMGNkYWE1NDE1NmU2NWU5ZTc3OTg2OGIyYmU2NzZmMTFkMGM4YzdmYTM2NGFhMzhjZjNjNjI3YTcyM2MwOGJiIn0=" class="embedplayer embed_online" style="background: #00be5c;">Tazmania</div></td>
+<td class="achicarfuente400">HD 1080p</td>
+<td class="achicarfuente400">Subtitulado</td>
+<td class="hide450">
+<button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs boton_reportar_enlace" data-id="789067" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+<tr data-lang="Subtitulado">
+<th class="hide767">
+<img src="/storage/imagenes/servidores/opt_ccU9rRivUmgRmgRSqGQtEcysZ8fFooKggB0LGpdt.png">
+</th>
+<td class="tdtitulo achicarfuente400"><div data-embed="eyJpdiI6IjZyaFNzZW0rQ0pQeDZKQThuREI1NUE9PSIsInZhbHVlIjoicXF6NXNoOEJQcnA4MzdsRU13cm42Zz09IiwibWFjIjoiN2Q5Mjk1NjJiZjM2MjFlNmU5OGIxNmRlMDYxN2I1NmRlMmUyYzViYTU3M2JiZTIxNjgzZDY5OTI5ZDQ5NjAxZCJ9" data-player="eyJpdiI6IjFqXC96akh1VWpQR1NxXC9jMDFQZGJVUT09IiwidmFsdWUiOiJKVWdhZmNQbmRLalQ2WFhLZkZhUytRZFh5TXZUNFZNK3RxYWJ5ZEhuMzNKMlUrc2NqOXg2ZHR1UU9OOTlIOFZnWFpNXC9QQWgzM1NqN05vRVJrTGM2bmFpQm82U0gwWXEzbWY4WGtkMVRpZlhjUVVaOElmVGFtWklxTzNRMmhwenhBa1BrS0pTeXZTR3JhV25Xc2p3MnV6TzYrR0xNTUZTaG1naFk5SkpGVFJtUGNxMXVXMG5jdVhTM1BzUjRycUZRVDJ2ZWtQQ0crT1ExR2NOWkRHd2o2QT09IiwibWFjIjoiMzFhOTk4MjJkZjAyODY4ZDY2NDMxNDM2NzkzZTIzN2NiMmI1YzQ2MjU0ZDQ2NzRhNDhjYTIwZDcxYTM5NTkyZCJ9" class="embedplayer embed_online" style="background: #d53030;">Tiburon</div></td>
+<td class="achicarfuente400">HD 1080p</td>
+<td class="achicarfuente400">Subtitulado</td>
+<td class="hide450">
+ <button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs boton_reportar_enlace" data-id="789070" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+<tr data-lang="Subtitulado">
+<th class="hide767">
+<img src="/storage/imagenes/servidores/opt_Ro5uVzur5MjXhXpdMsJml56GCpJ3fON2wJ9MfKL4.png">
+</th>
+<td class="tdtitulo achicarfuente400"><div data-embed="eyJpdiI6IkRNUnI0Q2ZtYzZidlwvdFNUb3BBSjdRPT0iLCJ2YWx1ZSI6IlNGdHMxdXlkRkc4SFl5d1BmUEJETWc9PSIsIm1hYyI6IjUzMDhlY2VmZGQ5MWVlODgzYmZlZTEwYTdlOWFlZTQyZjUxNmE3ZDBiNmQ4OTJjNWRmODBlMGIyOTQ3NmI4MDIifQ==" data-player="eyJpdiI6IkZYZUlHcG9BYW1EYUp1RVRKd1BEaWc9PSIsInZhbHVlIjoiTE1rZUxub3BLckdwVnJcL0FYZnRzMnEwVE1mZjVnempESVwvT083eHZUU1VlMit6K2hub1F6bHVyWEdHQjhkMndZIiwibWFjIjoiNzRhOTZjM2I3MTA3YTVkYzNmYjVjNjNmZDllZWQyYTE2ODMwZjlkMWQyMjNjOWIxMjhlNDI2ZmUxMmI0MzQwZCJ9" class="embedplayer embed_online" style="background: #664bf1;">Streamango</div></td>
+<td class="achicarfuente400">HD 1080p</td>
+<td class="achicarfuente400">Subtitulado</td>
+<td class="hide450">
+<button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs boton_reportar_enlace" data-id="789066" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+<tr data-lang="Subtitulado">
+<th class="hide767">
+<img src="/storage/imagenes/servidores/opt_VyWeoaAG7PNs3HO390w2IyJ48SYABSNQdkbGv8xe.png">
+</th>
+<td class="tdtitulo achicarfuente400"><div data-embed="eyJpdiI6IjVCWDg2S21TMEtsSkFjN0VqTWpGRVE9PSIsInZhbHVlIjoiQ2p6OCtcL3NXRDBROTB0bXEyMzFHSUE9PSIsIm1hYyI6IjNmOTA1YWVjMmYzNjQ3N2NkYTllZjUzODBhYmYwMjU4YTFjNDI4YTQxOTYyMGM2NTZlYmNjNzQ1ODRmMjVkNDcifQ==" data-player="eyJpdiI6IjdoRkFDQmpiaDdjaFwvNVYzQzdWb2tBPT0iLCJ2YWx1ZSI6Im94WlpLempId3QzeEhLcE94Vkl6SiswSDB0eFU2UG1rVTJyOTdcL1d2cGhEZDc2ZnREQXBVcEhEdDY3YjA1Nk9iIiwibWFjIjoiYzg3YjdjOGY3MDQxMzI5YTE4M2Q3Yzc3NWE3MWM0MjRjYzk0MTA1ZWRhYjU0NmQ5M2JmYmExOTQyN2E2NjNjOCJ9" class="embedplayer embed_online" style="background: #56c0ea;">Openload</div></td>
+<td class="achicarfuente400">HD 1080p</td>
+<td class="achicarfuente400">Subtitulado</td>
+<td class="hide450">
+<button type="button" class="btn btn-primary btn-xs" title="Videohost"><i class="fas fa fa-play-circle"></i> <span>Videohost</span></button>
+</td>
+<td class="hide650">11/04/2019</td>
+<td>
+<button class="btn btn-danger btn-xs boton_reportar_enlace" data-id="789065" title="Reportar"><i class="fas fa fa-exclamation-circle"></i> R<span class="hide600">eportar</span> </button>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="capa_descargas cajaplayer cajamain" style="display: none;">
+<div class="CapaPlayerCentralFix justifyfix">
+<div class="CapaPlayerCentralText">
+<p>Esta película no tiene descargas disponibles...</p>
+</div>
+</div>
+</div>
+<div class="capa_imagenes cajaplayer" style="display: none;">
+<div class="resCarousel imagenesextrasdiv" data-items="1,1,1,1" data-slide="1" id="ResSlid1">
+<ul class="carrusel_galeria owl-carousel resCarousel-inner imagenesextrasul" style="transition: 1s ease all; width: 100%; padding-left: 0px;">
+<li class="item" style="width: 100%;">
+<img alt="Imagenes de ¡Scooby-Doo! Y la maldición del fantasma número trece" title="Imagenes de ¡Scooby-Doo! Y la maldición del fantasma número trece" src="/storage/imagenes/extras/42LlduRyePcYQ5qo2kMr1qW1bv4.jpg">
+</li>
+<li class="item" style="width: 100%;">
+<img alt="Imagenes de ¡Scooby-Doo! Y la maldición del fantasma número trece" title="Imagenes de ¡Scooby-Doo! Y la maldición del fantasma número trece" src="/storage/imagenes/extras/1jTdxb3Jyq3XovVXdCB3NnAe7Vv.jpg">
+</li>
+</ul>
+<button class="leftLst"><i class="a"></i></button>
+<button class="rightLst"><i class="b"></i></button>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="https://tagbucket.cc/_tags/jstags.js?s=mx/pelisplay/72890"></script>
+<div class="movie-comment">
+<div class="content">
+<div class="comment-movie">
+<div class="controls">
+<p class="amount-of-results"><span class="total_comentarios" data-total="1">1</span> Comentarios</p>
+<div class="order-comment dropdown">
+<button class="order-comment-toggle dropdown-toggle mr-md-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+
+<svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope"><g><path d="M3 18h6v-2H3v2zM3 6v2h18V6H3zm0 7h12v-2H3v2z"></path><path d="M0 0h24v24H0z" fill="none"></path></g></svg>
+Orden: <span id="filtro_actual">Recientes</span>
+</button>
+<ul class="order-comment-toggle-list dropdown-menu" aria-labelledby="dropdownMenu1">
+<li><a id="comentario_reciente_filtro" class="comentario_filtro" data-filtro="created_at" data-orden="DESC" href="#">Recientes</a></li>
+<li><a class="comentario_filtro" data-filtro="created_at" data-orden="ASC" href="#">Antiguos</a></li>
+<li><a class="comentario_filtro" data-filtro="goodlikes" data-orden="DESC" href="#">Me gusta</a></li>
+<li><a class="comentario_filtro" data-filtro="badlikes" data-orden="DESC" href="#">No me gusta</a></li>
+</ul>
+</div>
+<div id="user_comentario_form" class="box-comment" style="align-items: normal;">
+<div id="comentariomensaje"></div>
+<div class="profile-photo">
+<img class="img-photo-profile" src="/static/img/user.png">
+</div>
+<div class="comment">
+<form id="formcomentario" action="https://www.pelisplay.tv/usuario/guardar_comentario">
+<textarea id="comentariodata" class="text-comment" placeholder="Escribir un comentario"></textarea>
+<input id="entrada_id" type="hidden" value="24718">
+<input id="entrada_id_main" type="hidden" value="24718">
+<input id="enviados_ids" type="hidden" value="">
+<input id="entrada_tipo" type="hidden" value="pelicula">
+<input id="nu_comentarios" type="hidden" value="5">
+<div class="es_spoiler_principal">
+<label><input type="checkbox" class="spoiler_checkbox" name="spoiler_box" value="1"> <i class="fas fa fa-exclamation-triangle hide500" aria-hidden="true"></i> ¡Es spoiler!</label>
+</div>
+<div id="emoji_select" class="emoji_select"><i class="fas fa fa-smile-o" aria-hidden="true"></i></div>
+<button class="enviarcomentario" type="submit">Enviar</button>
+</form>
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+<div style="clear: both;"></div>
+<div class="comment" id="comentarioscuerpo" data-fuente-votos="https://www.pelisplay.tv/comentarios/comentario_votos" data-fuente="https://www.pelisplay.tv/comentarios/obtener_comentarios" data-pagina="1" data-filtro="created_at" data-orden="DESC">
+<div id="comentario-21738" class="comentario-comentar comentario_user_131818">
+<div class="profile-photo">
+<img class="img-photo-profile" src="https://www.pelisplay.tv/storage/imagenes/avatars/opt_avatarfb_5cb3847a22f94.jpg">
+</div>
+<div class="comment">
+<div class="comment-header">
+<span class="name-profile">
+<a href="https://www.pelisplay.tv/usuarios/fb.5cb3847a11468"><strong>Jandry Joseph</strong></a>
+<span class="user_rango usuario"><i class="fas fa fa-user" aria-hidden="true"></i> Usuario</span>
+</span>
+<small class="comment-fecha">Enviado hace 13 horas</small>
+</div>
+<div class="comment-content ">
+<p class="comentario_body main_comentario">d e e j hjh j hjehjhjhdjhd  </p>
+</div>
+<div class="comment-footer">
+<a title="Me gusta" class="assess-controls like goodlikecomentario" data-id="21738" href="#">
+<span class="botones_comentario_footer good_like"><i class="fas fa fa-thumbs-up" aria-hidden="true"></i> <span class="good_likes_count">0</span></span>
+</a>
+<a title="No me gusta" class="assess-controls dislike badlikecomentario" data-id="21738" href="#">
+<span class="botones_comentario_footer bad_like"><i class="fas fa fa-thumbs-down"></i> <span class="bad_likes_count">0</span></span>
+</a>
+<a title="Responder comentario" class="assess-controls responder_comentario" data-id="21738" href="#">
+<span class="botones_comentario_footer"><i class="fas fa fa-reply"></i> <span class="responder_comentario_text hide500">Responder</span></span>
+</a>
+</div>
+<div class="comentario_respuestas">
+</div>
+<div class="comentario_respuestas_form">
+<div class="header_respuesta">
+<div class="respuesta_mensajes"></div>
+<div class="respuesta_destinatario">
+Enviar respuesta a: <span class="destinatario">comentario principal</span>
+</div>
+</div>
+<input name="comentario_respuesta_main_id" type="hidden" value="21738">
+<input name="comentario_respuesta_reply_id" type="hidden" value="21738">
+<textarea placeholder="Escribe tu comentario..." name="comentario_respuesta_body" class="textarea_respuesta"></textarea>
+<div class="footer_respuesta">
+<div class="footer_respuesta_izquierda">
+<label><input type="checkbox" class="spoiler_checkbox" name="spoiler_box" value="1"> <i class="fas fa fa-exclamation-triangle hide500" aria-hidden="true"></i> ¡Es spoiler!</label>
+</div>
+<div class="emoji_select"><i class="fas fa fa-smile-o" aria-hidden="true"></i></div>
+<div class="footer_respuesta_derecha">
+<button class="btn_responder" type="submit">Enviar<span class="hide500"> respuesta</span></button>
+</div>
+<div style="clear: both"></div>
+</div>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="resCarousel postersizes ResHover special">
+<div class="title-border-botton">
+<div class="content">
+<header class="titulo p">
+<h2>
+<i class="ico-video-player"></i>
+PELÍCULAS RELACIONADAS
+</h2>
+<div class="control">
+<a href="" class="leftRs fa fa-chevron-left a"></a>
+<a href="" class="rightRs fa fa-chevron-right b"></a>
+</div>
+</header>
+</div>
+</div>
+<div class="content">
+<ul class="carrusel_entradas owl-carousel resCarousel-inner thumbnails movie-carrusel">
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-5EbOMlcLpx82NadxHaFxDAVNtOoaKXzGMQUPXriC.jpeg" alt="El planeta de los simios (1968)" title="El planeta de los simios 1968" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/el-planeta-de-los-simios-1968">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">El planeta de los simios (1968)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">El planeta de los simios (1968)</div>
+<div class="Description"> <div>George Taylor forma parte de una tripulación de astronautas a bordo de una nave espacial -en una misión de larga duración- que se estrella en un plane...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+10,072 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Franklin J. Schaffner
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Aventura</span>
+ <span>Ciencia ficción</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/el-planeta-de-los-simios-1968">
+<h4 class="name-movie"><strong>El planeta de los simios</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c31c9346cebb_mini-eSbsvWMYIHMfP3w6SARZbbLZ3H4.jpg" alt="Un invierno en la playa (2012)" title="Un invierno en la playa 2012" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/un-invierno-en-la-playa">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Un invierno en la playa (2012)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Un invierno en la playa (2012)</div>
+<div class="Description"> <div>Años después de su divorcio, el veterano novelista Bill Borgens (Greg Kinnear) sigue obsesionado con Erica (Jennifer Connelly), la mujer que lo abando...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+4,759 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Josh Boone
+</div>
+<div class="tipcategorias">
+<span>Comedia</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/un-invierno-en-la-playa">
+<h4 class="name-movie"><strong>Un invierno en la playa</strong></h4>
+</a>
+<h5 class="category-movie">Comedia</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bd65a612a925_mini-8JtW8aTiR5ywOwbezMBxLPFdIG6.jpg" alt="Capitán Fantástico (2016)" title="Capitán Fantástico 2016" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/capitan-fantastico">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Capitán Fantástico (2016)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Capitán Fantástico (2016)</div>
+<div class="Description"> <div>Ben es un padre que ha pasado diez años viviendo en los remotos bosques situados al noroeste del Pacífico criando a sus seis hijos. Sin embargo un día...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+3,869 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Matt Ross
+</div>
+<div class="tipcategorias">
+<span>Aventura</span>
+<span>Comedia</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+ </div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/capitan-fantastico">
+<h4 class="name-movie"><strong>Capitán Fantástico</strong></h4>
+</a>
+<h5 class="category-movie">Aventura</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bdbb77810b1b_mini-6R3yHyxq1bAJ6EkwZWycSJQfQGD.jpg" alt="Agente 007: De Rusia con Amor (1963)" title="Agente 007: De Rusia con Amor 1963" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/agente-007-de-rusia-con-amor">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Agente 007: De Rusia con Amor (1963)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+ <span class="qualification">7.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Agente 007: De Rusia con Amor (1963)</div>
+<div class="Description"> <div>Una máquina que descifra los más complicados sistemas de comunicación es el objetivo del agente británico James Bond, que esta vez tiene que viajar ha...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+3,459 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Terence Young
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Aventura</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/agente-007-de-rusia-con-amor">
+<h4 class="name-movie"><strong>Agente 007: De Rusia con Amor</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0c90836b0_mini-la1xrRWrs8lmrxWNnho92ivgRmT.jpg" alt="Scooby-Doo en la isla de los zombies (1998)" title="Scooby-Doo en la isla de los zombies 1998" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-en-la-isla-de-los-zombies">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Scooby-Doo en la isla de los zombies (1998)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Scooby-Doo en la isla de los zombies (1998)</div>
+<div class="Description"> <div>Scooby Doo, Shaggy, Vilma, Daphne y Fred se reúnen para resolver el más gracioso y aterrador misterio de su carrera. El equipo del miedo viaja a una m...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,631 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Hiroshi Aoyama
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Comedia</span>
+<span>Familia</span>
+<span>Fantasía</span>
+</div>
+ </div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-en-la-isla-de-los-zombies">
+<h4 class="name-movie"><strong>Scooby-Doo en la isla de los zombies</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5b514f21cdc06_mini-oburjHqzOrTtDLYbLunKLwUHhk1.jpg" alt="Coco (2017)" title="Coco 2017" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/coco">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Coco (2017)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Coco (2017)</div>
+<div class="Description"> <div>Una
+película animada inspirada en la festividad del día de los muertos que se
+celebra en México. La película se centra en Miguel Rivera, un niño de...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+131,901 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Lee Unkrich
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Familia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/coco">
+<h4 class="name-movie"><strong>Coco</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c4ab10e7a817_mini-fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg" alt="Black Mirror: Bandersnatch (2018)" title="Black Mirror: Bandersnatch 2018" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/black-mirror-bandersnatch">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Black Mirror: Bandersnatch (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.2</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Black Mirror: Bandersnatch (2018)</div>
+<div class="Description"> <div>En 1984, un joven programador intenta adaptar una caótica novela de fantasía a un vídeojuego. Un desafío alucinante que le llevará a cuestionarse la r...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.2)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+21,166 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: David Slade
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/black-mirror-bandersnatch">
+<h4 class="name-movie"><strong>Black Mirror: Bandersnatch</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c05feca5a2ad_mini-jPvNTtQMtLJrEqPZF1FbMGmiHwu.jpg" alt="Misión Rescate (2015)" title="Misión Rescate 2015" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/mision-rescate">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Misión Rescate (2015)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.7</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Misión Rescate (2015)</div>
+<div class="Description"> <div>El astronauta Mark Watney, un botánico e ingeniero mecánico de la NASA, se ve atrapado en el planeta Marte cuando la tripulación del Ares 3 debe evacu...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.7)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+26,201 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Ridley Scott
+</div>
+<div class="tipcategorias">
+<span>Aventura</span>
+<span>Ciencia ficción</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/mision-rescate">
+<h4 class="name-movie"><strong>Misión Rescate</strong></h4>
+</a>
+<h5 class="category-movie">Aventura</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5b52ad9362a4a_mini-sBH09ufjCU3KuMcGqGItsqeG9dU.jpg" alt="Deadpool (2016)" title="Deadpool 2016" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/deadpool">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Deadpool (2016)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+ <span class="qualification">7.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Deadpool (2016)</div>
+<div class="Description"> <div>Presentamos una película llena de acción con este  personaje muy característico de mano de la productora Marvel el cual con su personalidad disparatad...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+36,865 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Tim Miller
+</div>
+<div class="tipcategorias">
+ <span>Acción</span>
+<span>Aventura</span>
+<span>Comedia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/deadpool">
+<h4 class="name-movie"><strong>Deadpool</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c8843f6b02dc_mini-g79cJOJat1C6s5z7Tn1LVBojM8H.jpg" alt="Batman: Año Uno (2011)" title="Batman: Año Uno 2011" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/batman-ano-uno">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Batman: Año Uno (2011)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.2</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Batman: Año Uno (2011)</div>
+<div class="Description"> <div>Adaptación animada del aclamado cómic de Frank Miller. La historia del original cuenta los inicios de la carrera de Bruce Wayne como Batman y de James...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.2)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,575 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Sam Liu
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Animación</span>
+<span>Aventura</span>
+<span>Ciencia ficción</span>
+<span>Crimen</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/batman-ano-uno">
+<h4 class="name-movie"><strong>Batman: Año Uno</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca6b5b0b7620_mini-hXTEjFQ7weO9XreNgS3SXvX7U11.jpg" alt="Scream (1996)" title="Scream 1996" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/scream-2">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Scream (1996)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Scream (1996)</div>
+<div class="Description"> <div>Neve Campbell interpreta a Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro que se convierte en el objetivo de un misterioso ases...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+4,322 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Wes Craven
+</div>
+<div class="tipcategorias">
+<span>Crimen</span>
+<span>Misterio</span>
+<span>Terror</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/scream-2">
+<h4 class="name-movie"><strong>Scream</strong></h4>
+</a>
+<h5 class="category-movie">Crimen</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5b727b48c0be6_mini-s5DH1GFuDtTNRaqmPIYmznQ4mtp.jpg" alt="Paddington 2 (2017)" title="Paddington 2 2017" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/paddington-2">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Paddington 2 (2017)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Paddington 2 (2017)</div>
+<div class="Description"> <div>El oso Paddington ya está felizmente integrado en casa de la familia Brown. Se ha convertido además en un miembro muy popular de la comunidad de Winds...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+5,427 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Paul King
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Comedia</span>
+<span>Estrenos 2018</span>
+<span>Familia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/paddington-2">
+<h4 class="name-movie"><strong>Paddington 2</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c72a84a8b433_mini-34fZVT3FjIfLNTuQdMoLEhjronL.jpg" alt="Donnie Darko (2001)" title="Donnie Darko 2001" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/donnie-darko">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Donnie Darko (2001)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.8</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Donnie Darko (2001)</div>
+<div class="Description"> <div>Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir aluci...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.8)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+5,121 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Richard Kelly
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Fantasía</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/donnie-darko">
+<h4 class="name-movie"><strong>Donnie Darko</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c6bac8607bcd_mini-oPiYrJnILDY9AnnAj93lR1kH0UO.jpg" alt="Mulan (1998)" title="Mulan 1998" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/mulan">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Mulan (1998)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Mulan (1998)</div>
+<div class="Description"> <div>Mulan, una joven china hija única de la familia Fa, en lugar de buscar novio, como sus amigas, trata por todos los medios de alistarse en el ejército...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+14,895 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Tony Bancroft
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Familia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/mulan">
+<h4 class="name-movie"><strong>Mulan</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5b52a9b9b6109_mini-biGkTa0JwsUykVhMkCvHOi9SimV.jpg" alt="Deadpool 2 (2018)" title="Deadpool 2 2018" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/ver-deadpool-2-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Deadpool 2 (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Deadpool 2 (2018)</div>
+<div class="Description"> <div>La secuela de Deadpool  regresa con el desfigurado sobreviviente chef de una cafetería Wade Wilson (Ryan Reynoids) mejor conocido como Deadpool está d...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+184,408 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: David Leitch
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Ciencia ficción</span>
+<span>Comedia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver-deadpool-2-online">
+<h4 class="name-movie"><strong>Deadpool 2</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+</ul>
+</div>
+<div class="movie-footer">
+<div class="content">
+<a href="https://www.pelisplay.tv/ver-peliculas/animacion" class="btn pull-right btn-more">Más</a>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="content">
+<div class="col-xs-6 col-md-6 item-footer">
+<h4>Información util</h4>
+<ul class="menu-links">
+<li><a href="https://www.pelisplay.tv/pagina/politica-de-privacidad">Política de Privacidad</a></li>
+<li><a href="https://www.pelisplay.tv/pagina/condiciones-de-uso">Condiciones de Uso</a></li>
+<li><a href="https://www.pelisplay.tv/pagina/dmca">DMCA</a></li>
+
+</ul>
+</div>
+<div class="col-xs-6 col-md-3 item-footer">
+<h4>Servicios</h4>
+<ul class="menu-links">
+<li><a href="https://www.facebook.com/PelisPlay" target="_blank">Facebook</a></li>
+<li><a href="https://www.youtube.com/channel/UCs5BzJxxH5CWPbPqw5Hzowg" target="_blank">Youtube</a></li>
+
+</ul>
+</div>
+<div class="col-xs-12 col-md-3 suscribe-footer">
+<div class="footer-suscribe-content">
+<div class="suscribe-title">
+<h5>
+
+<i></i>
+CONTACTANOS
+</h5>
+</div>
+<div class="suscribe-search">
+<form class="" action="https://www.pelisplay.tv/contacto" method="get">
+<div class="input-group suscribe-search-content">
+<input name="email" class="form-control" placeholder="E-mail" type="email" required>
+<div class="input-group-btn group-btn-suscribe-search">
+<button type="submit" class="btn btn-primary btn-suscribe">Enviar</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="copyright">
+<div class="content">
+<div class="col-xs-12 col-md-6 copyright-content">
+© 2019 PelisPlay.Tv | Todos los derechos son reservados
+</div>
+<div class="col-xs-12 col-md-6 copyright-design text-right">
+<span>Desarrollado por: PelisPlay</span>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</footer>
+<div class="modal fade" id="ReportarEnlace" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+<div class="panel panel-login" style="border: #00aad9 solid;">
+<div class="panel-body">
+<div class="cerrar_btn"><i class="fa fa-times"></i></div>
+<div class="row">
+<div class="col-lg-12">
+<form id="reportar-form" data-token="Prrm9ifqRKohwB8GPlfjyFltvCiRnYZEbXIbcSnE" action="https://www.pelisplay.tv/enlaces/reportar" method="post" role="form" style="display: block;">
+<h2><b>REPORTAR ENLACE:</b></h2>
+<div class="login_registro_errores">
+<ul>
+</ul>
+</div>
+<input type="hidden" id="reporte_id" name="enlace_id">
+<div class="form-group" style="    margin-top: 10px;">
+<label class="control-label col-md-3 col-sm-3 col-xs-12 editarusuariolabel">Motivo: </label>
+<div class="col-md-9 col-sm-9">
+<select id="motivo_reportar" class="form-control pedidoselect" name="motivo">
+<option>El enlace no funciona (Enlace roto)</option>
+<option>El enlace no corresponde al contenido</option>
+<option>La velocidad de descarga es muy lenta</option>
+<option>El video tiene muy mala calidad</option>
+<option>El video tiene muy mal sonido</option>
+<option>La información del enlace no es correcta</option>
+<option>El enlace tiene virus</option>
+<option>Otro problema</option>
+</select>
+</div>
+</div>
+<div style="clear: both;"></div>
+<div class="form-group">
+<label class="control-label col-md-3 col-sm-3 col-xs-12 editarusuariolabel">Detalles (Opcional): </label>
+<div class="col-md-9 col-sm-9">
+<textarea id="detalles_reportar" style="outline: none;" name="detalles" class="form-control col-md-10 input-acceso editarusuarioinput perfiltextarea"></textarea>
+</div>
+</div>
+<div style="margin-top: 20px;" class="col-xs-12 col-md-6 form-group pull-right">
+<input type="submit" tabindex="4" class="form-control btn btn-login" value="ENVIAR REPORTE">
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="LoginRegistro" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="col-md-6 col-md-offset-3">
+<div class="panel panel-login">
+<div class="panel-body">
+<div class="cerrar_btn"><i class="fa fa-times"></i></div>
+<div class="row">
+<div class="col-lg-12">
+<div class="facebooklogin_div">
+<p>Ingresa mediante tu cuenta de Facebook</p>
+<a class="btn btn-primary" href="https://www.pelisplay.tv/usuario/facebooklogin"><i class="fab fa fa-facebook"></i> Ingresar con Facebook</a>
+<p>o</p>
+</div>
+<form id="login-form" data-token="Prrm9ifqRKohwB8GPlfjyFltvCiRnYZEbXIbcSnE" action="https://www.pelisplay.tv/usuario/login" method="post" role="form" style="display: block;">
+<h2>INGRESAR A MI CUENTA</h2>
+<div class="login_registro_errores">
+<ul>
+ </ul>
+</div>
+<div class="form-group">
+<input type="text" name="usuario" id="username_login" tabindex="1" class="form-control input-acceso" placeholder="Nombre de usuario..." value="">
+</div>
+<div class="form-group">
+<input type="password" name="password" id="password_login" tabindex="2" class="form-control input-acceso" placeholder="Contraseña...">
+</div>
+<div class="col-xs-12 col-md-6 form-group pull-left checkbox">
+<input id="checkbox_login" type="checkbox" name="remember">
+<label for="checkbox_login">Recordarme</label>
+<br>
+<a id="enlace_recuperar" href="#"><i class="fa fa-key"></i> <span>Recuperar contraseña</span></a>
+</div>
+<div class="col-xs-12 col-md-6 form-group pull-right">
+<input type="submit" id="login-submit" tabindex="4" class="form-control btn btn-login" value="INGRESAR">
+</div>
+</form>
+<form id="register-form" data-token="Prrm9ifqRKohwB8GPlfjyFltvCiRnYZEbXIbcSnE" action="https://www.pelisplay.tv/usuario/registro" method="post" role="form" style="display: none;">
+<h2>REGISTRAR CUENTA</h2>
+<div class="login_registro_errores">
+<ul>
+</ul>
+</div>
+<div class="form-group">
+<input type="text" name="usuario" id="usuario_registro" tabindex="1" class="form-control input-acceso" placeholder="Nombre de usuario..." value="">
+</div>
+<div class="form-group">
+<input type="text" name="nombre" id="nombre_registro" tabindex="1" class="form-control input-acceso" placeholder="Nombre real..." value="">
+</div>
+<div class="form-group">
+<input type="text" name="email" id="email_registro" tabindex="1" class="form-control input-acceso" placeholder="Correo electronico..." value="">
+</div>
+<div class="form-group">
+<input type="password" name="password" id="password_registro" tabindex="2" class="form-control input-acceso" placeholder="Contraseña...">
+</div>
+<div class="form-group">
+<input type="password" name="password_confirmation" id="password_confirmation_registro" tabindex="2" class="form-control input-acceso" placeholder="Confirme su contraseña...">
+</div>
+<div class="form-group">
+<div class="row">
+<div class="col-sm-6 col-sm-offset-3">
+<input type="submit" name="register-submit" id="register-submit" tabindex="4" class="form-control btn btn-register" value="REGISTRARSE">
+</div>
+</div>
+</div>
+</form>
+<form id="recovery-form" data-token="Prrm9ifqRKohwB8GPlfjyFltvCiRnYZEbXIbcSnE" action="https://www.pelisplay.tv/password/email" method="post" role="form" style="display: none;">
+<h2>RECUPERAR CONTRASEÑA</h2>
+<div class="login_registro_errores">
+<ul>
+</ul>
+</div>
+<div class="form-group">
+<input type="text" name="email" id="recovery_email" tabindex="1" class="form-control input-acceso" placeholder="E-mail..." value="">
+</div>
+<div class="form-group">
+<div class="row">
+<div class="col-sm-6 col-sm-offset-3">
+<input type="submit" name="recovery-submit" id="recovery-submit" tabindex="4" class="form-control btn btn-register" value="RECUPERAR CONTRASEÑA">
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="panel-heading">
+<div class="row">
+<div class="col-xs-6 tabs">
+<a href="#" class="active" id="login-form-link"><div class="login">INGRESAR</div></a>
+</div>
+<div class="col-xs-6 tabs">
+<a href="#" id="register-form-link"><div class="register">REGISTRARSE</div></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="searchajax_cont" data-token="Prrm9ifqRKohwB8GPlfjyFltvCiRnYZEbXIbcSnE">
+<div class="content">
+<div class="cerrar_btn"><i class="fa fa-times" aria-hidden="true"></i></div>
+<header class="titulo p" style="display: block;">
+<h2 style="display: block;">
+<i class="fa fa-search"></i>
+Buscar: <span class="titulo_busqueda"></span>
+</h2>
+<div class="menu_tipo">
+<span data-filtro="all" class="menu_tipo_item activo">Todos</span>
+<span data-filtro="pelicula" class="menu_tipo_item">Películas</span>
+<span data-filtro="serie" class="menu_tipo_item">Series</span>
+</div>
+</header>
+ </div>
+<div class="sinCarousel ResHover" style="padding: 0px;">
+<div class="content">
+<ul class="sinCarousel-inner thumbnails movie-carrusel" style="margin-top: 0px;">
+</ul>
+<div class="ajax_buscador_error">
+<span><i class="fa fa-times" aria-hidden="true"></i> No se encontró resultados...</span>
+</div>
+</div>
+</div>
+</div>
+<div id="scrim" class="drawer-scope-nav app-drawer"></div>
+ <script src="/static/js/jquery.min.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/jquery.emojiarea.min.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/packs/basic/emojis.js?v=23.01.2019.1.12"></script>
+<script>
+                $("#comentariodata").emojiarea({button: '#emoji_select'});
+                $(".textarea_respuesta").emojiarea({
+                    dataText: 'Escribir una respuesta...',
+                    buttonClass: '.emoji_select'
+                });
+                $(".comentario_body").emojiParse();
+            </script>
+<script src="/static/js/bootstrap/bootstrap.min.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/js.min.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/functions.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/owl.carousel.min.js?v=23.01.2019.1.12"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122655143-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122655143-1');
+</script>
+<img style="display:none" src="https://whos.amung.us/swidget/pelispedia7.png" />
+<script type="text/javascript">
+    var ad_idzone = "162",
+    ad_popup_fallback = false,
+    ad_popup_force = true,
+    ad_new_tab = true,
+    ad_frequency_period = 1440,
+    ad_frequency_count = 3,
+    ad_trigger_method = 1;
+</script>
+<script type="text/javascript" src="https://ads.optimizesrv.com/popunder1000.js"></script>
+<style>
+            #facebook_like{
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                z-index: 2;
+                border-radius: 6px;
+                background: white;
+                -webkit-box-shadow: 0 0 20px #018cd1;
+                box-shadow: 0 0 20px #018cd1;
+                display: none;
+            }
+
+            #facebook_like .cerrar_like{
+                position: absolute;
+                color: #3ed1f0;
+                right: -10px;
+                top: -10px;
+                cursor: pointer;
+                font-size: 13px;
+                z-index: 1;
+            }
+        </style>
+<div id="facebook_like">
+<div class="cerrar_like" title="Cerrar"><i class="fas fa fa-times-circle" aria-hidden="true"></i></div>
+
+<div id="fb-root"></div>
+<script>
+
+
+                    (function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.2';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));
+
+                    window.addEventListener( 'load', function( event ) {
+                        var facebook_like = document.getElementById("facebook_like");
+                        FB.init({
+                            appId: '1861954284075558',
+                            xfbml: true,
+                            version: 'v3.2'
+                        });
+                        FB.getLoginStatus(
+                            function (response) {
+                                if (response.status === 'connected') {
+                                    if(facebook_like){
+                                        facebook_like.style.display = 'block';
+                                    }
+                                } else if (response.status === 'not_authorized') {
+                                    if(facebook_like){
+                                        facebook_like.style.display = 'block';
+                                    }
+                                } else {
+                                }
+                            }
+                        );
+                    });
+
+                </script>
+<div class="fb-like" data-href="https://www.facebook.com/PelisPlay" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+</div>
+<script>
+            document.addEventListener('DOMContentLoaded', function() {
+
+                var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+
+                if(is_chrome) {
+                    if(Notification.permission !== 'granted') {
+                        Notification.requestPermission().then(function(permission) {
+                            if(permission === 'granted' && 'serviceWorker' in navigator) {
+                                navigator.serviceWorker.register('/sw.js?v=13042019-1358').then(initialiseState);
+                            } else {
+                                console.log('service worker not present');
+                            }
+                        });
+                    }
+                }
+            });
+
+            function initialiseState() {
+
+                //check if notification is supported or not
+                if(!('showNotification' in ServiceWorkerRegistration.prototype)) {
+                    console.log('Notificaiton are not supported');
+                    return;
+                }
+                //check if user has blocked push notification
+                if(Notification.permission === 'denied'){
+                    console.log('User has blocked the notification');
+                }
+                //check if push messaging is supported or not
+                if(!('PushManager' in window)) {
+                    console.log('Push messaging is not supported');
+                    return;
+                }
+
+                navigator.serviceWorker.ready
+                    .then(function(serviceWorkerRegistration) {
+                        return serviceWorkerRegistration.pushManager.subscribe({
+                            userVisibleOnly: true
+                        });
+                    })
+                    .then(function(subscription) {
+                        var token = subscription.endpoint.substring(40, subscription.endpoint.length);
+                        fetch('/web_tools/notificaciones', {
+                            method: 'POST',
+                            headers: {
+                                "Content-Type": "application/json"
+                            },
+                            body: JSON.stringify({'user_token': token, '_token': window.laravel_token})
+                        }).then(function(response) {
+                            return response.json();
+                        }).then(function(myJson) {
+                            console.log(myJson);
+                        });
+                    });
+            }
+        </script>
+</body>
+</html>

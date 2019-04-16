@@ -1,0 +1,2201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//ES" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+<head>
+<title>Peliculas y Series de Drama en HD Gratis | PelisPlay.TV</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="es" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Tenemos la más grande colección de Peliculas y Series de Drama en HD, ENTRA y disfruta de los mejores estrenos de Drama en PelisPlay.TV">
+<meta name="keywords" content="peliculas de Drama, peliculas de Drama online, ver peliculas de Drama online, series de Drama online, ver series de Drama online, peliculas de Drama online gratis, peliculas gratis de Drama, series de Drama online gratis, series online de Drama, peliculas y series de Drama gratis en español">
+<meta name="robots" content="index, follow" />
+<meta name="revisit" content="1 days" />
+<meta name="googlebot" content="index, follow" />
+<meta property="og:title" content="Peliculas y Series de Drama en HD Gratis | PelisPlay.TV" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="/storage/imagenes/otros/opt_X2ZXQ0Q9ittS1PN2vQhiIoHO6eJEnKxVoHWyFnCZ.jpeg" />
+<meta property="og:url" content="https://www.pelisplay.tv/genero/drama" />
+<meta property="og:description" content="Tenemos la más grande colección de Peliculas y Series de Drama en HD, ENTRA y disfruta de los mejores estrenos de Drama en PelisPlay.TV" />
+<meta property="og:locate" content="es_ES" />
+<link rel="canonical" href="https://www.pelisplay.tv/genero/drama" />
+<link rel="next" href="https://www.pelisplay.tv/genero/drama/2" />
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" sizes="16x16" href="/static/img/favicon.png">
+<link rel="stylesheet" href="/static/css/bootstrap/bootstrap.min.css?v=23.01.2019.1.12">
+<link rel="stylesheet" href="/static/css/style.min.css?v=23.01.2019.1.12">
+<link rel="stylesheet" href="/static/css/responsive.min.css?v=23.01.2019.1.12">
+<link href="/static/css/font-awesome/css/font-awesome.min.css?v=23.01.2019.1.12" rel="stylesheet">
+<link href="/static/css/owl.carousel.min.css?v=23.01.2019.1.12" rel="stylesheet">
+<link href="/static/css/jquery.emojiarea.css?v=23.01.2019.1.12" rel="stylesheet">
+</head>
+<script>
+    window.laravel_token = "jcTkvmlurKwJK2gYdN8X0V1vLng7IpI3T6GjX8nl";
+    window.laravel_default_avatar = "/static/img/user.png";
+            window.laravel_login_check = false;
+    </script>
+<body>
+<header id="web_header" class="media" style="z-index: 11;">
+<div class="content">
+<div class="content-header row">
+<a href="#" class="scope-drawer col-xs-1 hidden-sm hidden-md hidden-lg">
+<i class="icon-navicon"></i>
+</a>
+<div class="content-search col-xs-5 col-sm-8 col-md-9">
+ <form class="hidden-xs" action="https://www.pelisplay.tv/buscar" method="GET">
+<input class="hs-input" autocomplete="off" name="q" placeholder="Buscar en películas y series." type="text">
+<button type="submit" class="ico-search"></button>
+</form>
+</div>
+<div class="content-logo col-xs-6 col-sm-4 col-md-3">
+<a id="logo_contenedor" href="https://www.pelisplay.tv"><img src="/imagenes/pelisplay.png?v=1555059809"></a>
+<div id="login_header">
+<div class="profile-photo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<img class="img-photo-profile" src="/static/img/user.png">
+</div>
+<div class="user_logeado" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<i class="ico-down-arrow"></i>
+</div>
+<ul style="left: auto; right: 0px; border: 1px solid #2A2B2F" class="order-comment-toggle-list width-complet dropdown-menu" aria-labelledby="dropdownMenu1">
+<li><a id="header_login_boton" href="#" data-toggle="modal" data-target="#LoginRegistro"><i class="fa fa-sign-in"></i> Login</a></li>
+<li><a id="header_registro_boton" href="#" data-toggle="modal" data-target="#LoginRegistro"><i class="fa fa-user-plus"></i> Registro</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</header>
+<nav class="nav-content">
+<div class="content">
+<ul>
+<li class="col-xs-12 hidden-sm hidden-md hidden-lg">
+<form action="https://www.pelisplay.tv/buscar" method="GET">
+<input class="hs-input" name="q" autocomplete="off" placeholder="Buscar en películas y series." type="text">
+<button type="submit" class="ico-search"></button>
+</form>
+</li>
+<li><a href="https://www.pelisplay.tv"><i class="ico-nav ico-nav-home"></i><span>INICIO</span></a></li>
+<li><a href="https://www.pelisplay.tv/ver-peliculas" class=""><i class="ico-nav ico-nav-cine"></i><span>PELÍCULAS</span></a></li>
+<li><a href="https://www.pelisplay.tv/series" class=""><i class="ico-nav ico-nav-series"></i><span>SERIES</span></a></li>
+<li><a href="https://www.pelisplay.tv/animacion"><i class="ico-nav ico-nav-animes"></i><span>ANIMADOS</span></a></li>
+<li><a href="https://www.pelisplay.tv/estrenos"><i class="ico-nav ico-nav-tv"></i><span>ESTRENOS</span></a></li>
+<li><a href="https://www.pelisplay.tv/netflix"><i class="ico-nav ico-nav-aplicacion"></i><span>NETFLIX</span></a></li>
+</ul>
+</div>
+</nav>
+<div class="wrapper headerpaddingfix" style="min-height: 400px;">
+<div class="resCarousel category-carrusel">
+<ul class="owl-carousel carrusel_categorias resCarousel-inner category-carrusel-inner">
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/drama" class="category">
+<img src="/storage/imagenes/otros/opt_X2ZXQ0Q9ittS1PN2vQhiIoHO6eJEnKxVoHWyFnCZ.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_S9VqySUbTV3HDirqWKAlKhRemSfa3styzKl3n9HJ.png">
+</div>
+<div class="category-name">Drama</div>
+<div class="category-description">1395 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/comedia" class="category">
+<img src="/storage/imagenes/otros/opt_NkQmvqsRJZ7AKYp4KFGmljYhr8j3Vq28yMMKxUwi.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_50UJaaO054AqebgEaEMsTESu8QqRMPlCOS0OupRR.png">
+</div>
+<div class="category-name">Comedia</div>
+<div class="category-description">1088 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/accion" class="category">
+<img src="/storage/imagenes/otros/opt_TVW2g4Hlxjmt5OHphmHpwYqxrb8NYuayu3FcseMC.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_Eren0IfkiZyda5XeXlSAksMYKlDIdUB3OsnIOJ3Q.png">
+</div>
+<div class="category-name">Acción</div>
+<div class="category-description">894 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/suspense" class="category">
+<img src="/storage/imagenes/otros/opt_OaeRkYErwftQHBcN6mW2q8m25We5XBtOwSplCdVP.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_ZsrdNfPKL63JbgJgfm6mkSBFdTaz5E4MpUTMMe8Z.png">
+</div>
+<div class="category-name">Suspense</div>
+<div class="category-description">864 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/aventura" class="category">
+<img src="/storage/imagenes/otros/opt_Snx1G6mm1dAivMqL1kux4PBfDvcsX4XYpxyX0Gh2.png" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_TNsLDfWBmwd0fq6bRcqBg51Su6JEpxUOLdt8KNJx.png">
+</div>
+<div class="category-name">Aventura</div>
+<div class="category-description">623 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/terror" class="category">
+<img src="/storage/imagenes/otros/opt_c692wh9yxx7KJtZAlQvfuFtmbroLT2vonyfhcwFC.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_plffmAJlsC7n4USIanD7PakADpzSvQ36MhoGPlt4.png">
+</div>
+<div class="category-name">Terror</div>
+<div class="category-description">495 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/crimen" class="category">
+ <img src="/storage/imagenes/otros/opt_jgXVOABtl9BPdxhHsmFDpdx8huJE5B8NbkKqJMa4.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_HmhslUkC5ihJjqZ5Y6XW1bzmhiHI9UK40tFEMQ8G.png">
+</div>
+<div class="category-name">Crimen</div>
+<div class="category-description">447 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/ciencia-ficcion" class="category">
+<img src="/storage/imagenes/otros/opt_EiUVLlM94KABcOPP0FZJhatd3RufLuysyXuUOWLg.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_hyDIavfPnqWQbvaGW5pgdijgPHlVY96ByDTYv53H.png">
+</div>
+<div class="category-name">Ciencia ficción</div>
+<div class="category-description">430 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/romance" class="category">
+<img src="/storage/imagenes/otros/opt_PsG2t9c3QpMWkBsHV6iBs42tsIUUq9npA91PeX1F.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_RiEcRghQEbWVnLQMS2embRkLtArefMNcMVWGXNgy.png">
+</div>
+<div class="category-name">Romance</div>
+<div class="category-description">405 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/familia" class="category">
+<img src="/storage/imagenes/otros/opt_uARbWskP6bCpS04bd5V15LCH5fEOiIoWD1LlX6i5.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_Vv6UDCuXKAXnfhcL4Xk74MWGCsdVMeCeXaAJ7NCb.png">
+</div>
+<div class="category-name">Familia</div>
+<div class="category-description">389 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/fantasia" class="category">
+<img src="/storage/imagenes/otros/opt_uYtYyZ8kLkw0G2pnriiA2HvuJgDuuRLHvpj8e0kS.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_nRzkazGYOMAKgk0irhvCUX07NxxkjCy5QWiS772K.png">
+</div>
+<div class="category-name">Fantasía</div>
+<div class="category-description">362 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/misterio" class="category">
+<img src="/storage/imagenes/otros/opt_dk6ipEHAfu3jQDRnR4nsSRnjZxL7RhVRWrUp4dNe.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_JcI376KX53M1rnSn0kOd3wXqEhLMIf3HsTAlIA1O.png">
+</div>
+<div class="category-name">Misterio</div>
+<div class="category-description">325 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/musica" class="category">
+<img src="/storage/imagenes/otros/opt_peZEajowLIsAnMUW300ReO2kMfAYQKGacrAFAkmi.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_32QHs8iOHOADBpRlSaHLWVz2FGv1BfHQj9lNK4pA.png">
+</div>
+<div class="category-name">Música</div>
+<div class="category-description">82 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/documental" class="category">
+<img src="/storage/imagenes/otros/opt_9ua0OxmTOkIc64J4Nf2FYNWJDBXvG1iui7O69cS1.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_T2MQ3DvkdjkscIOdPt9zjOUmbFcDFbohL0f4DIDn.png">
+</div>
+<div class="category-name">Documental</div>
+<div class="category-description">66 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/artes-marciales" class="category">
+<img src="/storage/imagenes/otros/opt_MVNZurbm2Itse0lX6XoCR7lWHPFvUY9Ht42T012d.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_QfQsy05yXo2NQjVi9xuivfmRlMz1SBwJ1iDiE6DK.png">
+</div>
+<div class="category-name">Artes marciales</div>
+<div class="category-description">37 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/navidad" class="category">
+<img src="/storage/imagenes/otros/opt_al4Qp9NVUU3oL1fafN08iWxVo9ydOPIrsITlmZZ7.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_mN9LYcZMUIVEKMklX7nme19apMYVVudQu4WORl6N.png">
+</div>
+<div class="category-name">Navidad</div>
+<div class="category-description">36 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/western" class="category">
+<img src="/storage/imagenes/otros/opt_86HLedABQ1c29KHMUs3vu9klzsh3bZ0nDtCM9CJd.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_KFv11amK1oZMiv7AkpV2AhOLw7zn4RmPJiQcxBgB.png">
+</div>
+<div class="category-name">Western</div>
+<div class="category-description">29 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/zombies" class="category">
+<img src="/storage/imagenes/otros/opt_z0tT50SNchpDqo0WSq1vlIwRooa4WjLGwySnMXdB.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_qh2njTjhhobJGYrz4Pq6IG1jQfI4gxPw0Ryoh8kG.png">
+</div>
+<div class="category-name">Zombies</div>
+<div class="category-description">11 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/belico-guerra" class="category">
+<img src="/storage/imagenes/otros/opt_TOrUV10i0z0zspCWczyFRtk1GtIRU10unffOWZ9A.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_xkRuZBGoKY68p14qsf07BxpCnnjhdUqs8rbosJvs.png">
+</div>
+<div class="category-name">Guerra</div>
+<div class="category-description">5 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/religion" class="category">
+<img src="/storage/imagenes/otros/opt_Mo7cOS5Uo2yQEjW4qiY1Jh00lTdDp0MkT3M9J4dD.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_i2Br9qNofVHdEajnQHYb42y7zJMFH86dQ7P2bPXH.png">
+</div>
+<div class="category-name">Religión</div>
+<div class="category-description">3 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/biograficas" class="category">
+<img src="/storage/imagenes/otros/opt_vXZcsakgLYz8opZYgbGDhq0JnsY7U3rmxV70kqff.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_h4QScHTWbd6mumKPSqeoLudq65DDGOZOUVTqmgO4.png">
+</div>
+<div class="category-name">Biográficas</div>
+<div class="category-description">2 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/catastrofes" class="category">
+<img src="/storage/imagenes/otros/opt_A73ua7NnE02qpfDGBZVDhudhIzSNLfRLn7Q0AfLQ.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_5q4wsOQEM89Zg7szvhm7RsWBxL64nA0a3YiiX9fA.png">
+</div>
+<div class="category-name">Catástrofes</div>
+<div class="category-description">2 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/deportivas" class="category">
+<img src="/storage/imagenes/otros/opt_XJ18BJJbCKKHSRcNBnabMIKpDdKLP86d8rsmlSQu.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_u5UkWVkb3jM41cEOMIsLqwRv2khdq0r6SDryDDDJ.png">
+</div>
+<div class="category-name">Deportivas</div>
+<div class="category-description">2 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/anime" class="category">
+<img src="/storage/imagenes/otros/opt_24FUzD16i8SB5pd4aw70ITqh8G1NUOoRvwe7qrpq.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_6VzNrTufZx8C8WSdKmeS1oJljRMmh4oruwhnEIcF.png">
+</div>
+<div class="category-name">Anime</div>
+<div class="category-description">1 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+</ul>
+<button class="leftLst"><i class="a"></i></button>
+<button class="rightLst"><i class="b"></i></button>
+</div>
+<div class="sinCarousel ResHover added">
+<div class="title-border-botton">
+<div class="content">
+<header class="titulo p">
+<h1>
+<i class="ico-video-player"></i>
+Peliculas y Series de Drama en HD
+</h1>
+</header>
+</div>
+</div>
+<div class="content">
+<nav class="bar-filter">
+<ul class="bar-filter-list row">
+<li class="bar-filter-list-item col-xs-12 col-sm-1 col-md-2" style="border-style: none;">
+</li>
+<li class="bar-filter-list-item dropdown col-xs-12 col-sm-4 col-md-3">
+<a class="item-block latest" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">
+<div class="contenedor_filtro">
+TIPO: TODOS
+<i class="ico-down-arrow"></i>
+</div>
+</a>
+<ul class="order-comment-toggle-list width-responsivo dropdown-menu" aria-labelledby="dropdownMenu1">
+<li><a href="https://www.pelisplay.tv/genero/drama">Todos</a></li>
+ <li><a href="https://www.pelisplay.tv/ver-peliculas/drama">Películas</a></li>
+<li><a href="https://www.pelisplay.tv/series/drama">Series</a></li>
+</ul>
+</li>
+<li class="bar-filter-list-item dropdown col-xs-12 col-sm-4 col-md-4">
+<a class="item-block latest" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">
+<div class="contenedor_filtro">
+ORDENAR POR: Fecha de creación
+<i class="ico-down-arrow"></i>
+</div>
+</a>
+<ul class="order-comment-toggle-list width-responsivo dropdown-menu" aria-labelledby="dropdownMenu1">
+<li><a href="https://www.pelisplay.tv/genero/drama?filtro=visitas">Visitas</a></li>
+<li class=active><a href="https://www.pelisplay.tv/genero/drama?filtro=fecha_creacion">Fecha de creación</a></li>
+<li><a href="https://www.pelisplay.tv/genero/drama?filtro=fecha_actualizacion">Fecha de actualización</a></li>
+<li><a href="https://www.pelisplay.tv/genero/drama?filtro=a%C3%B1o">Año</a></li>
+</ul>
+</li>
+<li class="bar-filter-list-item dropdown col-xs-12 col-sm-3  col-md-3">
+<a class="item-block latest" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">
+<div class="contenedor_filtro">
+ORDEN: Descendente
+<i class="ico-down-arrow"></i>
+</div>
+</a>
+<ul class="order-comment-toggle-list width-responsivo dropdown-menu" aria-labelledby="dropdownMenu1">
+<li class=active><a href="https://www.pelisplay.tv/genero/drama?orden=descendente">Descendente</a></li>
+<li><a href="https://www.pelisplay.tv/genero/drama?orden=ascendente">Ascendente</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<ul class="sinCarousel-inner thumbnails movie-carrusel">
+<li class="item">
+<figure>
+<div class="movie">
+ <div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caf0b7212e4f_mini-wQkYieCKVzRglLvJADSEHMm12Fm.jpg" alt="Rompiendo las reglas 2 (2011)" title="Rompiendo las reglas 2 2011" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas-2">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Rompiendo las reglas 2 (2011)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Rompiendo las reglas 2 (2011)</div>
+<div class="Description"> <div>Zack, Tim, Justin y Mike provienen de diferentes orígenes, pero comparten la misma pasión: la lucha final cada uno con su propio estilo.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.0)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+747 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Michael Jai White
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+ </div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas-2">
+<h4 class="name-movie"><strong>Rompiendo las reglas 2</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+ <div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caf0b72cd675_mini-vT50yAU2R7GNZSdPMBkQilg0GHa.jpg" alt="Rompiendo las reglas 3 (2016)" title="Rompiendo las reglas 3 2016" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas-3">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Rompiendo las reglas 3 (2016)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Rompiendo las reglas 3 (2016)</div>
+<div class="Description"> <div>Esta película continúa con la historia de la segunda parte, con el luchador de MMA Case Walker que se prepara para regresar a las competencias y ser el campeón una vez más.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+671 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Michael Jai White
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+ </div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas-3">
+<h4 class="name-movie"><strong>Rompiendo las reglas 3</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caf0b70a303e_mini-7nFLoXF9WzAE1di91oP5MUzMQGJ.jpg" alt="Rompiendo las reglas (2008)" title="Rompiendo las reglas 2008" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Rompiendo las reglas (2008)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Rompiendo las reglas (2008)</div>
+<div class="Description"> <div>En un intento por encajar en la nueva ciudad, Jack Tyler (Sean Faris) acepta la invitación de su compañera Baja (Amber Heard) para acudir a una fiesta, en la que acaba inmerso en una dura pelea. Después de ser vencido y humillado por Ryan McDonald (Cam Gigandet), un compañero le habla de un deporte...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+888 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Jeff Wadlow
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas">
+<h4 class="name-movie"><strong>Rompiendo las reglas</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caf0b225ba1d_mini-xickd7sH1qpYrEELaR3UiWXtblE.jpg" alt="Promesa sangrienta (2009)" title="Promesa sangrienta 2009" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/promesa-sangrienta">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Promesa sangrienta (2009)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.8</span>
+</div>
+</div>
+ </a>
+<div class="tip">
+<div class="Title">Promesa sangrienta (2009)</div>
+<div class="Description"> <div>Isiah Bone, un ex-presidiario es la nueva promesa del undo de las peleas callejeras clandestinas de Los Angeles. Cuando derrota al campeón actual, el jefe de la mafía local quiere que participe en una serie de peleas internacionales de alto riesgo. La negativa de Bone provoca un enfrentamiento entre...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.8)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+583 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Ben Ramsey
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/promesa-sangrienta">
+<h4 class="name-movie"><strong>Promesa sangrienta</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+ </figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caf0b2188c41_mini-9qbt1xLZoC4fDNLypckoPErPWBB.jpg" alt="Orígenes (2014)" title="Orígenes 2014" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/origenes">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Orígenes (2014)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+ <span class="qualification">7.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Orígenes (2014)</div>
+<div class="Description"> <div>Ian Gray, un estudiante de biología molecular especializado en la evolución del ojo humano, conoce a una misteriosa mujer cuyo iris es multicolor. Años después, su investigación lo conduce a un descubrimiento asombroso, que podría cambiar la forma en que percibimos nuestra existencia.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+ <i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+864 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Mike Cahill
+</div>
+<div class="tipcategorias">
+<span>Ciencia ficción</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/origenes">
+<h4 class="name-movie"><strong>Orígenes</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+ </figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caf0b201fcd7_mini-ms9WEALWyumQ80Zkkb94gyUsjIZ.jpg" alt="Moneyball: Rompiendo las reglas (2011)" title="Moneyball: Rompiendo las reglas 2011" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/moneyball-rompiendo-las-reglas">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Moneyball: Rompiendo las reglas (2011)</p>
+ <div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Moneyball: Rompiendo las reglas (2011)</div>
+<div class="Description"> <div>Billy Beane (Brad Pitt) es el gerente general del equipo de béisbol Atléticos de Oakland, que acaba de perder otra temporada más. Decidido a relanzar el equipo, y con la ayuda del joven economista Peter Brand (Jonah Hill), utilizará las estadísticas de éste para fichar a los jugadores que cree más o...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.1)  
+<i class="icon-star star-active"></i>
+ <i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+226 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Bennett Miller
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/moneyball-rompiendo-las-reglas">
+<h4 class="name-movie"><strong>Moneyball: Rompiendo las reglas</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+ </figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caefe3971ba2_mini-f1pTmcMhoKlZVIhu2eJyB6Ul0KY.jpg" alt="La Memoria de los Muertos (2004)" title="La Memoria de los Muertos 2004" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/la-memoria-de-los-muertos">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">La Memoria de los Muertos (2004)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">La Memoria de los Muertos (2004)</div>
+<div class="Description"> <div>El chip Zoë, un implante de memoria, se coloca en el cerebro cuando naces, y su misión es grabar absolutamente toda tu vida. Cuando mueres, esa grabación se edita en una "rememorización" de todo lo sucedido, como una película que se muestra en tu funeral con las piezas unidas por un montador. Juguet...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+413 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Omar Naim
+</div>
+<div class="tipcategorias">
+<span>Ciencia ficción</span>
+<span>Drama</span>
+<span>Misterio</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/la-memoria-de-los-muertos">
+<h4 class="name-movie"><strong>La Memoria de los Muertos</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caefdad663d1_mini-12J1daeZJDDMpAdKcYea96JvuOO.jpg" alt="El número 23 (2007)" title="El número 23 2007" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/el-numero-23">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">El número 23 (2007)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">El número 23 (2007)</div>
+<div class="Description"> <div>Narra la historia de un hombre obsesionado con un libro, cuyo relato parece describir detalles de su vida íntima. El hombre comenzará a sentirse amenazado y desarrolla una paranoia por un número que se repite una y otra vez en todo el libro: el 23.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+315 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Joel Schumacher
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/el-numero-23">
+<h4 class="name-movie"><strong>El número 23</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caefd39bae35_mini-yB2qAOocePD92o2xQ2vLv7vXGxw.jpg" alt="Al frente de la clase (2008)" title="Al frente de la clase 2008" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/al-frente-de-la-clase">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Al frente de la clase (2008)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.8</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Al frente de la clase (2008)</div>
+<div class="Description"> <div>Front of the class ("Al frente de la Clase"), está basada en la vida de Brad Cohen, un joven que padece el síndrome de Tourette, una enfermedad que se caracteriza por la realización de ciertos ruidos y tics que produce con el cuerpo, ambos incontrolables . La película comienza con un Brad adulto qu...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.8)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+108 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Peter Werner
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/al-frente-de-la-clase">
+<h4 class="name-movie"><strong>Al frente de la clase</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caec59608ad2_mini-8rps0oYelhGzn5a6VpYzndf5hQZ.jpg" alt="Orgullo y prejuicio (2005)" title="Orgullo y prejuicio 2005" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/orgullo-y-prejuicio">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Orgullo y prejuicio (2005)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Orgullo y prejuicio (2005)</div>
+<div class="Description"> <div>Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+629 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Joe Wright
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Romance</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/orgullo-y-prejuicio">
+<h4 class="name-movie"><strong>Orgullo y prejuicio</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caeb9bf40f28_mini-eDaTo8TWVGpxE3ckrLqvIDoqwGr.jpg" alt="The Lovely Bones (2009)" title="The Lovely Bones 2009" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/the-lovely-bones">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">The Lovely Bones (2009)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.8</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">The Lovely Bones (2009)</div>
+<div class="Description"> <div>Basada en la novela "Desde mi cielo" de Alice Sebold. Susie Salmon, una niña de catorce años, que muere asesinada, observa desde el cielo cómo cambia la vida de su familia y de sus amigos tras la terrible tragedia. Mientras un detective intenta resolver el caso, el asesino borra todas las pistas y s...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.8)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+180 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Peter Jackson
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Fantasía</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+ <div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/the-lovely-bones">
+<h4 class="name-movie"><strong>The Lovely Bones</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caeb9be85f45_mini-xGY5rr8441ib0lT9mtHZn7e8Aay.jpg" alt="The Dirt (2019)" title="The Dirt 2019" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/the-dirt">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">The Dirt (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">The Dirt (2019)</div>
+<div class="Description"> <div>En esta cruda biografía basada en el libro superventas de Mötley Crüe, cuatro inadaptados de Los Ángeles disfrutan de grandes éxitos y sufren las desgracias más atroces.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+2,925 visitas
+</div>
+<div class="otros">
+ <i class="fas fa fa-film"></i>
+Director: Jeff Tremaine
+</div>
+<div class="tipcategorias">
+<span>Comedia</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Música</span>
+</div>
+ </div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/the-dirt">
+<h4 class="name-movie"><strong>The Dirt</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caeb9bad9fab_mini-pyoUA8HThfSUJUSusG5Fg2VUFOk.jpg" alt="Scream: Halloween Special (2016)" title="Scream: Halloween Special 2016" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/scream-halloween-special">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Scream: Halloween Special (2016)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+ <div class="Title">Scream: Halloween Special (2016)</div>
+<div class="Description"> <div>Emma lucha por enfocarse en su futuro; Noah y Stavo han combinado fuerzas para crear una novela gráfica de gran éxito basada en los asesinatos; Audrey se encuentra en una nueva relación.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+ <i class="fas fa fa-eye"></i>
+255 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Oz Scott
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Terror</span>
+</div>
+</div>
+ </div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/scream-halloween-special">
+<h4 class="name-movie"><strong>Scream: Halloween Special</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+ <span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caeb7bc6f990_mini-yYkl2uCB5hK8y1EcqXdQ6Td5mlD.jpg" alt="Fiebre del sábado noche (1977)" title="Fiebre del sábado noche 1977" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/fiebre-del-sabado-noche">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Fiebre del sábado noche (1977)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Fiebre del sábado noche (1977)</div>
+<div class="Description"> <div>En Nueva York, después de trabajar toda la semana en una tienda de pinturas de Brooklyn, Tony Manero (John Travolta) se prepara esmeradamente para disfrutar de la noche del sábado: se empapa en colonia Brut, se pone una camisa de flores ajustada, pantalones de tela de gabardina y zapatos de platafor...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+ <div class="otros">
+<i class="fas fa fa-eye"></i>
+151 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: John Badham
+</div>
+<div class="tipcategorias">
+<span>Comedia</span>
+<span>Drama</span>
+ <span>Música</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/fiebre-del-sabado-noche">
+<h4 class="name-movie"><strong>Fiebre del sábado noche</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caeb7b8cabe7_mini-3MsqqHQR8TfHxcaNCGBgx7vRrSf.jpg" alt="El bombardero Memphis Belle (1990)" title="El bombardero Memphis Belle 1990" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/el-bombardero-memphis-belle">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">El bombardero Memphis Belle (1990)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.7</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">El bombardero Memphis Belle (1990)</div>
+<div class="Description"> <div>Drama ambientado en la Segunda Guerra Mundial basado en los documentales realizados durante 1943 por el director americano William Wyler. La historia se centra en la tripulación de "Memphis Belle", un enorme bombardero del ejército aliado. Los diez jóvenes americanos que componen su tripulación han...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.7)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+97 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Michael Caton-Jones
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/el-bombardero-memphis-belle">
+<h4 class="name-movie"><strong>El bombardero Memphis Belle</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5caeb7b701aa8_mini-wParjmbk3KfRsd0sLx2t3lmVdbe.jpg" alt="Dragon Ball Z: El último combate (1990)" title="Dragon Ball Z: El último combate 1990" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/dragon-ball-z-el-ultimo-combate">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Dragon Ball Z: El último combate (1990)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Dragon Ball Z: El último combate (1990)</div>
+<div class="Description"> <div>Especial para televisión que se ubica en el arco argumental de Dragon Ball Z. Se cuenta la historia del padre de Goku, Bardock, y su intento por salvar su planeta aunque le cueste la vida...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+ <i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+657 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Mitsuo Hashimoto
+</div>
+<div class="tipcategorias">
+ <span>Acción</span>
+<span>Animación</span>
+<span>Ciencia ficción</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/dragon-ball-z-el-ultimo-combate">
+<h4 class="name-movie"><strong>Dragon Ball Z: El último combate</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_serie">Serie</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5ca8fe81262d9_mini-3j3UjcLALCKMD0lc8QeAwnjs8P5.jpg" alt="Revenge (2011)" title="Revenge 2011" class="image-movie">
+<a href="https://www.pelisplay.tv/serie/revenge-2">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Revenge (2011)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Revenge (2011)</div>
+<div class="Description"> <div>Emily Thorne, cuyo verdadero nombre es Amanda Clarke, regresa a Los Hamptons para vengarse de las personas que causaron la muerte de su padre, David Clarke, y que destruyeron su familia. Cuando Amanda era una niña, su padre fue arrestado por cargos inventados de terrorismo, fue juzgado injustamente...</div>
+<div class="questions tip-questions">
+ <div class="list-star">
+Puntuación: (6.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+4,045 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+ Creador: Mike Kelley
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/revenge-2">
+<h4 class="name-movie"><strong>Revenge</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_serie">Serie</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5ca7c88c913c6_mini-dyktLijhV8QY65cAqGIir2PjOc5.jpg" alt="Arenas Movedizas (2019)" title="Arenas Movedizas 2019" class="image-movie">
+<a href="https://www.pelisplay.tv/serie/arenas-movedizas">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Arenas Movedizas (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">0.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Arenas Movedizas (2019)</div>
+<div class="Description"> <div>Después de que una tragedia en un centro escolar conmocione a un barrio rico de Estocolmo, una adolescente aparentemente equilibrada acaba acusada de asesinato.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (0.0)  
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+14,104 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Desconocido
+ </div>
+<div class="tipcategorias">
+<span>Crimen</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/arenas-movedizas">
+<h4 class="name-movie"><strong>Arenas Movedizas</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_serie">Serie</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5ca7b5f7e6c3a_mini-42At9ZbMmimCUsWIwFbJMSiI2QL.jpg" alt="Fringe (Al límite) (2008)" title="Fringe (Al límite) 2008" class="image-movie">
+ <a href="https://www.pelisplay.tv/serie/fringe-al-limite">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Fringe (Al límite) (2008)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Fringe (Al límite) (2008)</div>
+<div class="Description"> <div>Fringe (en España Fringe: Al límite, también conocida por sus títulos alternativos Fringe: La gran conspiración y Ciencia al límite) es una serie de ciencia ficción estadounidense creada por J. J. Abrams, Alex Kurtzman y Roberto Orci. Se estrenó a través de Fox Broadcasting Company el 9 de septiembr...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+3,767 visitas
+</div>
+ <div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: J.J. Abrams, Alex Kurtzman, Roberto Orci
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+ <div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/fringe-al-limite">
+<h4 class="name-movie"><strong>Fringe (Al límite)</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5ca6b5d4352d8_mini-8nf5FeDneLQhDdo4ZucTeBY7V4.jpg" alt="Tu hijo (2018)" title="Tu hijo 2018" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/tu-hijo">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Tu hijo (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">5.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Tu hijo (2018)</div>
+<div class="Description"> <div>Jaime Jiménez (Jose Coronado) es un médico y padre de familia. Un hombre normal cuya vida da un giro inesperado cuando recibe la noticia de que su hijo Marcos (Pol Monen) se encuentra en estado crítico después de haber recibido una brutal paliza. A partir de ese momento, Jaime se obsesionará con enc...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (5.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+5,561 visitas
+ </div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Miguel Ángel Vivas
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/tu-hijo">
+<h4 class="name-movie"><strong>Tu hijo</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5ca6b551abe38_mini-v4TFcKJ7mgsIefZuiETAqQQgnME.jpg" alt="Lambada, fuego en el cuerpo (1990)" title="Lambada, fuego en el cuerpo 1990" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/lambada-fuego-en-el-cuerpo">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Lambada, fuego en el cuerpo (1990)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">5.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Lambada, fuego en el cuerpo (1990)</div>
+<div class="Description"> <div>Una ardiente cultura de baile underground choca frontalmente con un mundo de riqueza y privilegio... Se trata de un sensual baile, la "Lambada". Kevin Laird (J. Eddie Peck) es profesor de instituto de día y de noche profesor de baile, de "Lambada". La reputación de Kevin corre peligro cuando una alu...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (5.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+2,860 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Joel Silberg
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Música</span>
+<span>Romance</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/lambada-fuego-en-el-cuerpo">
+<h4 class="name-movie"><strong>Lambada, fuego en el cuerpo</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5ca6b4f2a9427_mini-q1JCYrHfAjZcl0tBP5gRBW9MU0E.jpg" alt="Fuego en el cuerpo (1981)" title="Fuego en el cuerpo 1981" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/fuego-en-el-cuerpo">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Fuego en el cuerpo (1981)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Fuego en el cuerpo (1981)</div>
+<div class="Description"> <div>Ned Racine (William Hurt), un joven abogado de Florida, lleva una vida normal hasta que conoce a Matty Walker (Kathleen Turner), una tentadora y sensual mujer casada con un rico hombre de negocios (Richard Crenna). Ned pronto se da cuenta de que Matty es la clase de mujer por la que un hombre sería...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+2,202 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Lawrence Kasdan
+</div>
+<div class="tipcategorias">
+<span>Crimen</span>
+<span>Drama</span>
+<span>Misterio</span>
+<span>Romance</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/fuego-en-el-cuerpo">
+<h4 class="name-movie"><strong>Fuego en el cuerpo</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5ca6b4c815d2b_mini-qH0bedauxJ1g6OVpOwpccB8lq1o.jpg" alt="El cuerpo (2001)" title="El cuerpo 2001" class="image-movie">
+<a href="https://www.pelisplay.tv/pelicula/el-cuerpo-2">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">El cuerpo (2001)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">5.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">El cuerpo (2001)</div>
+<div class="Description"> <div>Sharon Golban es una arqueóloga que descubre unos restos dentro de una tumba en Jerusalén. Tras estudiarlos detenidamente llega a la conclusión de que pueden pertenecer a Jesucristo. Por ello el Vaticano decide enviar al joven sacerdote Matt Gutiérrez para asegurarse de que los hallazgos científicos...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (5.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,231 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Jonas McCord
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+<span>Romance</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/el-cuerpo-2">
+<h4 class="name-movie"><strong>El cuerpo</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<div class="entrada_stick_tipo">
+<span class="stick_pelicula">Película</span>
+</div>
+<img class="posterentrada" src="/storage/imagenes/posters/opt_img_5ca6b4c6a1ddf_mini-2KyFv5UbJofKvIqfBMeXWxFUkwa.jpg" alt="El cantante (2006)" title="El cantante 2006" class="image-movie">
+ <a href="https://www.pelisplay.tv/pelicula/el-cantante">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">El cantante (2006)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">5.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">El cantante (2006)</div>
+<div class="Description"> <div>Biopic del cantante de salsa Héctor Lavoe, un humilde puertoriqueño que emigró a los Estados Unidos en los años sesenta para triunfar en el mundo de la música.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (5.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,691 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+ Director: Leon Ichaso
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Música</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/el-cantante">
+<h4 class="name-movie"><strong>El cantante</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+</ul>
+</div>
+<ul class="pager">
+<li class="disabled"><span>&laquo; Anterior</span></li>
+<li><a href="https://www.pelisplay.tv/genero/drama/2" rel="next">Siguiente &raquo;</a></li>
+</ul>
+</div>
+</div>
+<footer>
+<div class="content">
+<div class="col-xs-6 col-md-6 item-footer">
+<h4>Información util</h4>
+<ul class="menu-links">
+<li><a href="https://www.pelisplay.tv/pagina/politica-de-privacidad">Política de Privacidad</a></li>
+<li><a href="https://www.pelisplay.tv/pagina/condiciones-de-uso">Condiciones de Uso</a></li>
+<li><a href="https://www.pelisplay.tv/pagina/dmca">DMCA</a></li>
+
+</ul>
+</div>
+ <div class="col-xs-6 col-md-3 item-footer">
+<h4>Servicios</h4>
+<ul class="menu-links">
+<li><a href="https://www.facebook.com/PelisPlay" target="_blank">Facebook</a></li>
+<li><a href="https://www.youtube.com/channel/UCs5BzJxxH5CWPbPqw5Hzowg" target="_blank">Youtube</a></li>
+
+</ul>
+</div>
+<div class="col-xs-12 col-md-3 suscribe-footer">
+<div class="footer-suscribe-content">
+<div class="suscribe-title">
+<h5>
+
+<i></i>
+CONTACTANOS
+</h5>
+</div>
+<div class="suscribe-search">
+<form class="" action="https://www.pelisplay.tv/contacto" method="get">
+<div class="input-group suscribe-search-content">
+<input name="email" class="form-control" placeholder="E-mail" type="email" required>
+<div class="input-group-btn group-btn-suscribe-search">
+<button type="submit" class="btn btn-primary btn-suscribe">Enviar</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="copyright">
+<div class="content">
+<div class="col-xs-12 col-md-6 copyright-content">
+© 2019 PelisPlay.Tv | Todos los derechos son reservados
+</div>
+<div class="col-xs-12 col-md-6 copyright-design text-right">
+<span>Desarrollado por: PelisPlay</span>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</footer>
+<div class="modal fade" id="LoginRegistro" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="col-md-6 col-md-offset-3">
+<div class="panel panel-login">
+<div class="panel-body">
+<div class="cerrar_btn"><i class="fa fa-times"></i></div>
+<div class="row">
+<div class="col-lg-12">
+<div class="facebooklogin_div">
+<p>Ingresa mediante tu cuenta de Facebook</p>
+<a class="btn btn-primary" href="https://www.pelisplay.tv/usuario/facebooklogin"><i class="fab fa fa-facebook"></i> Ingresar con Facebook</a>
+<p>o</p>
+</div>
+<form id="login-form" data-token="jcTkvmlurKwJK2gYdN8X0V1vLng7IpI3T6GjX8nl" action="https://www.pelisplay.tv/usuario/login" method="post" role="form" style="display: block;">
+<h2>INGRESAR A MI CUENTA</h2>
+<div class="login_registro_errores">
+<ul>
+</ul>
+</div>
+<div class="form-group">
+<input type="text" name="usuario" id="username_login" tabindex="1" class="form-control input-acceso" placeholder="Nombre de usuario..." value="">
+</div>
+<div class="form-group">
+<input type="password" name="password" id="password_login" tabindex="2" class="form-control input-acceso" placeholder="Contraseña...">
+</div>
+<div class="col-xs-12 col-md-6 form-group pull-left checkbox">
+<input id="checkbox_login" type="checkbox" name="remember">
+<label for="checkbox_login">Recordarme</label>
+<br>
+<a id="enlace_recuperar" href="#"><i class="fa fa-key"></i> <span>Recuperar contraseña</span></a>
+</div>
+<div class="col-xs-12 col-md-6 form-group pull-right">
+<input type="submit" id="login-submit" tabindex="4" class="form-control btn btn-login" value="INGRESAR">
+</div>
+</form>
+<form id="register-form" data-token="jcTkvmlurKwJK2gYdN8X0V1vLng7IpI3T6GjX8nl" action="https://www.pelisplay.tv/usuario/registro" method="post" role="form" style="display: none;">
+<h2>REGISTRAR CUENTA</h2>
+<div class="login_registro_errores">
+<ul>
+</ul>
+</div>
+<div class="form-group">
+<input type="text" name="usuario" id="usuario_registro" tabindex="1" class="form-control input-acceso" placeholder="Nombre de usuario..." value="">
+</div>
+<div class="form-group">
+<input type="text" name="nombre" id="nombre_registro" tabindex="1" class="form-control input-acceso" placeholder="Nombre real..." value="">
+</div>
+<div class="form-group">
+<input type="text" name="email" id="email_registro" tabindex="1" class="form-control input-acceso" placeholder="Correo electronico..." value="">
+</div>
+<div class="form-group">
+<input type="password" name="password" id="password_registro" tabindex="2" class="form-control input-acceso" placeholder="Contraseña...">
+</div>
+<div class="form-group">
+<input type="password" name="password_confirmation" id="password_confirmation_registro" tabindex="2" class="form-control input-acceso" placeholder="Confirme su contraseña...">
+</div>
+<div class="form-group">
+<div class="row">
+<div class="col-sm-6 col-sm-offset-3">
+<input type="submit" name="register-submit" id="register-submit" tabindex="4" class="form-control btn btn-register" value="REGISTRARSE">
+</div>
+</div>
+</div>
+</form>
+<form id="recovery-form" data-token="jcTkvmlurKwJK2gYdN8X0V1vLng7IpI3T6GjX8nl" action="https://www.pelisplay.tv/password/email" method="post" role="form" style="display: none;">
+<h2>RECUPERAR CONTRASEÑA</h2>
+<div class="login_registro_errores">
+<ul>
+</ul>
+</div>
+<div class="form-group">
+<input type="text" name="email" id="recovery_email" tabindex="1" class="form-control input-acceso" placeholder="E-mail..." value="">
+</div>
+<div class="form-group">
+<div class="row">
+<div class="col-sm-6 col-sm-offset-3">
+<input type="submit" name="recovery-submit" id="recovery-submit" tabindex="4" class="form-control btn btn-register" value="RECUPERAR CONTRASEÑA">
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="panel-heading">
+<div class="row">
+<div class="col-xs-6 tabs">
+<a href="#" class="active" id="login-form-link"><div class="login">INGRESAR</div></a>
+</div>
+<div class="col-xs-6 tabs">
+<a href="#" id="register-form-link"><div class="register">REGISTRARSE</div></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="searchajax_cont" data-token="jcTkvmlurKwJK2gYdN8X0V1vLng7IpI3T6GjX8nl">
+<div class="content">
+<div class="cerrar_btn"><i class="fa fa-times" aria-hidden="true"></i></div>
+<header class="titulo p" style="display: block;">
+<h2 style="display: block;">
+<i class="fa fa-search"></i>
+Buscar: <span class="titulo_busqueda"></span>
+</h2>
+<div class="menu_tipo">
+<span data-filtro="all" class="menu_tipo_item activo">Todos</span>
+ <span data-filtro="pelicula" class="menu_tipo_item">Películas</span>
+<span data-filtro="serie" class="menu_tipo_item">Series</span>
+</div>
+</header>
+</div>
+<div class="sinCarousel ResHover" style="padding: 0px;">
+<div class="content">
+<ul class="sinCarousel-inner thumbnails movie-carrusel" style="margin-top: 0px;">
+</ul>
+<div class="ajax_buscador_error">
+<span><i class="fa fa-times" aria-hidden="true"></i> No se encontró resultados...</span>
+</div>
+</div>
+</div>
+</div>
+<div id="scrim" class="drawer-scope-nav app-drawer"></div>
+<script src="/static/js/jquery.min.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/bootstrap/bootstrap.min.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/js.min.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/functions.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/owl.carousel.min.js?v=23.01.2019.1.12"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122655143-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122655143-1');
+</script>
+<img style="display:none" src="https://whos.amung.us/swidget/pelispedia7.png" />
+<script type="text/javascript">
+    var ad_idzone = "162",
+    ad_popup_fallback = false,
+    ad_popup_force = true,
+    ad_new_tab = true,
+    ad_frequency_period = 1440,
+    ad_frequency_count = 3,
+    ad_trigger_method = 1;
+</script>
+<script type="text/javascript" src="https://ads.optimizesrv.com/popunder1000.js"></script>
+<style>
+            #facebook_like{
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                z-index: 2;
+                border-radius: 6px;
+                background: white;
+                -webkit-box-shadow: 0 0 20px #018cd1;
+                box-shadow: 0 0 20px #018cd1;
+                display: none;
+            }
+
+            #facebook_like .cerrar_like{
+                position: absolute;
+                color: #3ed1f0;
+                right: -10px;
+                top: -10px;
+                cursor: pointer;
+                font-size: 13px;
+                z-index: 1;
+            }
+        </style>
+<div id="facebook_like">
+<div class="cerrar_like" title="Cerrar"><i class="fas fa fa-times-circle" aria-hidden="true"></i></div>
+ 
+<div id="fb-root"></div>
+<script>
+
+
+                    (function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.2';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));
+
+                    window.addEventListener( 'load', function( event ) {
+                        var facebook_like = document.getElementById("facebook_like");
+                        FB.init({
+                            appId: '1861954284075558',
+                            xfbml: true,
+                            version: 'v3.2'
+                        });
+                        FB.getLoginStatus(
+                            function (response) {
+                                if (response.status === 'connected') {
+                                    if(facebook_like){
+                                        facebook_like.style.display = 'block';
+                                    }
+                                } else if (response.status === 'not_authorized') {
+                                    if(facebook_like){
+                                        facebook_like.style.display = 'block';
+                                    }
+                                } else {
+                                }
+                            }
+                        );
+                    });
+
+                </script>
+<div class="fb-like" data-href="https://www.facebook.com/PelisPlay" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+</div>
+<script>
+            document.addEventListener('DOMContentLoaded', function() {
+
+                var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+
+                if(is_chrome) {
+                    if(Notification.permission !== 'granted') {
+                        Notification.requestPermission().then(function(permission) {
+                            if(permission === 'granted' && 'serviceWorker' in navigator) {
+                                navigator.serviceWorker.register('/sw.js?v=030419-2337').then(initialiseState);
+                            } else {
+                                console.log('service worker not present');
+                            }
+                        });
+                    }
+                }
+            });
+
+            function initialiseState() {
+
+                //check if notification is supported or not
+                if(!('showNotification' in ServiceWorkerRegistration.prototype)) {
+                    console.log('Notificaiton are not supported');
+                    return;
+                }
+                //check if user has blocked push notification
+                if(Notification.permission === 'denied'){
+                    console.log('User has blocked the notification');
+                }
+                //check if push messaging is supported or not
+                if(!('PushManager' in window)) {
+                    console.log('Push messaging is not supported');
+                    return;
+                }
+
+                navigator.serviceWorker.ready
+                    .then(function(serviceWorkerRegistration) {
+                        return serviceWorkerRegistration.pushManager.subscribe({
+                            userVisibleOnly: true
+                        });
+                    })
+                    .then(function(subscription) {
+                        var token = subscription.endpoint.substring(40, subscription.endpoint.length);
+                        fetch('/web_tools/notificaciones', {
+                            method: 'POST',
+                            headers: {
+                                "Content-Type": "application/json"
+                            },
+                            body: JSON.stringify({'user_token': token, '_token': window.laravel_token})
+                        }).then(function(response) {
+                            return response.json();
+                        }).then(function(myJson) {
+                            console.log(myJson);
+                        });
+                    });
+            }
+        </script>
+</body>
+</html>

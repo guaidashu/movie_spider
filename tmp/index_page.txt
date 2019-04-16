@@ -1,0 +1,5589 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//ES" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+<head>
+<title>PelisPlay.TV - Ver Películas y Series Online Gratis</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="es" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="PelisPlay.tv te trae la más grande colección de Películas y Series Gratis en Español, sin duda el mejor sitio para Ver Peliculas Online, Series Online en HD.">
+<meta name="keywords" content="ver peliculas y series latino, peliculas hd latino, peliculas online, series online, peliculas online gratis, ver series online, ver peliculas online gratis, ver peliculas subtitulado hd, ver películas online">
+<meta name="robots" content="index, follow" />
+<meta name="revisit" content="1 days" />
+<meta name="googlebot" content="index, follow" />
+<meta property="og:title" content="PelisPlay.TV - Ver Películas y Series Online Gratis" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.pelisplay.tv/static/img/logo.png" />
+<meta property="og:url" content="https://www.pelisplay.tv" />
+<meta property="og:description" content="PelisPlay.tv te trae la más grande colección de Películas y Series Gratis en Español, sin duda el mejor sitio para Ver Peliculas Online, Series Online en HD." />
+<meta property="og:locate" content="es_ES" />
+<link rel="canonical" href="https://www.pelisplay.tv" />
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" sizes="16x16" href="/static/img/favicon.png">
+<link rel="stylesheet" href="/static/css/bootstrap/bootstrap.min.css?v=23.01.2019.1.12">
+<link rel="stylesheet" href="/static/css/style.min.css?v=23.01.2019.1.12">
+<link rel="stylesheet" href="/static/css/responsive.min.css?v=23.01.2019.1.12">
+<link href="/static/css/font-awesome/css/font-awesome.min.css?v=23.01.2019.1.12" rel="stylesheet">
+<link href="/static/css/owl.carousel.min.css?v=23.01.2019.1.12" rel="stylesheet">
+<link href="/static/css/jquery.emojiarea.css?v=23.01.2019.1.12" rel="stylesheet">
+</head>
+<script>
+    window.laravel_token = "gaKKv2Yb7ROh2ifAc8HIYsyM4Y3FDgpAGDZdrxz9";
+    window.laravel_default_avatar = "/static/img/user.png";
+            window.laravel_login_check = false;
+    </script>
+<body>
+<header id="web_header" class="media" style="z-index: 11;">
+<div class="content">
+<div class="content-header row">
+<a href="#" class="scope-drawer col-xs-1 hidden-sm hidden-md hidden-lg">
+<i class="icon-navicon"></i>
+</a>
+<div class="content-search col-xs-5 col-sm-8 col-md-9">
+<form class="hidden-xs" action="https://www.pelisplay.tv/buscar" method="GET">
+<input class="hs-input" autocomplete="off" name="q" placeholder="Buscar en películas y series." type="text">
+<button type="submit" class="ico-search"></button>
+</form>
+</div>
+<div class="content-logo col-xs-6 col-sm-4 col-md-3">
+<a id="logo_contenedor" href="https://www.pelisplay.tv"><img src="/imagenes/pelisplay.png?v=1555035887"></a>
+<div id="login_header">
+<div class="profile-photo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<img class="img-photo-profile" src="/static/img/user.png">
+</div>
+<div class="user_logeado" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<i class="ico-down-arrow"></i>
+</div>
+<ul style="left: auto; right: 0px; border: 1px solid #2A2B2F" class="order-comment-toggle-list width-complet dropdown-menu" aria-labelledby="dropdownMenu1">
+<li><a id="header_login_boton" href="#" data-toggle="modal" data-target="#LoginRegistro"><i class="fa fa-sign-in"></i> Login</a></li>
+<li><a id="header_registro_boton" href="#" data-toggle="modal" data-target="#LoginRegistro"><i class="fa fa-user-plus"></i> Registro</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</header>
+<nav class="nav-content">
+<div class="content">
+<ul>
+<li class="col-xs-12 hidden-sm hidden-md hidden-lg">
+<form action="https://www.pelisplay.tv/buscar" method="GET">
+<input class="hs-input" name="q" autocomplete="off" placeholder="Buscar en películas y series." type="text">
+<button type="submit" class="ico-search"></button>
+</form>
+</li>
+<li><a href="https://www.pelisplay.tv"><i class="ico-nav ico-nav-home"></i><span>INICIO</span></a></li>
+<li><a href="https://www.pelisplay.tv/ver-peliculas" class=""><i class="ico-nav ico-nav-cine"></i><span>PELÍCULAS</span></a></li>
+<li><a href="https://www.pelisplay.tv/series" class=""><i class="ico-nav ico-nav-series"></i><span>SERIES</span></a></li>
+<li><a href="https://www.pelisplay.tv/animacion"><i class="ico-nav ico-nav-animes"></i><span>ANIMADOS</span></a></li>
+<li><a href="https://www.pelisplay.tv/estrenos"><i class="ico-nav ico-nav-tv"></i><span>ESTRENOS</span></a></li>
+<li><a href="https://www.pelisplay.tv/netflix"><i class="ico-nav ico-nav-aplicacion"></i><span>NETFLIX</span></a></li>
+</ul>
+</div>
+</nav>
+<div class="wrapper headerpaddingfix" style="min-height: 400px;">
+<div class="resCarousel category-carrusel">
+<ul class="owl-carousel carrusel_categorias resCarousel-inner category-carrusel-inner">
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/drama" class="category">
+<img src="/storage/imagenes/otros/opt_X2ZXQ0Q9ittS1PN2vQhiIoHO6eJEnKxVoHWyFnCZ.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_S9VqySUbTV3HDirqWKAlKhRemSfa3styzKl3n9HJ.png">
+</div>
+<div class="category-name">Drama</div>
+<div class="category-description">1395 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/comedia" class="category">
+<img src="/storage/imagenes/otros/opt_NkQmvqsRJZ7AKYp4KFGmljYhr8j3Vq28yMMKxUwi.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_50UJaaO054AqebgEaEMsTESu8QqRMPlCOS0OupRR.png">
+</div>
+<div class="category-name">Comedia</div>
+<div class="category-description">1088 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/accion" class="category">
+<img src="/storage/imagenes/otros/opt_TVW2g4Hlxjmt5OHphmHpwYqxrb8NYuayu3FcseMC.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_Eren0IfkiZyda5XeXlSAksMYKlDIdUB3OsnIOJ3Q.png">
+</div>
+<div class="category-name">Acción</div>
+<div class="category-description">894 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/suspense" class="category">
+<img src="/storage/imagenes/otros/opt_OaeRkYErwftQHBcN6mW2q8m25We5XBtOwSplCdVP.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_ZsrdNfPKL63JbgJgfm6mkSBFdTaz5E4MpUTMMe8Z.png">
+</div>
+<div class="category-name">Suspense</div>
+<div class="category-description">864 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/aventura" class="category">
+<img src="/storage/imagenes/otros/opt_Snx1G6mm1dAivMqL1kux4PBfDvcsX4XYpxyX0Gh2.png" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_TNsLDfWBmwd0fq6bRcqBg51Su6JEpxUOLdt8KNJx.png">
+</div>
+<div class="category-name">Aventura</div>
+<div class="category-description">623 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/terror" class="category">
+<img src="/storage/imagenes/otros/opt_c692wh9yxx7KJtZAlQvfuFtmbroLT2vonyfhcwFC.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_plffmAJlsC7n4USIanD7PakADpzSvQ36MhoGPlt4.png">
+</div>
+<div class="category-name">Terror</div>
+<div class="category-description">495 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/crimen" class="category">
+<img src="/storage/imagenes/otros/opt_jgXVOABtl9BPdxhHsmFDpdx8huJE5B8NbkKqJMa4.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_HmhslUkC5ihJjqZ5Y6XW1bzmhiHI9UK40tFEMQ8G.png">
+</div>
+<div class="category-name">Crimen</div>
+ <div class="category-description">447 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/ciencia-ficcion" class="category">
+<img src="/storage/imagenes/otros/opt_EiUVLlM94KABcOPP0FZJhatd3RufLuysyXuUOWLg.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_hyDIavfPnqWQbvaGW5pgdijgPHlVY96ByDTYv53H.png">
+</div>
+<div class="category-name">Ciencia ficción</div>
+<div class="category-description">430 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/romance" class="category">
+<img src="/storage/imagenes/otros/opt_PsG2t9c3QpMWkBsHV6iBs42tsIUUq9npA91PeX1F.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_RiEcRghQEbWVnLQMS2embRkLtArefMNcMVWGXNgy.png">
+</div>
+<div class="category-name">Romance</div>
+<div class="category-description">405 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/familia" class="category">
+<img src="/storage/imagenes/otros/opt_uARbWskP6bCpS04bd5V15LCH5fEOiIoWD1LlX6i5.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_Vv6UDCuXKAXnfhcL4Xk74MWGCsdVMeCeXaAJ7NCb.png">
+</div>
+<div class="category-name">Familia</div>
+<div class="category-description">389 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/fantasia" class="category">
+<img src="/storage/imagenes/otros/opt_uYtYyZ8kLkw0G2pnriiA2HvuJgDuuRLHvpj8e0kS.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_nRzkazGYOMAKgk0irhvCUX07NxxkjCy5QWiS772K.png">
+</div>
+<div class="category-name">Fantasía</div>
+<div class="category-description">362 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/misterio" class="category">
+<img src="/storage/imagenes/otros/opt_dk6ipEHAfu3jQDRnR4nsSRnjZxL7RhVRWrUp4dNe.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_JcI376KX53M1rnSn0kOd3wXqEhLMIf3HsTAlIA1O.png">
+</div>
+<div class="category-name">Misterio</div>
+<div class="category-description">325 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/musica" class="category">
+<img src="/storage/imagenes/otros/opt_peZEajowLIsAnMUW300ReO2kMfAYQKGacrAFAkmi.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_32QHs8iOHOADBpRlSaHLWVz2FGv1BfHQj9lNK4pA.png">
+</div>
+<div class="category-name">Música</div>
+<div class="category-description">82 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/documental" class="category">
+<img src="/storage/imagenes/otros/opt_9ua0OxmTOkIc64J4Nf2FYNWJDBXvG1iui7O69cS1.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_T2MQ3DvkdjkscIOdPt9zjOUmbFcDFbohL0f4DIDn.png">
+</div>
+<div class="category-name">Documental</div>
+<div class="category-description">66 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/artes-marciales" class="category">
+<img src="/storage/imagenes/otros/opt_MVNZurbm2Itse0lX6XoCR7lWHPFvUY9Ht42T012d.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_QfQsy05yXo2NQjVi9xuivfmRlMz1SBwJ1iDiE6DK.png">
+</div>
+<div class="category-name">Artes marciales</div>
+<div class="category-description">37 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/navidad" class="category">
+<img src="/storage/imagenes/otros/opt_al4Qp9NVUU3oL1fafN08iWxVo9ydOPIrsITlmZZ7.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_mN9LYcZMUIVEKMklX7nme19apMYVVudQu4WORl6N.png">
+</div>
+<div class="category-name">Navidad</div>
+<div class="category-description">36 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/western" class="category">
+<img src="/storage/imagenes/otros/opt_86HLedABQ1c29KHMUs3vu9klzsh3bZ0nDtCM9CJd.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_KFv11amK1oZMiv7AkpV2AhOLw7zn4RmPJiQcxBgB.png">
+</div>
+<div class="category-name">Western</div>
+<div class="category-description">29 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/zombies" class="category">
+<img src="/storage/imagenes/otros/opt_z0tT50SNchpDqo0WSq1vlIwRooa4WjLGwySnMXdB.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_qh2njTjhhobJGYrz4Pq6IG1jQfI4gxPw0Ryoh8kG.png">
+</div>
+<div class="category-name">Zombies</div>
+<div class="category-description">11 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/belico-guerra" class="category">
+<img src="/storage/imagenes/otros/opt_TOrUV10i0z0zspCWczyFRtk1GtIRU10unffOWZ9A.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_xkRuZBGoKY68p14qsf07BxpCnnjhdUqs8rbosJvs.png">
+</div>
+<div class="category-name">Guerra</div>
+<div class="category-description">5 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/religion" class="category">
+<img src="/storage/imagenes/otros/opt_Mo7cOS5Uo2yQEjW4qiY1Jh00lTdDp0MkT3M9J4dD.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_i2Br9qNofVHdEajnQHYb42y7zJMFH86dQ7P2bPXH.png">
+</div>
+<div class="category-name">Religión</div>
+<div class="category-description">3 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/biograficas" class="category">
+<img src="/storage/imagenes/otros/opt_vXZcsakgLYz8opZYgbGDhq0JnsY7U3rmxV70kqff.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_h4QScHTWbd6mumKPSqeoLudq65DDGOZOUVTqmgO4.png">
+</div>
+<div class="category-name">Biográficas</div>
+<div class="category-description">2 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/catastrofes" class="category">
+<img src="/storage/imagenes/otros/opt_A73ua7NnE02qpfDGBZVDhudhIzSNLfRLn7Q0AfLQ.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_5q4wsOQEM89Zg7szvhm7RsWBxL64nA0a3YiiX9fA.png">
+</div>
+<div class="category-name">Catástrofes</div>
+<div class="category-description">2 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/deportivas" class="category">
+<img src="/storage/imagenes/otros/opt_XJ18BJJbCKKHSRcNBnabMIKpDdKLP86d8rsmlSQu.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_u5UkWVkb3jM41cEOMIsLqwRv2khdq0r6SDryDDDJ.png">
+</div>
+<div class="category-name">Deportivas</div>
+<div class="category-description">2 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+<li class="item">
+<a href="https://www.pelisplay.tv/genero/anime" class="category">
+<img src="/storage/imagenes/otros/opt_24FUzD16i8SB5pd4aw70ITqh8G1NUOoRvwe7qrpq.jpeg" class="img-category">
+<div class="description">
+<div class="info_categoria">
+<div class="category-ico">
+<img class="ico-category" src="/storage/imagenes/otros/opt_6VzNrTufZx8C8WSdKmeS1oJljRMmh4oruwhnEIcF.png">
+</div>
+<div class="category-name">Anime</div>
+<div class="category-description">1 entradas disponibles</div>
+</div>
+</div>
+</a>
+</li>
+</ul>
+<button class="leftLst"><i class="a"></i></button>
+<button class="rightLst"><i class="b"></i></button>
+</div>
+<div class="sinCarousel postersizes ResHover special" style="padding-bottom: 0px;">
+<div class="title-border-botton">
+<div class="content">
+<header class="titulo p">
+<h1>
+<i class="ico-video-player"></i>
+Ver Películas Online Gratis
+</h1>
+</header>
+</div>
+</div>
+</div>
+<div class="resCarousel postersizes ResHover special" style="padding-bottom: 5px !important;padding-top: 5px !important;">
+<div>
+<div class="content">
+<header class="titulo p title-border-botton">
+<h2>
+<i class="ico-video-player"></i>
+VER PELÍCULAS ONLINE DE ESTRENO
+</h2>
+<div class="control">
+<a href="" class="leftRs fa fa-chevron-left a"></a>
+<a href="" class="rightRs fa fa-chevron-right b"></a>
+</div>
+</header>
+</div>
+</div>
+<div class="content">
+<ul class="carrusel_entradas owl-carousel resCarousel-inner thumbnails movie-carrusel">
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5cad40103dc99_mini-8LzNq62JzcNtGkNb1Iqf3Q3lpCJ.jpg" alt="¡Shazam! (2019)" title="¡Shazam! 2019">
+<a href="https://www.pelisplay.tv/pelicula/shazam">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">¡Shazam! (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">¡Shazam! (2019)</div>
+<div class="Description"> <div>Todos llevamos un superhéroe dentro, solo se necesita un poco de magia para sacarlo a la luz. Cuando Billy Batson, un niño de acogida de 14 años que h...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+41,090 visitas
+</div>
+<div class="otros">
+ <i class="fas fa fa-film"></i>
+Director: David F. Sandberg
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Aventura</span>
+<span>Comedia</span>
+<span>Estrenos 2019</span>
+<span>Fantasía</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/shazam">
+<h4 class="name-movie"><strong>¡Shazam!</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+ <div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca188c952f73_mini-duvp1mgeVYs1vUknW8KXxhnVhzh.jpg" alt="Dumbo (2019)" title="Dumbo 2019">
+<a href="https://www.pelisplay.tv/pelicula/ver-dumbo">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Dumbo (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Dumbo (2019)</div>
+<div class="Description"> <div>La nueva recreación de la película DUMBO dirigida por Tim Burton cuenta con Colin Farrel como Holt Farrier quien con ayuda de sus hijos Milly (Nico Pa...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+136,787 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Tim Burton
+</div>
+<div class="tipcategorias">
+<span>Aventura</span>
+<span>Estrenos 2019</span>
+<span>Familia</span>
+<span>Fantasía</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver-dumbo">
+<h4 class="name-movie"><strong>Dumbo</strong></h4>
+</a>
+<h5 class="category-movie">Aventura</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-4hkUXALzso1sgWfu4mpwPQ8NBh3Veedhksx4ozec.jpeg" alt="Capitana Marvel (2019)" title="Capitana Marvel 2019">
+<a href="https://www.pelisplay.tv/pelicula/ver-capitana-marvel">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Capitana Marvel (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Capitana Marvel (2019)</div>
+<div class="Description"> <div>La historia sigue a Carol Danvers mientras ella se convierte en uno de los héroes más poderosos del universo cuando la Tierra se encuentre atrapada en...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+865,853 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Ryan Fleck
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Aventura</span>
+<span>Ciencia ficción</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+ </div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver-capitana-marvel">
+<h4 class="name-movie"><strong>Capitana Marvel</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c6b5e804f929_mini-Ah3sqkm4sknbZcw7xn4c3l2zdu1.jpg" alt="Feliz día de tu muerte 2 (2019)" title="Feliz día de tu muerte 2 2019">
+<a href="https://www.pelisplay.tv/pelicula/ver-feliz-dia-de-tu-muerte-2">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Feliz día de tu muerte 2 (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Feliz día de tu muerte 2 (2019)</div>
+<div class="Description"> <div>Dos años después de los eventos acaecidos en la primera película, Tree Gelbman vuelve a entrar en el bucle temporal para descubrir el motivo por el cu...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+303,734 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Christopher Landon
+</div>
+<div class="tipcategorias">
+<span>Estrenos 2019</span>
+<span>Suspense</span>
+<span>Terror</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver-feliz-dia-de-tu-muerte-2">
+<h4 class="name-movie"><strong>Feliz día de tu muerte 2</strong></h4>
+</a>
+<h5 class="category-movie">Estrenos 2019</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c63bfa837b01_mini-xyjNl0CJthVahJlJo3tRpvjJIRj.jpg" alt="Alita: Ángel de Combate (2019)" title="Alita: Ángel de Combate 2019">
+<a href="https://www.pelisplay.tv/pelicula/alita-angel-de-combate">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Alita: Ángel de Combate (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.2</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Alita: Ángel de Combate (2019)</div>
+<div class="Description"> <div>Ido, un compasivo médico de ciborgs, encuentra a Alita abandonada en el desguace de Iron City. Cuando Alita despierta, no sabe quién es, ni reconoce e...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.2)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+630,342 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Robert Rodriguez
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Estrenos 2019</span>
+<span>Romance</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/alita-angel-de-combate">
+<h4 class="name-movie"><strong>Alita: Ángel de Combate</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c5277afc7b86_mini-aWENxGrJmXmHvifG6x2aYnpovXI.jpg" alt="Nacido para ser rey (2019)" title="Nacido para ser rey 2019">
+<a href="https://www.pelisplay.tv/pelicula/nacido-para-ser-rey">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Nacido para ser rey (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Nacido para ser rey (2019)</div>
+<div class="Description"> <div>Una historia medieval en el Londres del siglo XXI. Alex (Louis Ahsbourne Serkis) cree que es un chico normal, hasta que encuentra por casualidad la mí...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+251,013 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Joe Cornish
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Aventura</span>
+<span>Estrenos 2019</span>
+<span>Familia</span>
+<span>Fantasía</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/nacido-para-ser-rey">
+<h4 class="name-movie"><strong>Nacido para ser rey</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c4757a228089_mini-ij0xoc13hGhrYIlXGGuPXWTh3vi.jpg" alt="Cómo entrenar a tu dragón 3 (2019)" title="Cómo entrenar a tu dragón 3 2019">
+<a href="https://www.pelisplay.tv/pelicula/ver--como-entrenar-a-tu-dragon-3-hd-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Cómo entrenar a tu dragón 3 (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.7</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Cómo entrenar a tu dragón 3 (2019)</div>
+<div class="Description"> <div>Mientras Hiccup (Jay Baruchel) logra su sueño de lograr una utopía pacífica entre los dragones, la aparición de una pareja sin domar hace que Toothles...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.7)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,051,996 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Dean DeBlois
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Estrenos 2019</span>
+<span>Familia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--como-entrenar-a-tu-dragon-3-hd-online">
+<h4 class="name-movie"><strong>Cómo entrenar a tu dragón 3</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c45237047759_mini-aG5GS0V15Zpk8zvsww02faNT0QI.jpg" alt="Cristal (2019)" title="Cristal 2019">
+<a href="https://www.pelisplay.tv/pelicula/ver-cristal">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Cristal (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Cristal (2019)</div>
+<div class="Description"> <div>Continuando desde donde lo dejó "Múltiple", "Glass" sigue los pasos de David Dunn (Bruce Willis) en su búsqueda de la figura superhumana de "La Bestia...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+588,308 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: M. Night Shyamalan
+</div>
+<div class="tipcategorias">
+<span>Ciencia ficción</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Misterio</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver-cristal">
+<h4 class="name-movie"><strong>Cristal</strong></h4>
+</a>
+<h5 class="category-movie">Ciencia ficción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c3b96b8216c6_mini-dDw8LaEo6QTLT5iyX1G09SSPGe4.jpg" alt="Mula (2018)" title="Mula 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--mula-hd--online-001">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Mula (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Mula (2018)</div>
+<div class="Description"> <div>A Earl Stone (Eastwood), un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+205,207 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Clint Eastwood
+</div>
+<div class="tipcategorias">
+<span>Crimen</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--mula-hd--online-001">
+<h4 class="name-movie"><strong>Mula</strong></h4>
+</a>
+<h5 class="category-movie">Crimen</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c2ee418de393_mini-v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" alt="Creed II (2018)" title="Creed II 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--creed-2-hd--online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Creed II (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Creed II (2018)</div>
+<div class="Description"> <div>Secuela de Creed. La leyenda de Rocky que seguirá narrando la historia de Adonis Creed, el hijo de Apollo Creed que es entrenado por el ex campeón de...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+457,515 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Steven Caple Jr.
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--creed-2-hd--online">
+<h4 class="name-movie"><strong>Creed II</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c243a7156348_mini-d9bLYgkgppdsyGaI4uSrZedBKpA.jpg" alt="El Regreso de Mary Poppins (2018)" title="El Regreso de Mary Poppins 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--el-regreso-de-mary-poppins-hd-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">El Regreso de Mary Poppins (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">El Regreso de Mary Poppins (2018)</div>
+<div class="Description"> <div>En la era de la Depresión de Londres, un ahora crecidos Jane y Michael Banks, junto con los tres hijos de Michael, son visitados por la enigmática Mar...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+251,758 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Rob Marshall
+</div>
+<div class="tipcategorias">
+<span>Estrenos 2019</span>
+<span>Familia</span>
+<span>Música</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--el-regreso-de-mary-poppins-hd-online">
+<h4 class="name-movie"><strong>El Regreso de Mary Poppins</strong></h4>
+</a>
+<h5 class="category-movie">Estrenos 2019</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-EEBI0GttVJfL0MaByTj4j1hZaT253MT5AwAQCOxF.jpeg" alt="Bumblebee (2018)" title="Bumblebee 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--bumblebee-hd-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Bumblebee (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Bumblebee (2018)</div>
+<div class="Description"> <div>Sexta entrega de la saga 'Transformers', esta vez centrada en el "hermano pequeño" de los Autobots, Bumblebee. Tratando de escapar, en el año 1987, Bu...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+709,480 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Travis Knight
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Aventura</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--bumblebee-hd-online">
+<h4 class="name-movie"><strong>Bumblebee</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-ENejcIq2tZZR3UJNEIVIlwemoV6dXvNPc6pRRLLt.jpeg" alt="Dragon Ball Super: Broly (2018)" title="Dragon Ball Super: Broly 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--dragon-ball-super-broly-hd--online-003">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Dragon Ball Super: Broly (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Dragon Ball Super: Broly (2018)</div>
+<div class="Description"> <div>La Tierra vive en paz después de que concluyó el Torneo de Fuerza. Luego de darse cuenta que los Universos aún tienen muchos guerreros poderosos, Gokú...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.5)  
+<i class="icon-star star-active"></i>
+ <i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,465,522 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Tatsuya Nagamine
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Animación</span>
+<span>Ciencia ficción</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--dragon-ball-super-broly-hd--online-003">
+<h4 class="name-movie"><strong>Dragon Ball Super: Broly</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c166f723df2f_mini-2sxmBuCqdpDitqMXG3jL3aWZS4L.jpg" alt="Pokémon 21: EL poder de todos (2018)" title="Pokémon 21: EL poder de todos 2018">
+<a href="https://www.pelisplay.tv/pelicula/pokemon-21-el-poder-de-todos">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Pokémon 21: EL poder de todos (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">5.7</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Pokémon 21: EL poder de todos (2018)</div>
+<div class="Description"> <div>La película Pokémon El poder de todos cuenta la historia de Ash y Pikachu en su viaje a una pequeña ciudad al lado del mar repleta de diversos persona...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (5.7)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+89,310 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Tetsuo Yajima
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Estrenos 2018</span>
+<span>Familia</span>
+<span>Fantasía</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/pokemon-21-el-poder-de-todos">
+<h4 class="name-movie"><strong>Pokémon 21: EL poder de todos</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c15c340b7989_mini-uAnWm2M8yeYXY7x1doLq0Oe5pVT.jpg" alt="Spider-Man: Un Nuevo Universo (2018)" title="Spider-Man: Un Nuevo Universo 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--spider-man-un-nuevo-universo-hd--online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Spider-Man: Un Nuevo Universo (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Spider-Man: Un Nuevo Universo (2018)</div>
+<div class="Description"> <div>Trabajando en las sombras para seguir manteniendo su identidad en secreto, las relaciones se volverán más difíciles de compaginar con sus actividades...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+384,566 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Bob Persichetti
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--spider-man-un-nuevo-universo-hd--online">
+<h4 class="name-movie"><strong>Spider-Man: Un Nuevo Universo</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+</ul>
+</div>
+<div class="movie-footer">
+<div class="content">
+<a href="https://www.pelisplay.tv/ver-peliculas?filtro=a%C3%B1o" class="btn pull-right btn-more">Más</a>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+<div class="resCarousel postersizes ResHover special" style="padding-bottom: 5px !important;padding-top: 5px !important;">
+<div>
+<div class="content">
+<header class="titulo p title-border-botton">
+<h2>
+<i class="ico-video-player"></i>
+VER PELÍCULAS MÁS POPULARES ONLINE
+</h2>
+<div class="control">
+<a href="" class="leftRs fa fa-chevron-left a"></a>
+<a href="" class="rightRs fa fa-chevron-right b"></a>
+</div>
+</header>
+</div>
+</div>
+<div class="content">
+<ul class="carrusel_entradas owl-carousel resCarousel-inner thumbnails movie-carrusel">
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-ENejcIq2tZZR3UJNEIVIlwemoV6dXvNPc6pRRLLt.jpeg" alt="Dragon Ball Super: Broly (2018)" title="Dragon Ball Super: Broly 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--dragon-ball-super-broly-hd--online-003">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Dragon Ball Super: Broly (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Dragon Ball Super: Broly (2018)</div>
+<div class="Description"> <div>La Tierra vive en paz después de que concluyó el Torneo de Fuerza. Luego de darse cuenta que los Universos aún tienen muchos guerreros poderosos, Gokú...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,465,522 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Tatsuya Nagamine
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Animación</span>
+<span>Ciencia ficción</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--dragon-ball-super-broly-hd--online-003">
+<h4 class="name-movie"><strong>Dragon Ball Super: Broly</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-irNK48UIoRrX9g8ljIdt45OdGcEEVlVHxlD9ANsE.jpeg" alt="Los Vengadores 3: Infinity War (2018)" title="Los Vengadores 3: Infinity War 2018">
+<a href="https://www.pelisplay.tv/pelicula/los-vengadores-3-infinity-war">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Los Vengadores 3: Infinity War (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Los Vengadores 3: Infinity War (2018)</div>
+<div class="Description"> <div>Basada en el equipo de superhéroes de los Comics de Marvel, esta película, Avangersa: Infinity War, producida por los estudios de Marvel es la secuela...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,350,650 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Joe Russo
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Aventura</span>
+<span>Ciencia ficción</span>
+<span>Fantasía</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/los-vengadores-3-infinity-war">
+<h4 class="name-movie"><strong>Los Vengadores 3: Infinity War</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-ehcVaJhdLCoYQunRq6pPWOvqIO8N4Lfqkd1bA1UM.png" alt="Aquaman (2018)" title="Aquaman 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver-aquaman-hd-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Aquaman (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.7</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Aquaman (2018)</div>
+<div class="Description"> <div>Un icono durante más de 70 años, Aquaman (Jason Momoa) es el Rey de los Siete Mares. Este reacio gobernante de Atlantis se encuentra atrapado entre lo...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.7)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,300,183 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: James Wan
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Aventura</span>
+<span>Ciencia ficción</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver-aquaman-hd-online">
+<h4 class="name-movie"><strong>Aquaman</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c4757a228089_mini-ij0xoc13hGhrYIlXGGuPXWTh3vi.jpg" alt="Cómo entrenar a tu dragón 3 (2019)" title="Cómo entrenar a tu dragón 3 2019">
+<a href="https://www.pelisplay.tv/pelicula/ver--como-entrenar-a-tu-dragon-3-hd-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Cómo entrenar a tu dragón 3 (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.7</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Cómo entrenar a tu dragón 3 (2019)</div>
+<div class="Description"> <div>Mientras Hiccup (Jay Baruchel) logra su sueño de lograr una utopía pacífica entre los dragones, la aparición de una pareja sin domar hace que Toothles...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.7)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,051,996 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Dean DeBlois
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Estrenos 2019</span>
+<span>Familia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--como-entrenar-a-tu-dragon-3-hd-online">
+<h4 class="name-movie"><strong>Cómo entrenar a tu dragón 3</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bdf814e9b76f_mini-sVmTZxuXhSGYmNL8gbv2XcKTFUy.jpg" alt="Bohemian Rhapsody (2018)" title="Bohemian Rhapsody 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver-bohemian-rhapsody-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Bohemian Rhapsody (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Bohemian Rhapsody (2018)</div>
+<div class="Description"> <div>Bohemian Rhapsody es una rotunda y sonora celebración de Queen, de su música y de su extraordinario cantante Freddie Mercury, que desafió estereotipos...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+ <div class="otros">
+<i class="fas fa fa-eye"></i>
+934,520 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Bryan Singer
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Música</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver-bohemian-rhapsody-online">
+<h4 class="name-movie"><strong>Bohemian Rhapsody</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-4hkUXALzso1sgWfu4mpwPQ8NBh3Veedhksx4ozec.jpeg" alt="Capitana Marvel (2019)" title="Capitana Marvel 2019">
+<a href="https://www.pelisplay.tv/pelicula/ver-capitana-marvel">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Capitana Marvel (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Capitana Marvel (2019)</div>
+<div class="Description"> <div>La historia sigue a Carol Danvers mientras ella se convierte en uno de los héroes más poderosos del universo cuando la Tierra se encuentre atrapada en...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+865,853 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Ryan Fleck
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Aventura</span>
+<span>Ciencia ficción</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver-capitana-marvel">
+ <h4 class="name-movie"><strong>Capitana Marvel</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-EEBI0GttVJfL0MaByTj4j1hZaT253MT5AwAQCOxF.jpeg" alt="Bumblebee (2018)" title="Bumblebee 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--bumblebee-hd-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Bumblebee (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Bumblebee (2018)</div>
+<div class="Description"> <div>Sexta entrega de la saga 'Transformers', esta vez centrada en el "hermano pequeño" de los Autobots, Bumblebee. Tratando de escapar, en el año 1987, Bu...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+709,480 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Travis Knight
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Aventura</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--bumblebee-hd-online">
+<h4 class="name-movie"><strong>Bumblebee</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c63bfa837b01_mini-xyjNl0CJthVahJlJo3tRpvjJIRj.jpg" alt="Alita: Ángel de Combate (2019)" title="Alita: Ángel de Combate 2019">
+<a href="https://www.pelisplay.tv/pelicula/alita-angel-de-combate">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Alita: Ángel de Combate (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.2</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Alita: Ángel de Combate (2019)</div>
+<div class="Description"> <div>Ido, un compasivo médico de ciborgs, encuentra a Alita abandonada en el desguace de Iron City. Cuando Alita despierta, no sabe quién es, ni reconoce e...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.2)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+630,342 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Robert Rodriguez
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Estrenos 2019</span>
+<span>Romance</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/alita-angel-de-combate">
+<h4 class="name-movie"><strong>Alita: Ángel de Combate</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c45237047759_mini-aG5GS0V15Zpk8zvsww02faNT0QI.jpg" alt="Cristal (2019)" title="Cristal 2019">
+<a href="https://www.pelisplay.tv/pelicula/ver-cristal">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Cristal (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Cristal (2019)</div>
+<div class="Description"> <div>Continuando desde donde lo dejó "Múltiple", "Glass" sigue los pasos de David Dunn (Bruce Willis) en su búsqueda de la figura superhumana de "La Bestia...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+ <i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+588,308 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: M. Night Shyamalan
+</div>
+<div class="tipcategorias">
+<span>Ciencia ficción</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Misterio</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver-cristal">
+<h4 class="name-movie"><strong>Cristal</strong></h4>
+</a>
+<h5 class="category-movie">Ciencia ficción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c2a79a5d679b_mini-qEH0uqDazPxuclYn0n5GNqE04bY.jpg" alt="Ralph rompe Internet (2018)" title="Ralph rompe Internet 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--ralph-rompe-internet-hd-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Ralph rompe Internet (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Ralph rompe Internet (2018)</div>
+<div class="Description"> <div>Ralph sale de los recreativos y... ¡rompe Internet! ¿Qué podría salir mal? La secuela de "Rompe Ralph" (2012) tendrá lugar en el presente, seis años d...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+541,211 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Rich Moore
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Comedia</span>
+<span>Estrenos 2019</span>
+<span>Familia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--ralph-rompe-internet-hd-online">
+<h4 class="name-movie"><strong>Ralph rompe Internet</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c2ee418de393_mini-v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" alt="Creed II (2018)" title="Creed II 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--creed-2-hd--online">
+<div class="info">
+<div class="info_poster">
+ <p class="description_poster">Creed II (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Creed II (2018)</div>
+<div class="Description"> <div>Secuela de Creed. La leyenda de Rocky que seguirá narrando la historia de Adonis Creed, el hijo de Apollo Creed que es entrenado por el ex campeón de...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+457,515 visitas
+</div>
+<div class="otros">
+ <i class="fas fa fa-film"></i>
+Director: Steven Caple Jr.
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--creed-2-hd--online">
+<h4 class="name-movie"><strong>Creed II</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c050608cfb9e_mini-yIzHw6az7SHEjxaVYy3hMd1Vyc.jpg" alt="Venom (2018)" title="Venom 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--venom-hd--online-004">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Venom (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Venom (2018)</div>
+<div class="Description"> <div>Eddie Brock (Tom Hardy) es un consolidado periodista y astuto reportero que está investigando una empresa llamada Fundación Vida. Esta fundación, diri...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+413,144 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Ruben Fleischer
+</div>
+<div class="tipcategorias">
+<span>Ciencia ficción</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--venom-hd--online-004">
+<h4 class="name-movie"><strong>Venom</strong></h4>
+</a>
+<h5 class="category-movie">Ciencia ficción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c1dae3283f8e_mini-rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg" alt="A ciegas (2018)" title="A ciegas 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver-bird-box-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">A ciegas (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.7</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">A ciegas (2018)</div>
+<div class="Description"> <div>Thriller posapocalíptico en el que una mujer y sus dos hijos, estos con los ojos vendados, navegan río abajo tras una sangrienta invasión alienígena d...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+ Puntuación: (7.7)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+398,082 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Susanne Bier
+</div>
+<div class="tipcategorias">
+<span>Ciencia ficción</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver-bird-box-online">
+<h4 class="name-movie"><strong>A ciegas</strong></h4>
+</a>
+<h5 class="category-movie">Ciencia ficción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c15c340b7989_mini-uAnWm2M8yeYXY7x1doLq0Oe5pVT.jpg" alt="Spider-Man: Un Nuevo Universo (2018)" title="Spider-Man: Un Nuevo Universo 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--spider-man-un-nuevo-universo-hd--online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Spider-Man: Un Nuevo Universo (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Spider-Man: Un Nuevo Universo (2018)</div>
+<div class="Description"> <div>Trabajando en las sombras para seguir manteniendo su identidad en secreto, las relaciones se volverán más difíciles de compaginar con sus actividades...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+384,566 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Bob Persichetti
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--spider-man-un-nuevo-universo-hd--online">
+<h4 class="name-movie"><strong>Spider-Man: Un Nuevo Universo</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c4e9e35b0628_mini-zs6LFuE4aB1I8crKjAhlPVTHAOS.jpg" alt="Animales fantásticos: Los crímenes de Grindelwald (2018)" title="Animales fantásticos: Los crímenes de Grindelwald 2018">
+<a href="https://www.pelisplay.tv/pelicula/ver--animales-fantasticos-hd--online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Animales fantásticos: Los crímenes de Grindelwald (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Animales fantásticos: Los crímenes de Grindelwald (2018)</div>
+<div class="Description"> <div>Cumpliendo con su amenaza, Grindelwald escapa de su custodia y ha comenzado a reunir seguidores, la mayoría de los cuales no sospechan sus verdaderas...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+329,873 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: David Yates
+</div>
+<div class="tipcategorias">
+<span>Aventura</span>
+<span>Estrenos 2019</span>
+<span>Familia</span>
+<span>Fantasía</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/ver--animales-fantasticos-hd--online">
+<h4 class="name-movie"><strong>Animales fantásticos: Los crímenes de Grindelwald</strong></h4>
+</a>
+<h5 class="category-movie">Aventura</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+</ul>
+</div>
+<div class="movie-footer">
+<div class="content">
+<a href="https://www.pelisplay.tv/ver-peliculas?filtro=visitas" class="btn pull-right btn-more">Más</a>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+<div class="resCarousel postersizes ResHover special" style="padding-bottom: 5px !important;padding-top: 5px !important;">
+<div>
+<div class="content">
+<header class="titulo p title-border-botton">
+<h2>
+<i class="ico-video-player"></i>
+PELÍCULAS ONLINE AGREGADAS RECIENTEMENTE
+</h2>
+<div class="control">
+<a href="" class="leftRs fa fa-chevron-left a"></a>
+<a href="" class="rightRs fa fa-chevron-right b"></a>
+</div>
+</header>
+</div>
+</div>
+<div class="content">
+<ul class="carrusel_entradas owl-carousel resCarousel-inner thumbnails movie-carrusel">
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+ <div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0cc834089_mini-1AAsAMB4IQjYl8lCBc4kmpaIz4Q.jpg" alt="Scott Pilgrim contra el mundo (2010)" title="Scott Pilgrim contra el mundo 2010">
+<a href="https://www.pelisplay.tv/pelicula/scott-pilgrim-contra-el-mundo">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Scott Pilgrim contra el mundo (2010)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Scott Pilgrim contra el mundo (2010)</div>
+<div class="Description"> <div>Les presentamos al encantador y desempleado Scott Pilgrim (Michael Cera), bajista de un grupo “garage” de lo más corriente, los Sex Bob-omb. Este jove...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+956 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Edgar Wright
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Comedia</span>
+<span>Romance</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/scott-pilgrim-contra-el-mundo">
+<h4 class="name-movie"><strong>Scott Pilgrim contra el mundo</strong></h4>
+</a>
+ <h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0cc8d8c52_mini-iHFSzXQCdTbadgAqBLCCAX67Ith.jpg" alt="Sucker Punch (2011)" title="Sucker Punch 2011">
+<a href="https://www.pelisplay.tv/pelicula/sucker-punch">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Sucker Punch (2011)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Sucker Punch (2011)</div>
+<div class="Description"> <div>Ambientada en los años 50. Una chica es internada por su padrastro en una institución psiquiátrica para que le practiquen una lobotomía. Mientras espe...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.0)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,059 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Zack Snyder
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Fantasía</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+ </div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/sucker-punch">
+<h4 class="name-movie"><strong>Sucker Punch</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0cc6e569f_mini-nsxAP1F3qQ9C4c1C9hB7iTw8P1O.jpg" alt="¡Scooby-Doo! Y la maldición del fantasma número trece (2019)" title="¡Scooby-Doo! Y la maldición del fantasma número trece 2019">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-y-la-maldicion-del-fantasma-numero-trece">
+<div class="info">
+<div class="info_poster">
+ <p class="description_poster">¡Scooby-Doo! Y la maldición del fantasma número trece (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.8</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">¡Scooby-Doo! Y la maldición del fantasma número trece (2019)</div>
+<div class="Description"> <div>Después de que los miembros de Misterios S.A. echasen a perder un caso al atrapar a un hombre inocente, se ven obligados a retirarse de las investigac...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.8)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+551 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Cecilia Aranovich
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Comedia</span>
+<span>Familia</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-y-la-maldicion-del-fantasma-numero-trece">
+<h4 class="name-movie"><strong>¡Scooby-Doo! Y la maldición del fantasma número trece</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0cc55c32d_mini-y0seFmPidqo8ywps3xqnuNsfXGC.jpg" alt="Scooby-Doo y la escuela de fantasmas (1991)" title="Scooby-Doo y la escuela de fantasmas 1991">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-y-la-escuela-de-fantasmas">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Scooby-Doo y la escuela de fantasmas (1991)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Scooby-Doo y la escuela de fantasmas (1991)</div>
+<div class="Description"> <div>El misterio escolar comienza cuando Shaggy se inscribe como maestro de gimnasia en el Colegio para Fantasmas de Miss Grimwood. Pronto, descubrirá que...</div>
+ <div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+239 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Charles A. Nichols
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Comedia</span>
+<span>Familia</span>
+<span>Fantasía</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+ <a href="https://www.pelisplay.tv/pelicula/scooby-doo-y-la-escuela-de-fantasmas">
+<h4 class="name-movie"><strong>Scooby-Doo y la escuela de fantasmas</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0c93a60ec_mini-9YV8Z7SYyFbJl85CgKsawgN9yTh.jpg" alt="Scooby-Doo! Y el monstruo de la Luna (2015)" title="Scooby-Doo! Y el monstruo de la Luna 2015">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-y-el-monstruo-de-la-luna">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Scooby-Doo! Y el monstruo de la Luna (2015)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Scooby-Doo! Y el monstruo de la Luna (2015)</div>
+<div class="Description"> <div>Scooby y su pandilla ganan un viaje en el crucero inaugural de Starcruise, un buque de turismo espacial propiedad del temerario multimillonario Sir Ro...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+215 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Paul McEvoy
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Familia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-y-el-monstruo-de-la-luna">
+<h4 class="name-movie"><strong>Scooby-Doo! Y el monstruo de la Luna</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0c927e856_mini-hEIxakuT4GvOqY5PqCSNV9oo4Ls.jpg" alt="Scooby Doo: La maldición del monstruo del lago (2010)" title="Scooby Doo: La maldición del monstruo del lago 2010">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-la-maldicion-del-monstruo-del-lago">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Scooby Doo: La maldición del monstruo del lago (2010)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">5.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Scooby Doo: La maldición del monstruo del lago (2010)</div>
+<div class="Description"> <div>Daphne, Velma, Fred, Shaggy y el perro favorito de todo el mundo se apuntan a un trabajo de verano en un elegante club. Pero algo raro ocurre – algo q...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (5.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+423 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Brian Levant
+</div>
+<div class="tipcategorias">
+<span>Aventura</span>
+<span>Comedia</span>
+<span>Fantasía</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-la-maldicion-del-monstruo-del-lago">
+<h4 class="name-movie"><strong>Scooby Doo: La maldición del monstruo del lago</strong></h4>
+</a>
+ <h5 class="category-movie">Aventura</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0c90836b0_mini-la1xrRWrs8lmrxWNnho92ivgRmT.jpg" alt="Scooby-Doo en la isla de los zombies (1998)" title="Scooby-Doo en la isla de los zombies 1998">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-en-la-isla-de-los-zombies">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Scooby-Doo en la isla de los zombies (1998)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Scooby-Doo en la isla de los zombies (1998)</div>
+<div class="Description"> <div>Scooby Doo, Shaggy, Vilma, Daphne y Fred se reúnen para resolver el más gracioso y aterrador misterio de su carrera. El equipo del miedo viaja a una m...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+286 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Hiroshi Aoyama
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Aventura</span>
+<span>Comedia</span>
+<span>Familia</span>
+<span>Fantasía</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-en-la-isla-de-los-zombies">
+<h4 class="name-movie"><strong>Scooby-Doo en la isla de los zombies</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0c8f081f5_mini-snuATHvk1wOLL1HYYzDEcYQZYQG.jpg" alt="Scooby-Doo: Comienza el misterio (2009)" title="Scooby-Doo: Comienza el misterio 2009">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-comienza-el-misterio">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Scooby-Doo: Comienza el misterio (2009)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">5.7</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Scooby-Doo: Comienza el misterio (2009)</div>
+<div class="Description"> <div>Tercera película con actores reales basada en la serie "Scooby-Doo". Esta vez la cinta será una precuela que narrará los orígenes del personaje, cuya...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (5.7)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+336 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Brian Levant
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Comedia</span>
+<span>Fantasía</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/scooby-doo-comienza-el-misterio">
+<h4 class="name-movie"><strong>Scooby-Doo: Comienza el misterio</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0b7212e4f_mini-wQkYieCKVzRglLvJADSEHMm12Fm.jpg" alt="Rompiendo las reglas 2 (2011)" title="Rompiendo las reglas 2 2011">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas-2">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Rompiendo las reglas 2 (2011)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Rompiendo las reglas 2 (2011)</div>
+<div class="Description"> <div>Zack, Tim, Justin y Mike provienen de diferentes orígenes, pero comparten la misma pasión: la lucha final cada uno con su propio estilo.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.0)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+566 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Michael Jai White
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas-2">
+<h4 class="name-movie"><strong>Rompiendo las reglas 2</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0b72cd675_mini-vT50yAU2R7GNZSdPMBkQilg0GHa.jpg" alt="Rompiendo las reglas 3 (2016)" title="Rompiendo las reglas 3 2016">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas-3">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Rompiendo las reglas 3 (2016)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Rompiendo las reglas 3 (2016)</div>
+<div class="Description"> <div>Esta película continúa con la historia de la segunda parte, con el luchador de MMA Case Walker que se prepara para regresar a las competencias y ser e...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+502 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Michael Jai White
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas-3">
+<h4 class="name-movie"><strong>Rompiendo las reglas 3</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0b70a303e_mini-7nFLoXF9WzAE1di91oP5MUzMQGJ.jpg" alt="Rompiendo las reglas (2008)" title="Rompiendo las reglas 2008">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Rompiendo las reglas (2008)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Rompiendo las reglas (2008)</div>
+<div class="Description"> <div>En un intento por encajar en la nueva ciudad, Jack Tyler (Sean Faris) acepta la invitación de su compañera Baja (Amber Heard) para acudir a una fiesta...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+666 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Jeff Wadlow
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/rompiendo-las-reglas">
+<h4 class="name-movie"><strong>Rompiendo las reglas</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0b6ed3380_mini-p2xLq8dfYmL1EWOkKVgr8CyK5no.jpg" alt="Qué León (2018)" title="Qué León 2018">
+<a href="https://www.pelisplay.tv/pelicula/que-leon">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Qué León (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Qué León (2018)</div>
+<div class="Description"> <div>"Que León" narra la historia de amor de Nicole y José Miguel. Ambos por coincidencia de apellido León, pero de clase social muy distinta, se enamoran,...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+810 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Frank Perozo
+</div>
+<div class="tipcategorias">
+<span>Comedia</span>
+<span>Romance</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/que-leon">
+<h4 class="name-movie"><strong>Qué León</strong></h4>
+</a>
+<h5 class="category-movie">Comedia</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0b225ba1d_mini-xickd7sH1qpYrEELaR3UiWXtblE.jpg" alt="Promesa sangrienta (2009)" title="Promesa sangrienta 2009">
+<a href="https://www.pelisplay.tv/pelicula/promesa-sangrienta">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Promesa sangrienta (2009)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.8</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Promesa sangrienta (2009)</div>
+<div class="Description"> <div>Isiah Bone, un ex-presidiario es la nueva promesa del undo de las peleas callejeras clandestinas de Los Angeles. Cuando derrota al campeón actual, el...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.8)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+458 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Ben Ramsey
+</div>
+<div class="tipcategorias">
+<span>Acción</span>
+<span>Drama</span>
+<span>Suspense</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/promesa-sangrienta">
+<h4 class="name-movie"><strong>Promesa sangrienta</strong></h4>
+</a>
+<h5 class="category-movie">Acción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0b2188c41_mini-9qbt1xLZoC4fDNLypckoPErPWBB.jpg" alt="Orígenes (2014)" title="Orígenes 2014">
+<a href="https://www.pelisplay.tv/pelicula/origenes">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Orígenes (2014)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+ <div class="Title">Orígenes (2014)</div>
+<div class="Description"> <div>Ian Gray, un estudiante de biología molecular especializado en la evolución del ojo humano, conoce a una misteriosa mujer cuyo iris es multicolor. Año...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+641 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Director: Mike Cahill
+</div>
+<div class="tipcategorias">
+<span>Ciencia ficción</span>
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/origenes">
+<h4 class="name-movie"><strong>Orígenes</strong></h4>
+</a>
+<h5 class="category-movie">Ciencia ficción</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5caf0b201fcd7_mini-ms9WEALWyumQ80Zkkb94gyUsjIZ.jpg" alt="Moneyball: Rompiendo las reglas (2011)" title="Moneyball: Rompiendo las reglas 2011">
+<a href="https://www.pelisplay.tv/pelicula/moneyball-rompiendo-las-reglas">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Moneyball: Rompiendo las reglas (2011)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Moneyball: Rompiendo las reglas (2011)</div>
+<div class="Description"> <div>Billy Beane (Brad Pitt) es el gerente general del equipo de béisbol Atléticos de Oakland, que acaba de perder otra temporada más. Decidido a relanzar...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+179 visitas
+</div>
+<div class="otros">
+ <i class="fas fa fa-film"></i>
+Director: Bennett Miller
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/pelicula/moneyball-rompiendo-las-reglas">
+<h4 class="name-movie"><strong>Moneyball: Rompiendo las reglas</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+</ul>
+</div>
+<div class="movie-footer">
+<div class="content">
+<a href="https://www.pelisplay.tv/ver-peliculas?filtro=fecha_creacion" class="btn pull-right btn-more">Más</a>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+<div class="resCarousel postersizes ResHover special" style="padding-bottom: 5px !important;padding-top: 5px !important;">
+<div>
+<div class="content">
+<header class="titulo p title-border-botton">
+<h2>
+<i class="ico-video-player"></i>
+VER SERIES ONLINE DE ESTRENO
+</h2>
+<div class="control">
+<a href="" class="leftRs fa fa-chevron-left a"></a>
+<a href="" class="rightRs fa fa-chevron-right b"></a>
+</div>
+</header>
+</div>
+</div>
+<div class="content">
+<ul class="carrusel_entradas owl-carousel resCarousel-inner thumbnails movie-carrusel">
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca7c88c913c6_mini-dyktLijhV8QY65cAqGIir2PjOc5.jpg" alt="Arenas Movedizas (2019)" title="Arenas Movedizas 2019">
+<a href="https://www.pelisplay.tv/serie/arenas-movedizas">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Arenas Movedizas (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">0.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Arenas Movedizas (2019)</div>
+<div class="Description"> <div>Después de que una tragedia en un centro escolar conmocione a un barrio rico de Estocolmo, una adolescente aparentemente equilibrada acaba acusada de...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (0.0)  
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+13,769 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Desconocido
+</div>
+<div class="tipcategorias">
+<span>Crimen</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/arenas-movedizas">
+<h4 class="name-movie"><strong>Arenas Movedizas</strong></h4>
+</a>
+<h5 class="category-movie">Crimen</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c67979cc49a0_mini-uYHdIs5O8tiU5p6MvUPd2jElOH6.jpg" alt="The Umbrella Academy (2019)" title="The Umbrella Academy 2019">
+<a href="https://www.pelisplay.tv/serie/the-umbrella-academy">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">The Umbrella Academy (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">9.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">The Umbrella Academy (2019)</div>
+<div class="Description"> <div>Un grupo disuelto de superhéroes se reúne después de que su padre adoptivo, quien los entrenó para salvar el mundo, muere.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (9.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+184,338 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Steve Blackman
+</div>
+<div class="tipcategorias">
+<span>Aventura</span>
+<span>Estrenos 2019</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/the-umbrella-academy">
+<h4 class="name-movie"><strong>The Umbrella Academy</strong></h4>
+</a>
+<h5 class="category-movie">Aventura</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c63ac3ad38a9_mini-5nSSkcM3TgpllZ7yTyBOQEgAX36.jpg" alt="Hanna (2019)" title="Hanna 2019">
+<a href="https://www.pelisplay.tv/serie/ver-hanna-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Hanna (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.8</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Hanna (2019)</div>
+<div class="Description"> <div>Este thriller y el drama de la mayoría de edad sigue el viaje de una joven extraordinaria mientras evade la incansable búsqueda de un agente de la CIA...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.8)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+88,364 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: David Farr
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver-hanna-online">
+<h4 class="name-movie"><strong>Hanna</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c4b925b5bebc_mini-rkn6ueAMK0eY5gI6HHiP4Vllbfl.jpg" alt="Kingdom (2019)" title="Kingdom 2019">
+<a href="https://www.pelisplay.tv/serie/ver--kingdom-hd--online-004">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Kingdom (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">9.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Kingdom (2019)</div>
+<div class="Description"> <div>Un apocalipsis zombie en la era de la dinastía medieval Joseon. El Príncipe Heredero de Joseon investiga una misteriosa enfermedad epidémica y descubr...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (9.0)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+100,721 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Kim Eun-hee
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--kingdom-hd--online-004">
+<h4 class="name-movie"><strong>Kingdom</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c494ec2469b2_mini-rBjs8DanHy1e591ZFp84ZqPSsC1.jpg" alt="Roswell (2019)" title="Roswell 2019">
+<a href="https://www.pelisplay.tv/serie/roswell">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Roswell (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.2</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Roswell (2019)</div>
+<div class="Description"> <div>La serie se centra en los habitantes de la ciudad de Roswell (Nuevo Mexico), en la que una serie de alienígenas viven infiltrados entre los humanos. R...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.2)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+67,521 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Carina Adly MacKenzie
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Estrenos 2019</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/roswell">
+<h4 class="name-movie"><strong>Roswell</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c3a7ed217243_mini-h4l0hILb6Fr1vwoKwv9XOk4Fx5.jpg" alt="Sex Education (2019)" title="Sex Education 2019">
+<a href="https://www.pelisplay.tv/serie/ver--sex-education-hd--online-003">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Sex Education (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Sex Education (2019)</div>
+<div class="Description"> <div>Como el inseguro de Otis (Asa Butterfield) tiene respuesta para cualquier duda sobre sexo gracias a que su madre (Gillian Anderson) es sexóloga, una c...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+350,226 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Laurie Nunn
+</div>
+<div class="tipcategorias">
+<span>Comedia</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--sex-education-hd--online-003">
+<h4 class="name-movie"><strong>Sex Education</strong></h4>
+</a>
+<h5 class="category-movie">Comedia</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c1d6c503a906_mini-gi955avqiP9bkVZ9o4ngqG6Q84d.jpg" alt="Diablero (2018)" title="Diablero 2018">
+<a href="https://www.pelisplay.tv/serie/ver-diablero-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Diablero (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Diablero (2018)</div>
+<div class="Description"> <div>Cuenta la historia del padre Ramiro Ventura, un sacerdote que busca la ayuda del legendario cazador de demonios o diablero Elvis Infante. Con la ayuda...</div>
+<div class="questions tip-questions">
+ <div class="list-star">
+Puntuación: (7.0)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+58,465 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Pablo Tébar, José Manuel Cravioto
+</div>
+<div class="tipcategorias">
+<span>Estrenos 2019</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver-diablero-online">
+<h4 class="name-movie"><strong>Diablero</strong></h4>
+</a>
+<h5 class="category-movie">Estrenos 2019</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bd25ac47ef6b_mini-yxMpoHO0CXP5o9gB7IfsciilQS4.jpg" alt="Las escalofriantes aventuras de Sabrina (2018)" title="Las escalofriantes aventuras de Sabrina 2018">
+<a href="https://www.pelisplay.tv/serie/ver--el-mundo-oscuro-de-sabrina-netflix-hd--online-001">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Las escalofriantes aventuras de Sabrina (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Las escalofriantes aventuras de Sabrina (2018)</div>
+<div class="Description"> <div>Sabrina está a punto de cumplir 16 años y se debate entre el mundo de la magia de su familia y el mundo real de sus amigos. Historia basada en el cómi...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+180,676 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Roberto Aguirre-Sacasa
+</div>
+<div class="tipcategorias">
+<span>Estrenos 2019</span>
+<span>Misterio</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--el-mundo-oscuro-de-sabrina-netflix-hd--online-001">
+<h4 class="name-movie"><strong>Las escalofriantes aventuras de Sabrina</strong></h4>
+</a>
+<h5 class="category-movie">Estrenos 2019</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bbbef3861c34_mini-w81eLVq1pBpztPrJq0RowqNDhLk.jpg" alt="Élite (2018)" title="Élite 2018">
+ <a href="https://www.pelisplay.tv/serie/ver--elite-hd--online-003">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Élite (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Élite (2018)</div>
+<div class="Description"> <div>Las Encinas, un exclusivo colegio privado al que la élite social del país envía a sus hijos. Pero en el centro son admitidos tres adolescentes de fami...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+192,581 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Carlos Caridad Montero, Darío Madrona, Miguel Herrán, María Pedraza
+</div>
+<div class="tipcategorias">
+<span>Crimen</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Misterio</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--elite-hd--online-003">
+<h4 class="name-movie"><strong>Élite</strong></h4>
+</a>
+<h5 class="category-movie">Crimen</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-QHAxAEzbetvRxgKQMsFNfey5mFEDePjxZ5KTyFyj.jpeg" alt="Vikingos (2013)" title="Vikingos 2013">
+<a href="https://www.pelisplay.tv/serie/ver-vikingos">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Vikingos (2013)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Vikingos (2013)</div>
+<div class="Description"> <div>Sigue las aventuras de Ragnar Lothbrok, el héroe más grande de su época. La serie narra las sagas de la banda de hermanos vikingos de Ragnar y su fami...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+431,377 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Michael Hirst
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver-vikingos">
+<h4 class="name-movie"><strong>Vikingos</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+</ul>
+</div>
+<div class="movie-footer">
+<div class="content">
+<a href="https://www.pelisplay.tv/series?filtro=a%C3%B1o" class="btn pull-right btn-more">Más</a>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+<div class="resCarousel postersizes ResHover special" style="padding-bottom: 5px !important;padding-top: 5px !important;">
+<div>
+<div class="content">
+<header class="titulo p title-border-botton">
+<h2>
+<i class="ico-video-player"></i>
+VER SERIES MÁS POPULARES ONLINE
+</h2>
+<div class="control">
+<a href="" class="leftRs fa fa-chevron-left a"></a>
+<a href="" class="rightRs fa fa-chevron-right b"></a>
+</div>
+</header>
+</div>
+</div>
+<div class="content">
+<ul class="carrusel_entradas owl-carousel resCarousel-inner thumbnails movie-carrusel">
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5b52c79e811c9_mini-iZ384PgGhuqMM0iBJFPjkGADKhj.jpg" alt="Juego de Tronos (2011)" title="Juego de Tronos 2011">
+<a href="https://www.pelisplay.tv/serie/ver--juego-de-tronos-hd--online-005">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Juego de Tronos (2011)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.2</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Juego de Tronos (2011)</div>
+<div class="Description"> <div>Game of Thrones es una serie que se desenvuelve en un universo
+medieval y que incluye una trama dramática llena de guerras, violencia, romance
+y sec...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.2)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,117,003 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: David Benioff, D. B. Weiss
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--juego-de-tronos-hd--online-005">
+<h4 class="name-movie"><strong>Juego de Tronos</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bc0ca68c0ce9_mini-xFpB05JnCPrIQ32ahGxxNRRSNPO.jpg" alt="Riverdale (2017)" title="Riverdale 2017">
+<a href="https://www.pelisplay.tv/serie/ver--riverdale-hd--online-005">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Riverdale (2017)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.2</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Riverdale (2017)</div>
+<div class="Description"> <div>La vida tranquila y convencional de los estudiantes de Riverdale da un giro cuando el alumno más popular del instituto aparece asesinado.
+"Riverdale"...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.2)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+662,371 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Roberto Aguirre-Sacasa
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+ </div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--riverdale-hd--online-005">
+<h4 class="name-movie"><strong>Riverdale</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-6JeimMCxnjejXwRwoykr26zuGUcgwWdc1vncDM4q.jpeg" alt="The Walking Dead (2010)" title="The Walking Dead 2010">
+<a href="https://www.pelisplay.tv/serie/ver-the-walking-dead">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">The Walking Dead (2010)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+ <span class="qualification">7.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">The Walking Dead (2010)</div>
+<div class="Description"> <div>"The Walking Dead" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en z...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+601,978 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Frank Darabont
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver-the-walking-dead">
+<h4 class="name-movie"><strong>The Walking Dead</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bb467ee99f1c_mini-ooBGRQBdbGzBxAVfExiO8r7kloA.jpg" alt="La teoría del Big Bang (2007)" title="La teoría del Big Bang 2007">
+<a href="https://www.pelisplay.tv/serie/ver--the-big-bang-theory-hd--online-005">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">La teoría del Big Bang (2007)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.8</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">La teoría del Big Bang (2007)</div>
+<div class="Description"> <div>The Big Bang Theory se centra en la vida de cinco personajes que residen en Pasadena, California: los compañeros de piso Leonard Hofstadter y Sheldon...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.8)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+509,477 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Chuck Lorre, Bill Prady
+</div>
+<div class="tipcategorias">
+<span>Comedia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--the-big-bang-theory-hd--online-005">
+<h4 class="name-movie"><strong>La teoría del Big Bang</strong></h4>
+</a>
+<h5 class="category-movie">Comedia</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-QHAxAEzbetvRxgKQMsFNfey5mFEDePjxZ5KTyFyj.jpeg" alt="Vikingos (2013)" title="Vikingos 2013">
+<a href="https://www.pelisplay.tv/serie/ver-vikingos">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Vikingos (2013)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Vikingos (2013)</div>
+<div class="Description"> <div>Sigue las aventuras de Ragnar Lothbrok, el héroe más grande de su época. La serie narra las sagas de la banda de hermanos vikingos de Ragnar y su fami...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+ <i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+431,377 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Michael Hirst
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver-vikingos">
+<h4 class="name-movie"><strong>Vikingos</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bc0e27c39258_mini-m4J3oK2Zh61Pg8NxX3zanW4joau.jpg" alt="Anatomía de Grey (2005)" title="Anatomía de Grey 2005">
+<a href="https://www.pelisplay.tv/serie/ver--anatomia-de-grey-hd--online-004">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Anatomía de Grey (2005)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Anatomía de Grey (2005)</div>
+<div class="Description"> <div>La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredit...</div>
+ <div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+392,099 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Shonda Rhimes
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--anatomia-de-grey-hd--online-004">
+<h4 class="name-movie"><strong>Anatomía de Grey</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c3a7ed217243_mini-h4l0hILb6Fr1vwoKwv9XOk4Fx5.jpg" alt="Sex Education (2019)" title="Sex Education 2019">
+<a href="https://www.pelisplay.tv/serie/ver--sex-education-hd--online-003">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Sex Education (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.6</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Sex Education (2019)</div>
+<div class="Description"> <div>Como el inseguro de Otis (Asa Butterfield) tiene respuesta para cualquier duda sobre sexo gracias a que su madre (Gillian Anderson) es sexóloga, una c...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.6)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+350,226 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Laurie Nunn
+</div>
+<div class="tipcategorias">
+<span>Comedia</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--sex-education-hd--online-003">
+<h4 class="name-movie"><strong>Sex Education</strong></h4>
+</a>
+<h5 class="category-movie">Comedia</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bc10b3d5fa67_mini-z1K4mJwISETia59rrnMdXxzoSrZ.jpg" alt="The Good Doctor (2017)" title="The Good Doctor 2017">
+<a href="https://www.pelisplay.tv/serie/ver--the-good-doctor-hd--online-003">
+<div class="info">
+ <div class="info_poster">
+<p class="description_poster">The Good Doctor (2017)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.7</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">The Good Doctor (2017)</div>
+<div class="Description"> <div>Shaun Murphy, un joven cirujano residente que padece autismo y síndrome de Savant, conocido también como el síndrome del sabio, una enfermedad que le...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.7)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+336,541 visitas
+</div>
+ <div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: David Shore
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--the-good-doctor-hd--online-003">
+<h4 class="name-movie"><strong>The Good Doctor</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bde215114235_mini-gdkkBruycNl9NlHFnxRuqVHfsvt.jpg" alt="El mentalista (2008)" title="El mentalista 2008">
+<a href="https://www.pelisplay.tv/serie/el-mentalista">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">El mentalista (2008)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">El mentalista (2008)</div>
+<div class="Description"> <div>El mentalista es una serie policiaca americana sobre Patrick Jane, ex médium, que trabaja de asesor para la Oficina de Investigación de California (Ca...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+265,073 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Bruno Heller
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/el-mentalista">
+<h4 class="name-movie"><strong>El mentalista</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bbe2bebea527_mini-uGuiFeiiCpFTY48gpbC3YFF5VPD.jpg" alt="Vis a vis (2015)" title="Vis a vis 2015">
+<a href="https://www.pelisplay.tv/serie/vis-a-vis">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Vis a vis (2015)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.2</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Vis a vis (2015)</div>
+<div class="Description"> <div>“VIS A VIS” narra la historia de una joven, Macarena, recluida en una cárcel de mujeres.
+Ella se muestra aterrorizada ante su inminente ingreso en...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.2)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+250,855 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Esther Martínez Lobato, Iván Escobar, Álex Pina, Daniel Écija
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/vis-a-vis">
+<h4 class="name-movie"><strong>Vis a vis</strong></h4>
+</a>
+ <h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-JYmDIX9QnKoPZJ0OqdrFUREPLCbsTJuqmyTx9Amd.jpeg" alt="The Flash (2014)" title="The Flash 2014">
+<a href="https://www.pelisplay.tv/serie/ver--the-flash-hd--online-005">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">The Flash (2014)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.7</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">The Flash (2014)</div>
+<div class="Description"> <div>Después de que un acelerador de partículas cause una extraña tormenta, al investigador científico de la policía, Barry Allen, le cae un rayo y entra e...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.7)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+214,851 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Geoff Johns, Andrew Kreisberg, Greg Berlanti
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--the-flash-hd--online-005">
+<h4 class="name-movie"><strong>The Flash</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bff28c42505e_mini-3iFm6Kz7iYoFaEcj4fLyZHAmTQA.jpg" alt="Sobrenatural (2005)" title="Sobrenatural 2005">
+<a href="https://www.pelisplay.tv/serie/ver--sobrenatural-hd--online-004">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Sobrenatural (2005)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.2</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Sobrenatural (2005)</div>
+<div class="Description"> <div>Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los c...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.2)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+206,077 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Eric Kripke
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--sobrenatural-hd--online-004">
+<h4 class="name-movie"><strong>Sobrenatural</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_mini-k5txbPxPfec5boeXEKvbNuDqFIq5fQVCi2iiag76.jpeg" alt="American Horror Story (2011)" title="American Horror Story 2011">
+<a href="https://www.pelisplay.tv/serie/ver-american-horror-story-hd-online">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">American Horror Story (2011)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">American Horror Story (2011)</div>
+<div class="Description"> <div>American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una t...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.0)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+ <i class="fas fa fa-eye"></i>
+195,061 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Ryan Murphy, Brad Falchuk
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver-american-horror-story-hd-online">
+<h4 class="name-movie"><strong>American Horror Story</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5bbbef3861c34_mini-w81eLVq1pBpztPrJq0RowqNDhLk.jpg" alt="Élite (2018)" title="Élite 2018">
+<a href="https://www.pelisplay.tv/serie/ver--elite-hd--online-003">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Élite (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Élite (2018)</div>
+<div class="Description"> <div>Las Encinas, un exclusivo colegio privado al que la élite social del país envía a sus hijos. Pero en el centro son admitidos tres adolescentes de fami...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+192,581 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Carlos Caridad Montero, Darío Madrona, Miguel Herrán, María Pedraza
+</div>
+<div class="tipcategorias">
+<span>Crimen</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Misterio</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver--elite-hd--online-003">
+<h4 class="name-movie"><strong>Élite</strong></h4>
+</a>
+<h5 class="category-movie">Crimen</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5c096deeec9a2_mini-2k78NzbfOuSeJYSSV7RmYBlgiOc.jpg" alt="Nicky Jam (2018)" title="Nicky Jam 2018">
+<a href="https://www.pelisplay.tv/serie/nicky-jam-el-ganador">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Nicky Jam (2018)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">10.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Nicky Jam (2018)</div>
+<div class="Description"> <div>Nicky Jam, estrella del reggaeton, comparte su lucha para salir de las drogas y su camino al éxito internacional en esta serie basada en su historia.</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (10.0)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+189,870 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Desconocido
+</div>
+<div class="tipcategorias">
+<span>Documental</span>
+<span>Drama</span>
+<span>Estrenos 2018</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/nicky-jam-el-ganador">
+<h4 class="name-movie"><strong>Nicky Jam</strong></h4>
+</a>
+<h5 class="category-movie">Documental</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+</ul>
+</div>
+<div class="movie-footer">
+<div class="content">
+<a href="https://www.pelisplay.tv/series?filtro=visitas" class="btn pull-right btn-more">Más</a>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+<div class="resCarousel postersizes ResHover special" style="padding-bottom: 5px !important;padding-top: 5px !important;">
+<div>
+<div class="content">
+<header class="titulo p title-border-botton">
+<h2>
+<i class="ico-video-player"></i>
+SERIES ONLINE AGREGADAS RECIENTEMENTE
+</h2>
+<div class="control">
+<a href="" class="leftRs fa fa-chevron-left a"></a>
+<a href="" class="rightRs fa fa-chevron-right b"></a>
+</div>
+</header>
+</div>
+</div>
+<div class="content">
+<ul class="carrusel_entradas owl-carousel resCarousel-inner thumbnails movie-carrusel">
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5cae95fe4e24d_mini-4RrdeC1L8Nvs2X7KsnKGbosIItV.jpg" alt="Hora de aventuras (2010)" title="Hora de aventuras 2010">
+<a href="https://www.pelisplay.tv/serie/hora-de-aventuras">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Hora de aventuras (2010)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Hora de aventuras (2010)</div>
+<div class="Description"> <div>Finn un chico de doce años, fue encontrado en el bosque siendo un bebé por un perro de la familia, y su mejor amigo y hermano adoptivo es Jake, un per...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,398 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Pendleton Ward
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Comedia</span>
+<span>Fantasía</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/hora-de-aventuras">
+<h4 class="name-movie"><strong>Hora de aventuras</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5cad7a0496c3c_mini-7uTOXAxYVx4H3FBSotsPGE5ulti.jpg" alt="Más allá del jardín (2014)" title="Más allá del jardín 2014">
+<a href="https://www.pelisplay.tv/serie/mas-alla-del-jardin">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Más allá del jardín (2014)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Más allá del jardín (2014)</div>
+<div class="Description"> <div>Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,825 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Patrick McHale
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Comedia</span>
+<span>Familia</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/mas-alla-del-jardin">
+<h4 class="name-movie"><strong>Más allá del jardín</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca90fddc7b4b_mini-fpyAGmg0pROMgvy42Tidl6FtOJo.jpg" alt="Death Note (2006)" title="Death Note 2006">
+<a href="https://www.pelisplay.tv/serie/death-note-2">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Death Note (2006)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.2</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Death Note (2006)</div>
+<div class="Description"> <div>Light Yagami es un excelente estudiante japonés que ha tenido una vida un tanto aburrida. Esto cambia radicalmente cuando encuentra tirado en el patio...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.2)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+5,714 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Desconocido
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/death-note-2">
+<h4 class="name-movie"><strong>Death Note</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+ </div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca8fe81262d9_mini-3j3UjcLALCKMD0lc8QeAwnjs8P5.jpg" alt="Revenge (2011)" title="Revenge 2011">
+<a href="https://www.pelisplay.tv/serie/revenge-2">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Revenge (2011)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.9</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Revenge (2011)</div>
+<div class="Description"> <div>Emily Thorne, cuyo verdadero nombre es Amanda Clarke, regresa a Los Hamptons para vengarse de las personas que causaron la muerte de su padre, David C...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.9)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+3,936 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Mike Kelley
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/revenge-2">
+<h4 class="name-movie"><strong>Revenge</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca7c88c913c6_mini-dyktLijhV8QY65cAqGIir2PjOc5.jpg" alt="Arenas Movedizas (2019)" title="Arenas Movedizas 2019">
+<a href="https://www.pelisplay.tv/serie/arenas-movedizas">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Arenas Movedizas (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">0.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Arenas Movedizas (2019)</div>
+<div class="Description"> <div>Después de que una tragedia en un centro escolar conmocione a un barrio rico de Estocolmo, una adolescente aparentemente equilibrada acaba acusada de...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (0.0)  
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+13,769 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Desconocido
+</div>
+<div class="tipcategorias">
+<span>Crimen</span>
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/arenas-movedizas">
+<h4 class="name-movie"><strong>Arenas Movedizas</strong></h4>
+</a>
+<h5 class="category-movie">Crimen</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca7b5f7e6c3a_mini-42At9ZbMmimCUsWIwFbJMSiI2QL.jpg" alt="Fringe (Al límite) (2008)" title="Fringe (Al límite) 2008">
+<a href="https://www.pelisplay.tv/serie/fringe-al-limite">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Fringe (Al límite) (2008)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Fringe (Al límite) (2008)</div>
+<div class="Description"> <div>Fringe (en España Fringe: Al límite, también conocida por sus títulos alternativos Fringe: La gran conspiración y Ciencia al límite) es una serie de c...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+3,647 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: J.J. Abrams, Alex Kurtzman, Roberto Orci
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Misterio</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/fringe-al-limite">
+<h4 class="name-movie"><strong>Fringe (Al límite)</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca55e7575aea_mini-rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" alt="Allí abajo (2015)" title="Allí abajo 2015">
+<a href="https://www.pelisplay.tv/serie/alli-abajo">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Allí abajo (2015)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">5.8</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Allí abajo (2015)</div>
+<div class="Description"> <div>La serie gira en torno a Iñaki, un vasco de cuarenta años que nunca ha salido del País Vasco. Vive con su madre, Maritxu, la clásica matriarca vasca,...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (5.8)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+ <i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+3,038 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Aitor Gabilondo, César Benítez, Óscar Terol
+</div>
+<div class="tipcategorias">
+<span>Comedia</span>
+<span>Familia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/alli-abajo">
+<h4 class="name-movie"><strong>Allí abajo</strong></h4>
+</a>
+<h5 class="category-movie">Comedia</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca429ebcaf1f_mini-k2D7iNM612FfCg25VdwiA53tjiO.jpg" alt="Star Wars: Las guerras Clon (2008)" title="Star Wars: Las guerras Clon 2008">
+<a href="https://www.pelisplay.tv/serie/star-wars-las-guerras-clon">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Star Wars: Las guerras Clon (2008)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Star Wars: Las guerras Clon (2008)</div>
+<div class="Description"> <div>La escasa tropa Jedi lucha por mantener la libertad y devolver la paz a la Galaxia frente al aparentemente interminable ejército droide, clones diseña...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+4,801 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: George Lucas
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/star-wars-las-guerras-clon">
+<h4 class="name-movie"><strong>Star Wars: Las guerras Clon</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca41abf5fbaa_mini-ew7So0ctbwdv7DOEPiYKBtaXDtw.jpg" alt="Reign (2013)" title="Reign 2013">
+<a href="https://www.pelisplay.tv/serie/reign">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Reign (2013)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">6.4</span>
+</div>
+</div>
+</a>
+ <div class="tip">
+<div class="Title">Reign (2013)</div>
+<div class="Description"> <div>María de Escocia (Adelaide Kane) llega a Francia a los 15 años para prometerse con el príncipe Francisco. La acompañan como damas de honor sus tres me...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (6.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+5,908 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Laurie McCarthy, Stephanie Sengupta
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+ </div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/reign">
+<h4 class="name-movie"><strong>Reign</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca4165ad113f_mini-5Ss35qlBJtDU9NO2RBfO0hejHMv.jpg" alt="El sabor de las margaritas (2019)" title="El sabor de las margaritas 2019">
+<a href="https://www.pelisplay.tv/serie/el-sabor-de-las-margaritas">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">El sabor de las margaritas (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">0.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">El sabor de las margaritas (2019)</div>
+<div class="Description"> <div>Una agente de la Guardia Civil descubre que la pérdida de alguien cercano está relacionada con la desaparición de una adolescente en una aldea gallega...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (0.0)  
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+3,861 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Desconocido
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+<span>Estrenos 2019</span>
+<span>Netflix</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/el-sabor-de-las-margaritas">
+<h4 class="name-movie"><strong>El sabor de las margaritas</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca1b632bf0ce_mini-hZZpqv9bKo9tUMmQY54HIJcgyqx.jpg" alt="Formula 1 La Emocion De Un Grand Prix (2019)" title="Formula 1 La Emocion De Un Grand Prix 2019">
+<a href="https://www.pelisplay.tv/serie/formula-1-la-emocion-de-un-grand-prix">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Formula 1 La Emocion De Un Grand Prix (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.3</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Formula 1 La Emocion De Un Grand Prix (2019)</div>
+<div class="Description"> <div>Serie documental sobre el mundo de la Fórmula 1 de los productores de Senna y Amy. Se centrará en la vida personal de los corredores, sus familias, am...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.3)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+2,761 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Desconocido
+</div>
+<div class="tipcategorias">
+<span>Documental</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/formula-1-la-emocion-de-un-grand-prix">
+<h4 class="name-movie"><strong>Formula 1 La Emocion De Un Grand Prix</strong></h4>
+</a>
+<h5 class="category-movie">Documental</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca1a2b86ee24_mini-tlbS1mqX2x5lVSyuxfTwDPwnTmD.jpg" alt="Downton Abbey (2010)" title="Downton Abbey 2010">
+<a href="https://www.pelisplay.tv/serie/downton-abbey">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Downton Abbey (2010)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.1</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Downton Abbey (2010)</div>
+<div class="Description"> <div>Serie británica que se desarrolla en el año 1912, durante el reinado de Jorge V, y que retrata a la sociedad aristocrática de aquella época y sus liti...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.1)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+3,500 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Julian Fellowes
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/downton-abbey">
+<h4 class="name-movie"><strong>Downton Abbey</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca18d05c4b9e_mini-9eIdiX55bH9ITGtrZzUnEIydjpH.jpg" alt="El accidente (2017)" title="El accidente 2017">
+<a href="https://www.pelisplay.tv/serie/el-accidente">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">El accidente (2017)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">7.5</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">El accidente (2017)</div>
+<div class="Description"> <div>José un modélico padre y esposo al frente de una pequeña empresa familiar, se embarca supuestamente en un avión que sufre un accidente del que no han...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (7.5)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+1,886 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Desconocido
+</div>
+<div class="tipcategorias">
+<span>Drama</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/el-accidente">
+<h4 class="name-movie"><strong>El accidente</strong></h4>
+</a>
+<h5 class="category-movie">Drama</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca165d820107_mini-rQ51vGPdgOX9Dob29zQuLaV5I6A.jpg" alt="Ella es tu padre (2017)" title="Ella es tu padre 2017">
+<a href="https://www.pelisplay.tv/serie/ella-es-tu-padre">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Ella es tu padre (2017)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">0.0</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Ella es tu padre (2017)</div>
+<div class="Description"> <div>Dos rockeros en horas bajas que vuelven a convivir como un matrimonio que intenta ayudarse a salir del bache: Sergio ha perdido su familia, Tomy su cr...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (0.0)  
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+2,454 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: David Fernández, David Abajo
+ </div>
+<div class="tipcategorias">
+<span>Comedia</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ella-es-tu-padre">
+<h4 class="name-movie"><strong>Ella es tu padre</strong></h4>
+</a>
+<h5 class="category-movie">Comedia</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+<li class="item">
+<figure>
+<div class="movie">
+<div class="details-movie movie">
+<div class="details-movie-image poster">
+<img class="posterentrada owl-lazy" data-src="/storage/imagenes/posters/opt_img_5ca15ecc73fc5_mini-rlrRI2b6RvM9I9xOBTKqcTaehkE.jpg" alt="Love, Death + Robots (2019)" title="Love, Death + Robots 2019">
+<a href="https://www.pelisplay.tv/serie/ver-love-death-robots">
+<div class="info">
+<div class="info_poster">
+<p class="description_poster">Love, Death + Robots (2019)</p>
+<div class="origin"><img src="/static/img/imdb.png"></div>
+<span class="qualification">8.4</span>
+</div>
+</div>
+</a>
+<div class="tip">
+<div class="Title">Love, Death + Robots (2019)</div>
+<div class="Description"> <div>Seres terroríficos, sorpresas retorcidas y humor negro convergen en esta antología de relatos animados para adultos presentada por Tim Miller y David...</div>
+<div class="questions tip-questions">
+<div class="list-star">
+Puntuación: (8.4)  
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star-active"></i>
+<i class="icon-star star"></i>
+</div>
+<div class="otros">
+<i class="fas fa fa-eye"></i>
+8,459 visitas
+</div>
+<div class="otros">
+<i class="fas fa fa-film"></i>
+Creador: Tim Miller, David Fincher
+</div>
+<div class="tipcategorias">
+<span>Animación</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="posterpie">
+<a href="https://www.pelisplay.tv/serie/ver-love-death-robots">
+<h4 class="name-movie"><strong>Love, Death + Robots</strong></h4>
+</a>
+<h5 class="category-movie">Animación</h5>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</figure>
+</li>
+</ul>
+</div>
+<div class="movie-footer">
+<div class="content">
+<a href="https://www.pelisplay.tv/series?filtro=fecha_creacion" class="btn pull-right btn-more">Más</a>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="content">
+<div class="col-xs-6 col-md-6 item-footer">
+<h4>Información util</h4>
+<ul class="menu-links">
+<li><a href="https://www.pelisplay.tv/pagina/politica-de-privacidad">Política de Privacidad</a></li>
+<li><a href="https://www.pelisplay.tv/pagina/condiciones-de-uso">Condiciones de Uso</a></li>
+<li><a href="https://www.pelisplay.tv/pagina/dmca">DMCA</a></li>
+
+</ul>
+</div>
+<div class="col-xs-6 col-md-3 item-footer">
+<h4>Servicios</h4>
+<ul class="menu-links">
+<li><a href="https://www.facebook.com/PelisPlay" target="_blank">Facebook</a></li>
+<li><a href="https://www.youtube.com/channel/UCs5BzJxxH5CWPbPqw5Hzowg" target="_blank">Youtube</a></li>
+
+</ul>
+</div>
+<div class="col-xs-12 col-md-3 suscribe-footer">
+<div class="footer-suscribe-content">
+<div class="suscribe-title">
+<h5>
+
+<i></i>
+CONTACTANOS
+</h5>
+</div>
+<div class="suscribe-search">
+<form class="" action="https://www.pelisplay.tv/contacto" method="get">
+<div class="input-group suscribe-search-content">
+<input name="email" class="form-control" placeholder="E-mail" type="email" required>
+<div class="input-group-btn group-btn-suscribe-search">
+<button type="submit" class="btn btn-primary btn-suscribe">Enviar</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="copyright">
+<div class="content">
+<div class="col-xs-12 col-md-6 copyright-content">
+© 2019 PelisPlay.Tv | Todos los derechos son reservados
+</div>
+<div class="col-xs-12 col-md-6 copyright-design text-right">
+<span>Desarrollado por: PelisPlay</span>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</footer>
+<div class="modal fade" id="LoginRegistro" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="col-md-6 col-md-offset-3">
+<div class="panel panel-login">
+<div class="panel-body">
+<div class="cerrar_btn"><i class="fa fa-times"></i></div>
+<div class="row">
+<div class="col-lg-12">
+<div class="facebooklogin_div">
+<p>Ingresa mediante tu cuenta de Facebook</p>
+<a class="btn btn-primary" href="https://www.pelisplay.tv/usuario/facebooklogin"><i class="fab fa fa-facebook"></i> Ingresar con Facebook</a>
+<p>o</p>
+</div>
+<form id="login-form" data-token="gaKKv2Yb7ROh2ifAc8HIYsyM4Y3FDgpAGDZdrxz9" action="https://www.pelisplay.tv/usuario/login" method="post" role="form" style="display: block;">
+<h2>INGRESAR A MI CUENTA</h2>
+<div class="login_registro_errores">
+<ul>
+</ul>
+</div>
+<div class="form-group">
+<input type="text" name="usuario" id="username_login" tabindex="1" class="form-control input-acceso" placeholder="Nombre de usuario..." value="">
+</div>
+<div class="form-group">
+<input type="password" name="password" id="password_login" tabindex="2" class="form-control input-acceso" placeholder="Contraseña...">
+</div>
+<div class="col-xs-12 col-md-6 form-group pull-left checkbox">
+<input id="checkbox_login" type="checkbox" name="remember">
+<label for="checkbox_login">Recordarme</label>
+<br>
+<a id="enlace_recuperar" href="#"><i class="fa fa-key"></i> <span>Recuperar contraseña</span></a>
+</div>
+<div class="col-xs-12 col-md-6 form-group pull-right">
+<input type="submit" id="login-submit" tabindex="4" class="form-control btn btn-login" value="INGRESAR">
+</div>
+</form>
+<form id="register-form" data-token="gaKKv2Yb7ROh2ifAc8HIYsyM4Y3FDgpAGDZdrxz9" action="https://www.pelisplay.tv/usuario/registro" method="post" role="form" style="display: none;">
+<h2>REGISTRAR CUENTA</h2>
+<div class="login_registro_errores">
+<ul>
+</ul>
+</div>
+<div class="form-group">
+<input type="text" name="usuario" id="usuario_registro" tabindex="1" class="form-control input-acceso" placeholder="Nombre de usuario..." value="">
+</div>
+<div class="form-group">
+<input type="text" name="nombre" id="nombre_registro" tabindex="1" class="form-control input-acceso" placeholder="Nombre real..." value="">
+</div>
+<div class="form-group">
+<input type="text" name="email" id="email_registro" tabindex="1" class="form-control input-acceso" placeholder="Correo electronico..." value="">
+</div>
+<div class="form-group">
+<input type="password" name="password" id="password_registro" tabindex="2" class="form-control input-acceso" placeholder="Contraseña...">
+</div>
+<div class="form-group">
+<input type="password" name="password_confirmation" id="password_confirmation_registro" tabindex="2" class="form-control input-acceso" placeholder="Confirme su contraseña...">
+</div>
+<div class="form-group">
+<div class="row">
+<div class="col-sm-6 col-sm-offset-3">
+<input type="submit" name="register-submit" id="register-submit" tabindex="4" class="form-control btn btn-register" value="REGISTRARSE">
+</div>
+</div>
+</div>
+</form>
+<form id="recovery-form" data-token="gaKKv2Yb7ROh2ifAc8HIYsyM4Y3FDgpAGDZdrxz9" action="https://www.pelisplay.tv/password/email" method="post" role="form" style="display: none;">
+<h2>RECUPERAR CONTRASEÑA</h2>
+<div class="login_registro_errores">
+<ul>
+</ul>
+</div>
+<div class="form-group">
+<input type="text" name="email" id="recovery_email" tabindex="1" class="form-control input-acceso" placeholder="E-mail..." value="">
+</div>
+<div class="form-group">
+<div class="row">
+<div class="col-sm-6 col-sm-offset-3">
+<input type="submit" name="recovery-submit" id="recovery-submit" tabindex="4" class="form-control btn btn-register" value="RECUPERAR CONTRASEÑA">
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="panel-heading">
+<div class="row">
+<div class="col-xs-6 tabs">
+<a href="#" class="active" id="login-form-link"><div class="login">INGRESAR</div></a>
+</div>
+<div class="col-xs-6 tabs">
+<a href="#" id="register-form-link"><div class="register">REGISTRARSE</div></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="searchajax_cont" data-token="gaKKv2Yb7ROh2ifAc8HIYsyM4Y3FDgpAGDZdrxz9">
+<div class="content">
+<div class="cerrar_btn"><i class="fa fa-times" aria-hidden="true"></i></div>
+<header class="titulo p" style="display: block;">
+<h2 style="display: block;">
+<i class="fa fa-search"></i>
+Buscar: <span class="titulo_busqueda"></span>
+</h2>
+<div class="menu_tipo">
+<span data-filtro="all" class="menu_tipo_item activo">Todos</span>
+<span data-filtro="pelicula" class="menu_tipo_item">Películas</span>
+<span data-filtro="serie" class="menu_tipo_item">Series</span>
+</div>
+</header>
+</div>
+<div class="sinCarousel ResHover" style="padding: 0px;">
+<div class="content">
+<ul class="sinCarousel-inner thumbnails movie-carrusel" style="margin-top: 0px;">
+</ul>
+<div class="ajax_buscador_error">
+<span><i class="fa fa-times" aria-hidden="true"></i> No se encontró resultados...</span>
+ </div>
+</div>
+</div>
+</div>
+<div id="scrim" class="drawer-scope-nav app-drawer"></div>
+<script src="/static/js/jquery.min.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/bootstrap/bootstrap.min.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/js.min.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/functions.js?v=23.01.2019.1.12"></script>
+<script src="/static/js/owl.carousel.min.js?v=23.01.2019.1.12"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122655143-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122655143-1');
+</script>
+<img style="display:none" src="https://whos.amung.us/swidget/pelispedia7.png" />
+<script type="text/javascript">
+    var ad_idzone = "162",
+    ad_popup_fallback = false,
+    ad_popup_force = true,
+    ad_new_tab = true,
+    ad_frequency_period = 1440,
+    ad_frequency_count = 3,
+    ad_trigger_method = 1;
+</script>
+<script type="text/javascript" src="https://ads.optimizesrv.com/popunder1000.js"></script>
+<style>
+            #facebook_like{
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                z-index: 2;
+                border-radius: 6px;
+                background: white;
+                -webkit-box-shadow: 0 0 20px #018cd1;
+                box-shadow: 0 0 20px #018cd1;
+                display: none;
+            }
+
+            #facebook_like .cerrar_like{
+                position: absolute;
+                color: #3ed1f0;
+                right: -10px;
+                top: -10px;
+                cursor: pointer;
+                font-size: 13px;
+                z-index: 1;
+            }
+        </style>
+<div id="facebook_like">
+<div class="cerrar_like" title="Cerrar"><i class="fas fa fa-times-circle" aria-hidden="true"></i></div>
+
+<div id="fb-root"></div>
+<script>
+
+
+                    (function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.2';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));
+
+                    window.addEventListener( 'load', function( event ) {
+                        var facebook_like = document.getElementById("facebook_like");
+                        FB.init({
+                            appId: '1861954284075558',
+                            xfbml: true,
+                            version: 'v3.2'
+                        });
+                        FB.getLoginStatus(
+                            function (response) {
+                                if (response.status === 'connected') {
+                                    if(facebook_like){
+                                        facebook_like.style.display = 'block';
+                                    }
+                                } else if (response.status === 'not_authorized') {
+                                    if(facebook_like){
+                                        facebook_like.style.display = 'block';
+                                    }
+                                } else {
+                                }
+                            }
+                        );
+                    });
+
+                </script>
+<div class="fb-like" data-href="https://www.facebook.com/PelisPlay" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+</div>
+<script>
+            document.addEventListener('DOMContentLoaded', function() {
+
+                var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+
+                if(is_chrome) {
+                    if(Notification.permission !== 'granted') {
+                        Notification.requestPermission().then(function(permission) {
+                            if(permission === 'granted' && 'serviceWorker' in navigator) {
+                                navigator.serviceWorker.register('/sw.js?v=030419-2337').then(initialiseState);
+                            } else {
+                                console.log('service worker not present');
+                            }
+                        });
+                    }
+                }
+            });
+
+            function initialiseState() {
+
+                //check if notification is supported or not
+                if(!('showNotification' in ServiceWorkerRegistration.prototype)) {
+                    console.log('Notificaiton are not supported');
+                    return;
+                }
+                //check if user has blocked push notification
+                if(Notification.permission === 'denied'){
+                    console.log('User has blocked the notification');
+                }
+                //check if push messaging is supported or not
+                if(!('PushManager' in window)) {
+                    console.log('Push messaging is not supported');
+                    return;
+                }
+
+                navigator.serviceWorker.ready
+                    .then(function(serviceWorkerRegistration) {
+                        return serviceWorkerRegistration.pushManager.subscribe({
+                            userVisibleOnly: true
+                        });
+                    })
+                    .then(function(subscription) {
+                        var token = subscription.endpoint.substring(40, subscription.endpoint.length);
+                        fetch('/web_tools/notificaciones', {
+                            method: 'POST',
+                            headers: {
+                                "Content-Type": "application/json"
+                            },
+                            body: JSON.stringify({'user_token': token, '_token': window.laravel_token})
+                        }).then(function(response) {
+                            return response.json();
+                        }).then(function(myJson) {
+                            console.log(myJson);
+                        });
+                    });
+            }
+        </script>
+</body>
+</html>
