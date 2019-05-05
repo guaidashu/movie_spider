@@ -10,5 +10,5 @@ if __name__ == "__main__":
     # get_video_src.run()
     # mv_img = MvImg()
     # mv_img.run()
-    clear_null_data = ClearNullData()
-    clear_null_data.run()
+    # clear_null_data = ClearNullData()
+    # clear_null_data.run()

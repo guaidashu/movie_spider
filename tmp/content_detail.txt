@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>Player Jw7</title>
+<script src="templates/jw7/jwplayer.js"></script>
+<style>
+		body{
+			margin:0;
+			overflow:hidden;
+		}
+		</style>
+</head>
+<body>
+<div id="player"><div>
+<script>		
+		function start_jwplayer(sources){
+			if(!!window.jwplayer){
+				if(sources){
+					var _obj = new Object;
+					_obj.sources = sources;
+										
+										//
+					
+					_obj.width = '100%';
+					_obj.height = '100%';
+                    					var player = jwplayer('player');
+					player.setup(_obj);
+				}else{
+					alert('Error: video is invalid or deleted!');
+				}
+			}else{
+				alert('Error Jwplayer not found!');
+			}
+		}
+		function get_pcloud(code){
+			var _req = new Array();
+			_req.url = 'https://my.pcloud.com/publink/show?code='+code;
+			_req.method = 'GET';
+			_req.data = new FormData();
+			_req.headers = new Array();
+			_req.callback = function(){
+				var download_uri = '';
+				var xhr = this;
+				var find_download = xhr.response.match(/"downloadlink": "(.*?)",/);
+				if(find_download){
+					if(find_download[1])
+						download_uri = find_download[1];
+				}
+				if(download_uri != ''){
+					download_uri = download_uri.replace(/\\\//g, '/');
+					start_jwplayer([{'file': download_uri, 'label': 'pCloud', 'type': 'mp4', 'default': true}]);
+				}else{
+					//error - video not found
+					start_jwplayer(false);
+				}
+			}
+			req_custom(_req);
+		}
+		function get_mediafire(code){
+			var _req = new Array();
+			_req.url = 'https://www.mediafire.com/file/'+code+'/';
+			_req.method = 'GET';
+			_req.data = new FormData();
+			_req.headers = new Array();
+			_req.callback = function(){
+				var download_uri = '';
+				var xhr = this;
+				var find_download = xhr.response.match(/kNO = "(.*?)";/);
+				if(find_download){
+					if(find_download[1])
+						download_uri = find_download[1];
+				}
+				if(download_uri != ''){
+					start_jwplayer([{'file': download_uri, 'label': 'mediaFire', 'type': 'mp4', 'default': true}]);
+				}else{
+					//error - video not found
+					start_jwplayer(false);
+				}
+			}
+			this.req_custom(_req);
+		}
+		function req_custom(_obj){
+			if(typeof _obj !== 'object')return false;
+			if(typeof _obj.beforeSend == 'function')_obj.beforeSend();
+			if(!_obj.url) return false;
+			var method = 'GET';
+			if(_obj.method) method = _obj.method;
+			var xhr = new XMLHttpRequest();
+			xhr.open(method, _obj.url, true);
+			
+			if(_obj.headers)
+			for (var _key in _obj.headers){
+				if (_obj.headers.hasOwnProperty(_key)){
+					try {
+						xhr.setRequestHeader(_key, _obj.headers[_key]);
+					}catch(e){};
+				}
+			}
+			if(typeof _obj.callback === 'function'){
+				xhr.onload = _obj.callback;
+				xhr.onerror = _obj.callback;
+			}
+			if(_obj.data)
+			xhr.send(_obj.data);
+			else
+			xhr.send();
+			return true;
+		}
+		
+		
+		
+						start_jwplayer(JSON.parse('[{"file":"https:\/\/content-na.drive.amazonaws.com\/cdproxy\/share\/2kN9JWw1oG4HDmxeUqzt8qCpKsNY0BAGvZPH3VS59CP\/nodes\/XLDA4n8kTG6FdnIETB7rfA?nonce=3m12_a6jM7CZuDx6v62bqIYRUvyj9EEyyAQDIcGO-Lr4nC6LLFuHPc6bAcHpNi0h","label":"amazon","type":"mp4","default":true}]'));		
+		
+		</script>
+</body>
+<html>
