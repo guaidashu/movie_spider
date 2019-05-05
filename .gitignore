@@ -1,5 +1,5 @@
-tool/
 .idea
 **/__pycache__
 config/secure.py
 static/images
+tool
