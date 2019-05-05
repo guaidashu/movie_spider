@@ -35,6 +35,7 @@ create table `mv_content`
 (
     `id`        int(11) NOT NULL AUTO_INCREMENT COMMENT 'primary key',
     `url`       text    NOT NULL COMMENT 'video url address',
+    `video_src` text    NOT NULL COMMENT 'video origin src address',
     `parent_id` int(11) NOT NULL COMMENT 'movie list table`s id',
     PRIMARY KEY (`id`)
 ) ENGINE = InnoDB
